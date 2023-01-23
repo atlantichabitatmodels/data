@@ -1,0 +1,73 @@
+pid,label,marine_terrestrial,link,open_closed,jurisdiction,raster_vector,_tags,data_product_type,cell_size,order,layout,collection,thumbnail,full
+input_data_1,AC CDC,Marine/Terrestrial,http://accdc.com/en/data-request.html,"Closed, datarequests@accdc.ca",,Point,Occurrence,Database,,00,data_item,data_inputs,/img/derivatives/simple/input_data_1/thumbnail.jpg,/img/derivatives/simple/input_data_1/fullwidth.jpg
+input_data_2,AquaMaps,Marine,https://www.aquamaps.org/,,,,,,,01,data_item,data_inputs,"",""
+input_data_3,BioOracle,Marine,https://www.bio-oracle.org/,,,,,,,02,data_item,data_inputs,"",""
+input_data_4,Biota of North American Program,Terrestrial,,,,,,,,03,data_item,data_inputs,"",""
+input_data_5,Boreal Avian Modelling Project,Terrestrial,https://borealbirds.ca/explore-our-data/,Open,Canada,"Point, Raster","Occurrence, Environment",Data project,,04,data_item,data_inputs,"",""
+input_data_6,Canada open data database,Marine/Terrestrial,https://search.open.canada.ca/en/od/?q=knn+modis+attributes&keywords=Forests&organization=nrcan-rncan&res_type=application&sort=,Open,Canada,"Polygon, Raster",,Database,,05,data_item,data_inputs,"",""
+input_data_7,Canada watershed boundaries (2 links: one has major and sub drainage areas),,"https://www.nrcan.gc.ca/science-and-data/science-and-research/earth-sciences/geography/topographic-information/geobase-surface-water-program-geeau/watershed-boundaries/20973, https://www.arcgis.com/home/item.html?id=12b6e33d5a754c92b97ae5d0fed6940a ",Open,Canada,Polygon,Watercourse,Dataset,,06,data_item,data_inputs,"",""
+input_data_8,Canadian GIS,,https://canadiangis.com/nova-scotia-geospatial-data.php,Open,Canada,,,Data portal,,07,data_item,data_inputs,"",""
+input_data_9,Canadian Human Footprint Index,,https://borealisdata.ca/dataset.xhtml?persistentId=doi:10.5683/SP2/EVKAVL,Open,Canada,,,Dataset,,08,data_item,data_inputs,"",""
+input_data_10,"Charles P.-A. Bourque from UNB:
+Soil Water Content, Photosynthetically Active Radiation, etc.",,,"Closed, contact Charles Bourque at …","NS, NB",Raster,,Datasets,,09,data_item,data_inputs,"",""
+input_data_11,Christmas bird count,Terrestrial,https://netapp.audubon.org/cbcobservation/?_gl=1*1mwxjtp*_ga*MTQyOTczNTE1NC4xNjczNjIyMjI5*_ga_X2XNL2MWTT*MTY3MzYyMjIyOC4xLjAuMTY3MzYyMjIyOS41OS4wLjA.&_gl=1*1mwxjtp*_ga*MTQyOTczNTE1NC4xNjczNjIyMjI5*_ga_X2X,Contact,Canada,,,Dataset,,10,data_item,data_inputs,"",""
+input_data_12,ClimateBC,Terrestrial,https://climatebc.ca/,Open,British Columbia,,,,,11,data_item,data_inputs,"",""
+input_data_13,ClimateNA,,,,,Raster,"Watercourse, Climate",Data tool,,12,data_item,data_inputs,"",""
+input_data_14,Copernicus Marine Service,Marine,https://marine.copernicus.eu/,,,,,,,13,data_item,data_inputs,"",""
+input_data_15,COSEWIC,,Critical Habitat?,,,,,,,14,data_item,data_inputs,"",""
+input_data_16,Critical Habitat for SAR in Canada (Parks Canada),,https://search.open.canada.ca/openmap/47caa405-be2b-4e9e-8f53-c478ade2ca74,,,,,,,15,data_item,data_inputs,"",""
+input_data_17,"Dalhousie GIS Center, building a portal of datasets they manage",,https://libraries.dal.ca/hours-locations/gis-centre.html,,,,,Data portal,,16,data_item,data_inputs,"",""
+input_data_18,ESGF,,https://esgf-node.llnl.gov/projects/esgf-llnl/,,,,,,,17,data_item,data_inputs,"",""
+input_data_19,Fisheries and Oceans Canada Watershed Polygons,,,,,,,,,18,data_item,data_inputs,"",""
+input_data_20,"Forest Ecosystem
+Classification (FEC)
+
+Includes soil and vegetation types",,,NS DNR,NS,Polygon,Soil,Dataset,,19,data_item,data_inputs,"",""
+input_data_21,"Forest Sensitivity to
+Atmospheric Acid
+Deposition",,,Closed,,,,Dataset,,20,data_item,data_inputs,"",""
+input_data_22,Frog Watch,,,,,,,,,21,data_item,data_inputs,"",""
+input_data_23,GBIF,,,Open,,,Occurrence,Database,,22,data_item,data_inputs,"",""
+input_data_24,"Geographic Data Directory
+
+Nova Scotia Open Data Portal:
+Forest Inventory
+
+Watercourses
+
+Political boundaries
+
+This portal has more data than the geo portal",,"https://nsgi.novascotia.ca/gdd/ 
+https://data.novascotia.ca/",Open,NS,,,Data portal,,23,data_item,data_inputs,"",""
+input_data_25,"GeoNB 
+
+Includes various environmental data",,http://www.snb.ca/geonb1/e/DC/catalogue-E.asp,Open,New Brunswick,,,Data portal,,24,data_item,data_inputs,"",""
+input_data_26,Geospatial Conservation Atlas,,https://geospatial.tnc.org/,Open,Global,,,,,25,data_item,data_inputs,"",""
+input_data_27,Global Forest Watch,,https://www.globalforestwatch.org/,,,,,,,26,data_item,data_inputs,"",""
+input_data_28,Human Footprint,,,,,,Watercourse,,,27,data_item,data_inputs,"",""
+input_data_29,iNaturalist,,,Open,,,Occurrence,Data portal,,28,data_item,data_inputs,"",""
+input_data_30,"LiDAR-dervied data
+Canopy height, canopy closure",,,"Closed, contact james.churchill@accdc.ca",NS,Raster,,Datasets,,29,data_item,data_inputs,"",""
+input_data_31,NASA Earth science data,,https://www.earthdata.nasa.gov/learn/pathfinders/biological-diversity-and-ecological-forecasting-data-pathfinder,,US,,,,,30,data_item,data_inputs,"",""
+input_data_32,National Forest Inventory (NFI),Terrestrial,https://nfi.nfis.org/en/data_and_tools,Contact,Canada,Polygon,Forests,Data portal,,31,data_item,data_inputs,"",""
+input_data_33,National Hydro Network,,https://open.canada.ca/data/en/dataset/a4b190fe-e090-4e6d-881e-b87956c07977,,National,,,,,32,data_item,data_inputs,"",""
+input_data_34,Native Land,,native-land.ca,,,,,,,33,data_item,data_inputs,"",""
+input_data_35,NatureWatch,,,,,,,,,34,data_item,data_inputs,"",""
+input_data_36,NB Enhanced Forest Inventory,,,Closed,NB,,,,,35,data_item,data_inputs,"",""
+input_data_37,NB Forest Inventory,,,Open?,NB,,,,,36,data_item,data_inputs,"",""
+input_data_38,NOAA,Marine,https://www.ngdc.noaa.gov/,Open,US waters,,,,,37,data_item,data_inputs,"",""
+input_data_39,Nova Scotia open data database,Marine/Terrestrial,https://data.novascotia.ca/browse,Open,Canada,"Polygon, Raster",,Database,,38,data_item,data_inputs,"",""
+input_data_40,NS Forest Inventory,Terrestrial,"https://novascotia.ca/natr/forestry/gis/forest-
+inventory.asp",Open,NS,Polygon,Forests,,,39,data_item,data_inputs,"",""
+input_data_41,NS Forest Notes,,http://nsforestnotes.ca/,,,,,,,40,data_item,data_inputs,"",""
+input_data_42,NS Hydrogeographic Network,,,,,,Watercourse,,,41,data_item,data_inputs,"",""
+input_data_43,NS Stream Classifcation,,,,,,Watercourse,,,42,data_item,data_inputs,"",""
+input_data_44,OBIS,Marine,,,,,Ocean,,,43,data_item,data_inputs,"",""
+input_data_45,Ocean Tracking Network Canada,Marine,https://oceantrackingnetwork.org/,,Canada + the world,,Ocean,,,44,data_item,data_inputs,"",""
+input_data_46,OceanAdapt,Marine,https://oceanadapt.rutgers.edu/,Open,Global,,,,,45,data_item,data_inputs,"",""
+input_data_47,PlantNet,Terrestrial,https://plantnet.org/en/,,,,,,,46,data_item,data_inputs,"",""
+input_data_48,"Predictive ecosystem mapping (Nova Scotia, from DNRR)",,Contact DNRR,Closed,NS,,,,,47,data_item,data_inputs,"",""
+input_data_49,Wet Areas Mapping for Nova Scotia,Terrestrial,,?,,,,,,48,data_item,data_inputs,"",""
+input_data_50,Wild Trax,,https://www.wildtrax.ca/home,Open,,,,,,49,data_item,data_inputs,"",""
+input_data_51,World Climate Research Program,,https://esgf-node.llnl.gov/projects/cmip5/,,,,,,,50,data_item,data_inputs,"",""
+input_data_52,WorldClim (world climatic variables),Terrestrial,https://www.worldclim.org/,Open,Global,,,,,51,data_item,data_inputs,"",""

@@ -3,159 +3,419 @@ layout: none
 ---
 [
   {
-    "pid": "obj5",
-    "artist": "Unknown",
-    "location": "Iran",
-    "label": "Panel from Iran",
-    "_date": "1600 - 1625",
-    "object_type": "panel",
-    "current_location": "The Museum of Islamic Art, Qatar",
-    "collection": "qatar",
-    "thumbnail": "/img/derivatives/iiif/images/obj5/full/250,/0/default.jpg",
-    "permalink": "/qatar/obj5",
+    "pid": "input_data_1",
+    "label": "AC CDC",
+    "collection": "data_inputs",
+    "thumbnail": "/img/derivatives/simple/input_data_1/thumbnail.jpg",
+    "permalink": "/data_inputs/input_data_1",
     "lunr_id": 0
   },
   {
-    "pid": "obj10",
-    "artist": "Unknown",
-    "location": "Iran",
-    "label": "Portrait of Hasan 'Ali Mirza Shuja al-Saltana",
-    "_date": "1800 - 1850",
-    "object_type": "portrait",
-    "current_location": "The Museum of Islamic Art, Qatar",
-    "collection": "qatar",
-    "thumbnail": "/img/derivatives/iiif/images/obj10/full/250,/0/default.jpg",
-    "permalink": "/qatar/obj10",
+    "pid": "input_data_10",
+    "label": "Charles P.-A. Bourque from UNB:\nSoil Water Content, Photosynthetically Active Radiation, etc.",
+    "collection": "data_inputs",
+    "thumbnail": "",
+    "permalink": "/data_inputs/input_data_10",
     "lunr_id": 1
   },
   {
-    "pid": "obj1",
-    "artist": "Al-Hajj Hafiz Muhammad Nuri",
-    "location": "Turkey",
-    "label": "The Dala'il al-Khayrat of al-Juzuli",
-    "_date": "1801",
-    "object_type": "manuscript",
-    "current_location": "The Museum of Islamic Art, Qatar",
-    "collection": "qatar",
-    "thumbnail": "/img/derivatives/iiif/images/obj1/full/250,/0/default.jpg",
-    "permalink": "/qatar/obj1",
+    "pid": "input_data_11",
+    "label": "Christmas bird count",
+    "collection": "data_inputs",
+    "thumbnail": "",
+    "permalink": "/data_inputs/input_data_11",
     "lunr_id": 2
   },
   {
-    "pid": "obj4",
-    "artist": "Unknown",
-    "location": "Iran",
-    "label": "Faridun crosses the River Dijla, fol. 33v",
-    "_date": "1525 - 1535",
-    "object_type": "manuscript",
-    "current_location": "The Museum of Islamic Art, Qatar",
-    "collection": "qatar",
-    "thumbnail": "/img/derivatives/iiif/images/obj4/full/250,/0/default.jpg",
-    "permalink": "/qatar/obj4",
+    "pid": "input_data_12",
+    "label": "ClimateBC",
+    "collection": "data_inputs",
+    "thumbnail": "",
+    "permalink": "/data_inputs/input_data_12",
     "lunr_id": 3
   },
   {
-    "pid": "obj11",
-    "artist": "Unknown",
-    "location": "Iran",
-    "label": "Portrait of Sheikh Ali Mirza",
-    "_date": "1800 - 1850",
-    "object_type": "portrait",
-    "current_location": "The Museum of Islamic Art, Qatar",
-    "collection": "qatar",
-    "thumbnail": "/img/derivatives/iiif/images/obj11/full/250,/0/default.jpg",
-    "permalink": "/qatar/obj11",
+    "pid": "input_data_13",
+    "label": "ClimateNA",
+    "collection": "data_inputs",
+    "thumbnail": "",
+    "permalink": "/data_inputs/input_data_13",
     "lunr_id": 4
   },
   {
-    "pid": "obj9",
-    "artist": "Mihr 'Ali",
-    "location": "Iran",
-    "label": "Portrait of Fath 'Ali Shah",
-    "_date": "1816",
-    "object_type": "portrait",
-    "current_location": "The Museum of Islamic Art, Qatar",
-    "collection": "qatar",
-    "thumbnail": "/img/derivatives/iiif/images/obj9/full/250,/0/default.jpg",
-    "permalink": "/qatar/obj9",
+    "pid": "input_data_14",
+    "label": "Copernicus Marine Service",
+    "collection": "data_inputs",
+    "thumbnail": "",
+    "permalink": "/data_inputs/input_data_14",
     "lunr_id": 5
   },
   {
-    "pid": "obj8",
-    "artist": "Unknown",
-    "location": "Iran",
-    "label": "Silk Tapestry Depicting the story of Leila and Majnun",
-    "_date": "1550 - 1650",
-    "object_type": "panel",
-    "current_location": "The Museum of Islamic Art, Qatar",
-    "collection": "qatar",
-    "thumbnail": "/img/derivatives/iiif/images/obj8/full/250,/0/default.jpg",
-    "permalink": "/qatar/obj8",
+    "pid": "input_data_15",
+    "label": "COSEWIC",
+    "collection": "data_inputs",
+    "thumbnail": "",
+    "permalink": "/data_inputs/input_data_15",
     "lunr_id": 6
   },
   {
-    "pid": "obj3",
-    "artist": "Unknown",
-    "location": "Egypt",
-    "label": "Map of the World",
-    "_date": "15th century",
-    "object_type": "map",
-    "current_location": "The Museum of Islamic Art, Qatar",
-    "collection": "qatar",
-    "thumbnail": "/img/derivatives/iiif/images/obj3/full/250,/0/default.jpg",
-    "permalink": "/qatar/obj3",
+    "pid": "input_data_16",
+    "label": "Critical Habitat for SAR in Canada (Parks Canada)",
+    "collection": "data_inputs",
+    "thumbnail": "",
+    "permalink": "/data_inputs/input_data_16",
     "lunr_id": 7
   },
   {
-    "pid": "obj7",
-    "artist": "Unknown",
-    "location": "Iran",
-    "label": "Page from the Shahnama",
-    "_date": "1525 - 1535",
-    "object_type": "manuscript",
-    "current_location": "The Museum of Islamic Art, Qatar",
-    "collection": "qatar",
-    "thumbnail": "/img/derivatives/iiif/images/obj7/full/250,/0/default.jpg",
-    "permalink": "/qatar/obj7",
+    "pid": "input_data_17",
+    "label": "Dalhousie GIS Center, building a portal of datasets they manage",
+    "collection": "data_inputs",
+    "thumbnail": "",
+    "permalink": "/data_inputs/input_data_17",
     "lunr_id": 8
   },
   {
-    "pid": "obj12",
-    "artist": "Bahādur Fīrūz, ʻAbd Allāh Khān",
-    "location": "Middle East and North Africa",
-    "label": "Excerpt from 'The Book of Horses' (فَرَس نامه [رسالة في الخيول)",
-    "_date": "Around 1628 - 1658",
-    "object_type": "manuscript",
-    "current_location": "Qatar National Library",
-    "collection": "qatar",
-    "thumbnail": "/img/derivatives/iiif/images/obj12_00/full/250,/0/default.jpg",
-    "permalink": "/qatar/obj12",
+    "pid": "input_data_18",
+    "label": "ESGF",
+    "collection": "data_inputs",
+    "thumbnail": "",
+    "permalink": "/data_inputs/input_data_18",
     "lunr_id": 9
   },
   {
-    "pid": "obj6",
-    "artist": "Unknown",
-    "location": "Iran",
-    "label": "Diwan of Jami Manuscript",
-    "_date": "16th century",
-    "object_type": "manuscript",
-    "current_location": "The Museum of Islamic Art, Qatar",
-    "collection": "qatar",
-    "thumbnail": "/img/derivatives/iiif/images/obj6/full/250,/0/default.jpg",
-    "permalink": "/qatar/obj6",
+    "pid": "input_data_19",
+    "label": "Fisheries and Oceans Canada Watershed Polygons",
+    "collection": "data_inputs",
+    "thumbnail": "",
+    "permalink": "/data_inputs/input_data_19",
     "lunr_id": 10
   },
   {
-    "pid": "obj2",
-    "artist": "Unknown",
-    "location": "Egypt",
-    "label": "Sulwan Al-Muta'a",
-    "_date": "14th century",
-    "object_type": "manuscript",
-    "current_location": "The Museum of Islamic Art, Qatar",
-    "collection": "qatar",
-    "thumbnail": "/img/derivatives/iiif/images/obj2/full/250,/0/default.jpg",
-    "permalink": "/qatar/obj2",
+    "pid": "input_data_2",
+    "label": "AquaMaps",
+    "collection": "data_inputs",
+    "thumbnail": "",
+    "permalink": "/data_inputs/input_data_2",
     "lunr_id": 11
+  },
+  {
+    "pid": "input_data_20",
+    "label": "Forest Ecosystem\nClassification (FEC)\n\nIncludes soil and vegetation types",
+    "collection": "data_inputs",
+    "thumbnail": "",
+    "permalink": "/data_inputs/input_data_20",
+    "lunr_id": 12
+  },
+  {
+    "pid": "input_data_21",
+    "label": "Forest Sensitivity to\nAtmospheric Acid\nDeposition",
+    "collection": "data_inputs",
+    "thumbnail": "",
+    "permalink": "/data_inputs/input_data_21",
+    "lunr_id": 13
+  },
+  {
+    "pid": "input_data_22",
+    "label": "Frog Watch",
+    "collection": "data_inputs",
+    "thumbnail": "",
+    "permalink": "/data_inputs/input_data_22",
+    "lunr_id": 14
+  },
+  {
+    "pid": "input_data_23",
+    "label": "GBIF",
+    "collection": "data_inputs",
+    "thumbnail": "",
+    "permalink": "/data_inputs/input_data_23",
+    "lunr_id": 15
+  },
+  {
+    "pid": "input_data_24",
+    "label": "Geographic Data Directory\n\nNova Scotia Open Data Portal:\nForest Inventory\n\nWatercourses\n\nPolitical boundaries\n\nThis portal has more data than the geo portal",
+    "collection": "data_inputs",
+    "thumbnail": "",
+    "permalink": "/data_inputs/input_data_24",
+    "lunr_id": 16
+  },
+  {
+    "pid": "input_data_25",
+    "label": "GeoNB \n\nIncludes various environmental data",
+    "collection": "data_inputs",
+    "thumbnail": "",
+    "permalink": "/data_inputs/input_data_25",
+    "lunr_id": 17
+  },
+  {
+    "pid": "input_data_26",
+    "label": "Geospatial Conservation Atlas",
+    "collection": "data_inputs",
+    "thumbnail": "",
+    "permalink": "/data_inputs/input_data_26",
+    "lunr_id": 18
+  },
+  {
+    "pid": "input_data_27",
+    "label": "Global Forest Watch",
+    "collection": "data_inputs",
+    "thumbnail": "",
+    "permalink": "/data_inputs/input_data_27",
+    "lunr_id": 19
+  },
+  {
+    "pid": "input_data_28",
+    "label": "Human Footprint",
+    "collection": "data_inputs",
+    "thumbnail": "",
+    "permalink": "/data_inputs/input_data_28",
+    "lunr_id": 20
+  },
+  {
+    "pid": "input_data_29",
+    "label": "iNaturalist",
+    "collection": "data_inputs",
+    "thumbnail": "",
+    "permalink": "/data_inputs/input_data_29",
+    "lunr_id": 21
+  },
+  {
+    "pid": "input_data_3",
+    "label": "BioOracle",
+    "collection": "data_inputs",
+    "thumbnail": "",
+    "permalink": "/data_inputs/input_data_3",
+    "lunr_id": 22
+  },
+  {
+    "pid": "input_data_30",
+    "label": "LiDAR-dervied data\nCanopy height, canopy closure",
+    "collection": "data_inputs",
+    "thumbnail": "",
+    "permalink": "/data_inputs/input_data_30",
+    "lunr_id": 23
+  },
+  {
+    "pid": "input_data_31",
+    "label": "NASA Earth science data",
+    "collection": "data_inputs",
+    "thumbnail": "",
+    "permalink": "/data_inputs/input_data_31",
+    "lunr_id": 24
+  },
+  {
+    "pid": "input_data_32",
+    "label": "National Forest Inventory (NFI)",
+    "collection": "data_inputs",
+    "thumbnail": "",
+    "permalink": "/data_inputs/input_data_32",
+    "lunr_id": 25
+  },
+  {
+    "pid": "input_data_33",
+    "label": "National Hydro Network",
+    "collection": "data_inputs",
+    "thumbnail": "",
+    "permalink": "/data_inputs/input_data_33",
+    "lunr_id": 26
+  },
+  {
+    "pid": "input_data_34",
+    "label": "Native Land",
+    "collection": "data_inputs",
+    "thumbnail": "",
+    "permalink": "/data_inputs/input_data_34",
+    "lunr_id": 27
+  },
+  {
+    "pid": "input_data_35",
+    "label": "NatureWatch",
+    "collection": "data_inputs",
+    "thumbnail": "",
+    "permalink": "/data_inputs/input_data_35",
+    "lunr_id": 28
+  },
+  {
+    "pid": "input_data_36",
+    "label": "NB Enhanced Forest Inventory",
+    "collection": "data_inputs",
+    "thumbnail": "",
+    "permalink": "/data_inputs/input_data_36",
+    "lunr_id": 29
+  },
+  {
+    "pid": "input_data_37",
+    "label": "NB Forest Inventory",
+    "collection": "data_inputs",
+    "thumbnail": "",
+    "permalink": "/data_inputs/input_data_37",
+    "lunr_id": 30
+  },
+  {
+    "pid": "input_data_38",
+    "label": "NOAA",
+    "collection": "data_inputs",
+    "thumbnail": "",
+    "permalink": "/data_inputs/input_data_38",
+    "lunr_id": 31
+  },
+  {
+    "pid": "input_data_39",
+    "label": "Nova Scotia open data database",
+    "collection": "data_inputs",
+    "thumbnail": "",
+    "permalink": "/data_inputs/input_data_39",
+    "lunr_id": 32
+  },
+  {
+    "pid": "input_data_4",
+    "label": "Biota of North American Program",
+    "collection": "data_inputs",
+    "thumbnail": "",
+    "permalink": "/data_inputs/input_data_4",
+    "lunr_id": 33
+  },
+  {
+    "pid": "input_data_40",
+    "label": "NS Forest Inventory",
+    "collection": "data_inputs",
+    "thumbnail": "",
+    "permalink": "/data_inputs/input_data_40",
+    "lunr_id": 34
+  },
+  {
+    "pid": "input_data_41",
+    "label": "NS Forest Notes",
+    "collection": "data_inputs",
+    "thumbnail": "",
+    "permalink": "/data_inputs/input_data_41",
+    "lunr_id": 35
+  },
+  {
+    "pid": "input_data_42",
+    "label": "NS Hydrogeographic Network",
+    "collection": "data_inputs",
+    "thumbnail": "",
+    "permalink": "/data_inputs/input_data_42",
+    "lunr_id": 36
+  },
+  {
+    "pid": "input_data_43",
+    "label": "NS Stream Classifcation",
+    "collection": "data_inputs",
+    "thumbnail": "",
+    "permalink": "/data_inputs/input_data_43",
+    "lunr_id": 37
+  },
+  {
+    "pid": "input_data_44",
+    "label": "OBIS",
+    "collection": "data_inputs",
+    "thumbnail": "",
+    "permalink": "/data_inputs/input_data_44",
+    "lunr_id": 38
+  },
+  {
+    "pid": "input_data_45",
+    "label": "Ocean Tracking Network Canada",
+    "collection": "data_inputs",
+    "thumbnail": "",
+    "permalink": "/data_inputs/input_data_45",
+    "lunr_id": 39
+  },
+  {
+    "pid": "input_data_46",
+    "label": "OceanAdapt",
+    "collection": "data_inputs",
+    "thumbnail": "",
+    "permalink": "/data_inputs/input_data_46",
+    "lunr_id": 40
+  },
+  {
+    "pid": "input_data_47",
+    "label": "PlantNet",
+    "collection": "data_inputs",
+    "thumbnail": "",
+    "permalink": "/data_inputs/input_data_47",
+    "lunr_id": 41
+  },
+  {
+    "pid": "input_data_48",
+    "label": "Predictive ecosystem mapping (Nova Scotia, from DNRR)",
+    "collection": "data_inputs",
+    "thumbnail": "",
+    "permalink": "/data_inputs/input_data_48",
+    "lunr_id": 42
+  },
+  {
+    "pid": "input_data_49",
+    "label": "Wet Areas Mapping for Nova Scotia",
+    "collection": "data_inputs",
+    "thumbnail": "",
+    "permalink": "/data_inputs/input_data_49",
+    "lunr_id": 43
+  },
+  {
+    "pid": "input_data_5",
+    "label": "Boreal Avian Modelling Project",
+    "collection": "data_inputs",
+    "thumbnail": "",
+    "permalink": "/data_inputs/input_data_5",
+    "lunr_id": 44
+  },
+  {
+    "pid": "input_data_50",
+    "label": "Wild Trax",
+    "collection": "data_inputs",
+    "thumbnail": "",
+    "permalink": "/data_inputs/input_data_50",
+    "lunr_id": 45
+  },
+  {
+    "pid": "input_data_51",
+    "label": "World Climate Research Program",
+    "collection": "data_inputs",
+    "thumbnail": "",
+    "permalink": "/data_inputs/input_data_51",
+    "lunr_id": 46
+  },
+  {
+    "pid": "input_data_52",
+    "label": "WorldClim (world climatic variables)",
+    "collection": "data_inputs",
+    "thumbnail": "",
+    "permalink": "/data_inputs/input_data_52",
+    "lunr_id": 47
+  },
+  {
+    "pid": "input_data_6",
+    "label": "Canada open data database",
+    "collection": "data_inputs",
+    "thumbnail": "",
+    "permalink": "/data_inputs/input_data_6",
+    "lunr_id": 48
+  },
+  {
+    "pid": "input_data_7",
+    "label": "Canada watershed boundaries (2 links: one has major and sub drainage areas)",
+    "collection": "data_inputs",
+    "thumbnail": "",
+    "permalink": "/data_inputs/input_data_7",
+    "lunr_id": 49
+  },
+  {
+    "pid": "input_data_8",
+    "label": "Canadian GIS",
+    "collection": "data_inputs",
+    "thumbnail": "",
+    "permalink": "/data_inputs/input_data_8",
+    "lunr_id": 50
+  },
+  {
+    "pid": "input_data_9",
+    "label": "Canadian Human Footprint Index",
+    "collection": "data_inputs",
+    "thumbnail": "",
+    "permalink": "/data_inputs/input_data_9",
+    "lunr_id": 51
   }
 ]
