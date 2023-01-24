@@ -118,11 +118,11 @@ menu:
 footer:
   links:
     - label: 'GitHub'
-      link: 'https://github.com/minicomp/wax'
+      link: 'https://github.com/atlantichabitatmodels/data'
     - label: 'Credits'
       link: '/credits'
     - label: 'Contact'
-      link: 'https://gitter.im/minicomp/wax/'
+      link: 'https://atlantichabitatmodels.github.io/communityofpractice/team/'
   logos:
     - img: '/img/logo.png'
 
