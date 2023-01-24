@@ -10,4 +10,4 @@ banner:
 
 ### Browse the Data Inputs Catalogue
 
-{% include collection_gallery.html facet_by='data_product_type' collection='data_inputs' %}
+{% include collection_gallery.html facet_by='jurisdiction' collection='data_inputs' %}
