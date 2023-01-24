@@ -65,7 +65,7 @@ kramdown:
 collections:
   exhibits:
     output: true
-  data_inputs: # name of collection
+  inputs: # name of collection
     output: true # makes sure pages are output as html files
     layout: 'data_item' # the layout for the pages to use
     metadata:
@@ -85,7 +85,7 @@ search:
   main:
     index: '/search/index.json' # file the index will get written to
     collections:
-      data_inputs:
+      inputs:
         content: false # whether or not to index page content
         fields: # the metadata fields to index
           - artist
