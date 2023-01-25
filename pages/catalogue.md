@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Browse the Data Catalogue
-permalink: /data-catalogue/
+permalink: /catalogue/
 ---
 
 ### [By data product type](../product-type-facet)

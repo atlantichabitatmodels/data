@@ -104,7 +104,7 @@ search:
 
 menu:
   - label: 'Browse'
-    link: '/data-catalogue/'
+    link: '/catalogue/'
   - label: 'Search'
     link: '/search/'
   - label: 'Reuse'
