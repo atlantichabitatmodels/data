@@ -3,7 +3,7 @@ layout: page
 show_title: false
 banner:
   collection: inputs
-  pid: input_data_1
+  pid: accdc
   y: 25%
   height: '500px'
 ---
