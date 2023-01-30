@@ -1,34 +1,28 @@
-pid,label,marine_terrestrial,link,open_closed,jurisdiction,raster_vector,_tags,data_product_type,cell_size,order,layout,collection,thumbnail,full
-accdc,AC CDC,Marine/Terrestrial,http://accdc.com/en/data-request.html,"Closed, datarequests@accdc.ca",,Point,Occurrence,Database,,00,data_item,inputs,/img/derivatives/simple/accdc/thumbnail.jpg,/img/derivatives/simple/accdc/fullwidth.jpg
-input_data_2,AquaMaps,Marine,https://www.aquamaps.org/,,,,,,,01,data_item,inputs,"",""
-input_data_3,BioOracle,Marine,https://www.bio-oracle.org/,,,,,,,02,data_item,inputs,"",""
-input_data_4,Biota of North American Program,Terrestrial,,,,,,,,03,data_item,inputs,"",""
-input_data_5,Boreal Avian Modelling Project,Terrestrial,https://borealbirds.ca/explore-our-data/,Open,Canada,"Point, Raster","Occurrence, Environment",Data project,,04,data_item,inputs,"",""
-input_data_6,Canada open data database,Marine/Terrestrial,https://search.open.canada.ca/en/od/?q=knn+modis+attributes&keywords=Forests&organization=nrcan-rncan&res_type=application&sort=,Open,Canada,"Polygon, Raster",,Database,,05,data_item,inputs,"",""
-input_data_7,Canada watershed boundaries (2 links: one has major and sub drainage areas),,"https://www.nrcan.gc.ca/science-and-data/science-and-research/earth-sciences/geography/topographic-information/geobase-surface-water-program-geeau/watershed-boundaries/20973, https://www.arcgis.com/home/item.html?id=12b6e33d5a754c92b97ae5d0fed6940a ",Open,Canada,Polygon,Watercourse,Dataset,,06,data_item,inputs,"",""
-input_data_8,Canadian GIS,,https://canadiangis.com/nova-scotia-geospatial-data.php,Open,Canada,,,Data portal,,07,data_item,inputs,"",""
-input_data_9,Canadian Human Footprint Index,,https://borealisdata.ca/dataset.xhtml?persistentId=doi:10.5683/SP2/EVKAVL,Open,Canada,,,Dataset,,08,data_item,inputs,"",""
-input_data_10,"Charles P.-A. Bourque from UNB:
-Soil Water Content, Photosynthetically Active Radiation, etc.",,,"Closed, contact Charles Bourque at …","NS, NB",Raster,,Datasets,,09,data_item,inputs,"",""
-input_data_11,Christmas bird count,Terrestrial,https://netapp.audubon.org/cbcobservation/?_gl=1*1mwxjtp*_ga*MTQyOTczNTE1NC4xNjczNjIyMjI5*_ga_X2XNL2MWTT*MTY3MzYyMjIyOC4xLjAuMTY3MzYyMjIyOS41OS4wLjA.&_gl=1*1mwxjtp*_ga*MTQyOTczNTE1NC4xNjczNjIyMjI5*_ga_X2X,Contact,Canada,,,Dataset,,10,data_item,inputs,"",""
-input_data_12,ClimateBC,Terrestrial,https://climatebc.ca/,Open,British Columbia,,,,,11,data_item,inputs,"",""
-input_data_13,ClimateNA,,,,,Raster,"Watercourse, Climate",Data tool,,12,data_item,inputs,"",""
-input_data_14,Copernicus Marine Service,Marine,https://marine.copernicus.eu/,,,,,,,13,data_item,inputs,"",""
-input_data_15,COSEWIC,,Critical Habitat?,,,,,,,14,data_item,inputs,"",""
-input_data_16,Critical Habitat for SAR in Canada (Parks Canada),,https://search.open.canada.ca/openmap/47caa405-be2b-4e9e-8f53-c478ade2ca74,,,,,,,15,data_item,inputs,"",""
-input_data_17,"Dalhousie GIS Center, building a portal of datasets they manage",,https://libraries.dal.ca/hours-locations/gis-centre.html,,,,,Data portal,,16,data_item,inputs,"",""
-input_data_18,ESGF,,https://esgf-node.llnl.gov/projects/esgf-llnl/,,,,,,,17,data_item,inputs,"",""
-input_data_19,Fisheries and Oceans Canada Watershed Polygons,,,,,,,,,18,data_item,inputs,"",""
-input_data_20,"Forest Ecosystem
+pid,label,description,taxon_group,marine_terrestrial_freshwater,link,open_closed,contact_email,jurisdiction,raster_vector,_tags,data_product_type,cell_size,organization_individual,closed_consent_received,order,layout,collection,thumbnail,full
+accdc,AC CDC,"The Atlantic Canada Conservation Data Centre (AC CDC) compiles and provides objective data about biological diversity in Atlantic Canada. The AC CDC's expertise and data represent the single most comprehensive and current source of information about Atlantic Canada's biodiversity. Our database includes almost 2 million geo-located records of species occurrences, approximately 20% of which represent species of conservation concern. Our data is widely consulted by federal and provincial government departments, NGOs, industry, researchers, students, and many other organizations throughout Atlantic Canada. Our outstanding staff expertise in botany, zoology, landscape ecology and GIS enable us to conduct accurate field inventories and status assessments, and to make significant contributions to conservation planning and decision making.",Various,Marine/Freshwater/Terrestrial,http://accdc.com/en/data-request.html,Closed,datarequests@accdc.ca,"NS, NB, PEI, NL",Point,Occurrence,Database,,Organization,Presumed,0,data_item,inputs,/img/derivatives/simple/accdc/thumbnail.jpg,/img/derivatives/simple/accdc/fullwidth.jpg
+aquamaps,AquaMaps,"Standardized distribution maps for over 33,500 species of fishes, marine mammals and invertebrates. AquaMaps is a joint project of FishBase and SealifeBase.
+AquaMaps is a tool for generating model-based, large-scale predictions of natural occurrences of marine species. The model uses estimates of environmental preferences with respect to depth, water temperature, salinity, primary productivity, dissolved oxygen, and association with sea ice or coastal areas. These estimates of species preferences, called environmental envelopes, are derived from large sets of occurrence data available from online collection databases such as GBIF (gbif.org) and OBIS (obis.org), and from independent knowledge from the literature about the distribution of a given species and its habitat usage that are available in FishBase (www.fishbase.org) and in SeaLifeBase (www.sealifebase.org). The environmental envelopes are matched against local environmental conditions to determine the suitability of a given area in the ocean for a particular species. Predictions of relative probabilities of species occurrence are shown as color-coded species range maps in a global grid of half-degree latitude and longitude cell dimensions. The maps are displayed on the web through the use of C-squares Mapper developed at CSIRO Marine and Atmospheric Research in Australia (Rees, 2002, 2003). 
+","fishes, marine mammals and invertebrates",Marine/Freshwater,https://www.aquamaps.org/,Open,,Global,Raster,Models,Data project,half-degree latitude and longitude,Organization,,1,data_item,inputs,/img/derivatives/simple/aquamaps/thumbnail.jpg,/img/derivatives/simple/aquamaps/fullwidth.jpg
+cmems,Copernicus Marine Service,"Providing free and open marine data and services to enable marine policy implementation, support Blue growth and scientific innovation.",,Marine,https://marine.copernicus.eu/,Open,,Global,Raster,Environmental,Data portal,,Organization,,10,data_item,inputs,/img/derivatives/simple/cmems/thumbnail.jpg,/img/derivatives/simple/cmems/fullwidth.jpg
+data_input_1,COSEWIC,,,,Critical Habitat?,,,,,,,,,,11,data_item,inputs,,
+data_input_2,Critical Habitat for SAR in Canada (Parks Canada),,,,https://search.open.canada.ca/openmap/47caa405-be2b-4e9e-8f53-c478ade2ca74,,,,,,,,,,12,data_item,inputs,,
+data_input_3,"Dalhousie GIS Center, building a portal of datasets they manage",,,,https://libraries.dal.ca/hours-locations/gis-centre.html,,,,,,Data portal,,,,13,data_item,inputs,,
+data_input_4,ESGF,,,,https://esgf-node.llnl.gov/projects/esgf-llnl/,,,,,,,,,,14,data_item,inputs,,
+data_input_5,Fisheries and Oceans Canada Watershed Polygons,,,,,,,,,,,,,,15,data_item,inputs,,
+data_input_6,"Forest Ecosystem
 Classification (FEC)
 
-Includes soil and vegetation types",,,NS DNR,NS,Polygon,Soil,Dataset,,19,data_item,inputs,"",""
-input_data_21,"Forest Sensitivity to
+Includes soil and vegetation types",,,,,NS DNR,,NS,Polygon,Soil,Dataset,,,,16,data_item,inputs,,
+data_input_7,"Forest Sensitivity to
 Atmospheric Acid
-Deposition",,,Closed,,,,Dataset,,20,data_item,inputs,"",""
-input_data_22,Frog Watch,,,,,,,,,21,data_item,inputs,"",""
-input_data_23,GBIF,,,Open,,,Occurrence,Database,,22,data_item,inputs,"",""
-input_data_24,"Geographic Data Directory
+Deposition",,,,,Closed,,,,,Dataset,,,,17,data_item,inputs,,
+data_input_8,Frog Watch,,Frogs,,,,,,,,,,,,18,data_item,inputs,,
+data_input_9,GBIF,,,,,Open,,,,Occurrence,Database,,,,19,data_item,inputs,,
+biooracle,BioOracle,"Marine data layers for ecological modelling
+Bio-ORACLE is a set of GIS rasters providing geophysical, biotic and environmental data for surface and benthic marine realms.
+The data are available for global-scale applications at a spatial resolution of 5 arcmin (approximately 9.2 km at the equator).
+The most recent Representative Concentration Pathways are provided in order to model the ecological implications of future changes.",,Marine,https://www.bio-oracle.org/,Open,,,Raster,Environmental,Dataset,5 arcmin,Organization,,2,data_item,inputs,/img/derivatives/simple/biooracle/thumbnail.jpg,/img/derivatives/simple/biooracle/fullwidth.jpg
+data_input_10,"Geographic Data Directory
 
 Nova Scotia Open Data Portal:
 Forest Inventory
@@ -37,37 +31,63 @@ Watercourses
 
 Political boundaries
 
-This portal has more data than the geo portal",,"https://nsgi.novascotia.ca/gdd/ 
-https://data.novascotia.ca/",Open,NS,,,Data portal,,23,data_item,inputs,"",""
-input_data_25,"GeoNB 
+This portal has more data than the geo portal",,,,"https://nsgi.novascotia.ca/gdd/ 
+https://data.novascotia.ca/",Open,,NS,,,Data portal,,,,20,data_item,inputs,,
+data_input_11,"GeoNB 
 
-Includes various environmental data",,http://www.snb.ca/geonb1/e/DC/catalogue-E.asp,Open,New Brunswick,,,Data portal,,24,data_item,inputs,"",""
-input_data_26,Geospatial Conservation Atlas,,https://geospatial.tnc.org/,Open,Global,,,,,25,data_item,inputs,"",""
-input_data_27,Global Forest Watch,,https://www.globalforestwatch.org/,,,,,,,26,data_item,inputs,"",""
-input_data_28,Human Footprint,,,,,,Watercourse,,,27,data_item,inputs,"",""
-input_data_29,iNaturalist,,,Open,,,Occurrence,Data portal,,28,data_item,inputs,"",""
-input_data_30,"LiDAR-dervied data
-Canopy height, canopy closure",,,"Closed, contact james.churchill@accdc.ca",NS,Raster,,Datasets,,29,data_item,inputs,"",""
-input_data_31,NASA Earth science data,,https://www.earthdata.nasa.gov/learn/pathfinders/biological-diversity-and-ecological-forecasting-data-pathfinder,,US,,,,,30,data_item,inputs,"",""
-input_data_32,National Forest Inventory (NFI),Terrestrial,https://nfi.nfis.org/en/data_and_tools,Contact,Canada,Polygon,Forests,Data portal,,31,data_item,inputs,"",""
-input_data_33,National Hydro Network,,https://open.canada.ca/data/en/dataset/a4b190fe-e090-4e6d-881e-b87956c07977,,National,,,,,32,data_item,inputs,"",""
-input_data_34,Native Land,,native-land.ca,,,,,,,33,data_item,inputs,"",""
-input_data_35,NatureWatch,,,,,,,,,34,data_item,inputs,"",""
-input_data_36,NB Enhanced Forest Inventory,,,Closed,NB,,,,,35,data_item,inputs,"",""
-input_data_37,NB Forest Inventory,,,Open?,NB,,,,,36,data_item,inputs,"",""
-input_data_38,NOAA,Marine,https://www.ngdc.noaa.gov/,Open,US waters,,,,,37,data_item,inputs,"",""
-input_data_39,Nova Scotia open data database,Marine/Terrestrial,https://data.novascotia.ca/browse,Open,Canada,"Polygon, Raster",,Database,,38,data_item,inputs,"",""
-input_data_40,NS Forest Inventory,Terrestrial,"https://novascotia.ca/natr/forestry/gis/forest-
-inventory.asp",Open,NS,Polygon,Forests,,,39,data_item,inputs,"",""
-input_data_41,NS Forest Notes,,http://nsforestnotes.ca/,,,,,,,40,data_item,inputs,"",""
-input_data_42,NS Hydrogeographic Network,,,,,,Watercourse,,,41,data_item,inputs,"",""
-input_data_43,NS Stream Classifcation,,,,,,Watercourse,,,42,data_item,inputs,"",""
-input_data_44,OBIS,Marine,,,,,Ocean,,,43,data_item,inputs,"",""
-input_data_45,Ocean Tracking Network Canada,Marine,https://oceantrackingnetwork.org/,,Canada + the world,,Ocean,,,44,data_item,inputs,"",""
-input_data_46,OceanAdapt,Marine,https://oceanadapt.rutgers.edu/,Open,Global,,,,,45,data_item,inputs,"",""
-input_data_47,PlantNet,Terrestrial,https://plantnet.org/en/,,,,,,,46,data_item,inputs,"",""
-input_data_48,"Predictive ecosystem mapping (Nova Scotia, from DNRR)",,Contact DNRR,Closed,NS,,,,,47,data_item,inputs,"",""
-input_data_49,Wet Areas Mapping for Nova Scotia,Terrestrial,,?,,,,,,48,data_item,inputs,"",""
-input_data_50,Wild Trax,,https://www.wildtrax.ca/home,Open,,,,,,49,data_item,inputs,"",""
-input_data_51,World Climate Research Program,,https://esgf-node.llnl.gov/projects/cmip5/,,,,,,,50,data_item,inputs,"",""
-input_data_52,WorldClim (world climatic variables),Terrestrial,https://www.worldclim.org/,Open,Global,,,,,51,data_item,inputs,"",""
+Includes various environmental data",,,,http://www.snb.ca/geonb1/e/DC/catalogue-E.asp,Open,,NB,,,Data portal,,,,21,data_item,inputs,,
+data_input_12,Geospatial Conservation Atlas,,,,https://geospatial.tnc.org/,Open,,Global,,,,,,,22,data_item,inputs,,
+data_input_13,Global Forest Watch,,,,https://www.globalforestwatch.org/,,,,,,,,,,23,data_item,inputs,,
+data_input_14,Human Footprint,,,,,,,,,Watercourse,,,,,24,data_item,inputs,,
+data_input_15,iNaturalist,,,,,Open,,,,Occurrence,Data portal,,,,25,data_item,inputs,,
+data_input_16,"LiDAR-dervied data
+Canopy height, canopy closure",,,,,Closed,james.churchill@accdc.ca,NS,Raster,,Datasets,,,,26,data_item,inputs,,
+data_input_17,NASA Earth science data,,,,https://www.earthdata.nasa.gov/learn/pathfinders/biological-diversity-and-ecological-forecasting-data-pathfinder,,,US,,,,,,,27,data_item,inputs,,
+data_input_18,National Forest Inventory (NFI),,,Terrestrial,https://nfi.nfis.org/en/data_and_tools,Contact,,Canada,Polygon,Forests,Data portal,,,,28,data_item,inputs,,
+data_input_19,National Hydro Network,,,,https://open.canada.ca/data/en/dataset/a4b190fe-e090-4e6d-881e-b87956c07977,,,National,,,,,,,29,data_item,inputs,,
+bamp,Boreal Avian Modelling Project,"The Boreal Avian Modelling Project (BAM) is an international scientific collaboration that develops and disseminates reliable, data-driven and model-based science and products to support migratory bird management and conservation across the boreal region of North America.",Birds,Terrestrial,https://borealbirds.ca/explore-our-data/,Open,,Canada,"Point, Raster","Occurrence, Environmental",Data project,,Organization,,3,data_item,inputs,/img/derivatives/simple/bamp/thumbnail.jpg,/img/derivatives/simple/bamp/fullwidth.jpg
+data_input_20,Native Land,,,,native-land.ca,,,,,,,,,,30,data_item,inputs,,
+data_input_21,NatureWatch,,,,,,,,,,,,,,31,data_item,inputs,,
+data_input_22,NB Enhanced Forest Inventory,,,,,Closed,,NB,,,,,,,32,data_item,inputs,,
+data_input_23,NB Forest Inventory,,,,,Open?,,NB,,,,,,,33,data_item,inputs,,
+data_input_24,NOAA,,,Marine,https://www.ngdc.noaa.gov/,Open,,US waters,,,,,,,34,data_item,inputs,,
+data_input_25,Nova Scotia open data database,,,Marine/Terrestrial,https://data.novascotia.ca/browse,Open,,Canada,"Polygon, Raster",,Database,,,,35,data_item,inputs,,
+data_input_26,NS Forest Inventory,,,Terrestrial,https://novascotia.ca/natr/forestry/gis/forest-inventory.asp,Open,,NS,Polygon,Forests,,,,,36,data_item,inputs,,
+data_input_27,NS Forest Notes,,,,http://nsforestnotes.ca/,,,,,,,,,,37,data_item,inputs,,
+data_input_28,NS Hydrogeographic Network,,,,,,,,,Watercourse,,,,,38,data_item,inputs,,
+nsstcl,NS Stream Classifcation,,,Freshwater,,,,,,Watercourse,,,,,39,data_item,inputs,,
+canopendata,Open Government Portal,"Search open data that is relevant to Canadians, learn how to work with datasets, and see what people have done with open data across the country.",,Marine/Freshwater/Terrestrial,https://search.open.canada.ca/opendata/,Open,,Canada,"Polygon, Raster",,Data portal,,Organization,,4,data_item,inputs,/img/derivatives/simple/canopendata/thumbnail.jpg,/img/derivatives/simple/canopendata/fullwidth.jpg
+obis,OBIS,,,Marine,,,,,,Ocean,,,,,40,data_item,inputs,,
+octrneca,Ocean Tracking Network Canada,,,Marine,https://oceantrackingnetwork.org/,Open,Various,Canada + the world,,Ocean,,,,,41,data_item,inputs,,
+ocad,OceanAdapt,,,Marine,https://oceanadapt.rutgers.edu/,Open,malin.pinsky@rutgers.edu,Global,,,,,,,42,data_item,inputs,,
+plne,PlantNet,,Plants,Terrestrial,https://plantnet.org/en/,Open,,,,,,,,,43,data_item,inputs,,
+precma,"Predictive ecosystem mapping (Nova Scotia, from DNRR)",,SAR,Terrestrial/Freshwater,Contact DNRR,Closed,BIODIVERSITY@novascotia.ca,NS,,,,,,,44,data_item,inputs,,
+wearmafonosc,Wet Areas Mapping for Nova Scotia,,,Terrestrial/Freshwater,https://novascotia.ca/natr/forestry/gis/wamdownload.asp,Open,na,NS,,,,,,,45,data_item,inputs,,
+witr,Wild Trax,,,Terrestrial,https://www.wildtrax.ca/home,Open,,,,,,,,,46,data_item,inputs,,
+woclrepr,World Climate Research Program,,,,https://esgf-node.llnl.gov/projects/cmip5/,,,,,,,,,,47,data_item,inputs,,
+worldclim,WorldClim (world climatic variables),,,Terrestrial,https://www.worldclim.org/,Open,,Global,,,,,,,48,data_item,inputs,,
+trspincafoec,tree species in Canada's forested ecosystems,,,Terrestrial,https://www.sciencedirect.com/science/article/pii/S0034425722003820,,,,,,,,,,49,data_item,inputs,,
+watershedcan,Watersheds in Canada,"This feature layer depicts the watershed boundaries of Canada and provides a detailed look at drainage areas and water flow for the entire land mass of Canada. This map service references the Water Survey of Canada (WSC) data. The WSC has a 3-level hierarchy of drainage areas established in 1927 for the purpose of managing hydrometric stations (recording water levels or rates of flow). They are: Major Drainage Areas, Sub Drainage Areas and Sub-sub Drainage Areas. This map service includes all three drainage area boundaries as well as the highest order boundary, the ocean drainage area.",,Marine/Freshwater/Terrestrial,https://www.arcgis.com/home/item.html?id=12b6e33d5a754c92b97ae5d0fed6940a ,Open,,Canada,Polygon,Watercourse,Dataset,,Organization,,5,data_item,inputs,/img/derivatives/simple/watershedcan/thumbnail.jpg,/img/derivatives/simple/watershedcan/fullwidth.jpg
+aafc2020lu,2020 AAFC Semi-Decadal Land Use,Land use,Plants,Terrestrial,https://open.canada.ca/data/en/dataset/7a098ea9-cc31-4d79-b326-89f6cd1fbb7d,Open,na,Canada,,,,,,,50,data_item,inputs,,
+aafcaci,AAFC Annual Crop Inventory,Annual crop yeilds,Plants,Terrestrial,https://open.canada.ca/data/en/dataset/ba2645d5-4458-414d-b196-6303ac06c1c9,Open,na,Canada,,,,,,,51,data_item,inputs,,
+nsdalo,NS Data Locator ,"Lidar, Aerial Photography, Orth, Property Lines",NA,Terrestrial/Freshwater,https://nsgi.novascotia.ca/datalocator/elevation/,Open,na,NS,,,,,,,52,data_item,inputs,,
+nsprlavi,NS Provincial Landscape Viewer,"Protected areas, Wet Areas, NS Roads, Property, Forestry, Crown Land, Wildlife",Various,Terrestrial/Freshwater,https://nsgi.novascotia.ca/plv/,Open,na,NS,,,,,,,53,data_item,inputs,,
+coex,Connect Explorer ,High Resilution Digital Aerial Photography,,Terrestrial/Freshwater,https://explorer.pictometry.com/login.php?utm_source=POL&utm_medium=Graphic&utm_campaign=Login,Closed,customersupport@eagleview.com,"NS, Canada, Global",,,,,,,54,data_item,inputs,,
+nsfoin,NS Forest Information,"Forest Invintory, Wet Areas Mapping, Forest cover type, Huricane Juan, Fernon1912, Ecological land classification",,Terrestrial/Freshwater,https://novascotia.ca/natr/forestry/gis/downloads.asp,Open,na,NS,,,,,,,55,data_item,inputs,,
+nsgescat,NS Geoscience Atlas,"Geology, drift geology, surface geology, minerals",na,Terrestrial,https://fletcher.novascotia.ca/DNRViewer/?viewer=Geoscience,Open,na,NS,,,,,,,56,data_item,inputs,,
+cagescma,Canadian Geoscience Maps,"Geology, drift geology, surface geology, minerals",,Terrestrial/Freshwater,https://www.nrcan.gc.ca/maps-tools-and-publications/maps/earth-sciences-maps/10789,Open,na,Canada,,,,,,,57,data_item,inputs,,
+nsgrwaat,NS Groundwater Atlas,"Well logs, ground water chemistray, ground water resorces, bore holes, drill holes",,Terrestrial/Freshwater,https://fletcher.novascotia.ca/DNRViewer/?viewer=Groundwater&layerTheme,Open,na,NS,,,,,,,58,data_item,inputs,,
+hawahycama,Halifax Water Hyrant and Catchbasin Mapping,"Halifax, catchbasin, hydrants",na,?,https://hwc.maps.arcgis.com/apps/webappviewer/index.html?id=857724d1ae3c48e18e28642da0702bb3,Open,na,Halifax,,,,,,,59,data_item,inputs,,
+cangis,Canadian GIS,"Canadian Open Data and Free Geospatial Data Resources: Almost anyone in the geospatial community would agree that a major part of any GIS project would be the data sets involved. The data can be in the form of vectors, rasters, aerial photography or statistical tabular data and most often the data component can be very costly or labor intensive. But it doesn’t always have to be that way, as there are plenty of great resources available that offer free Canadian open data that you can use with your geomatics projects to generate geospatial products. In fact more and more are popping up all over the web and some cities like Ottawa are even having contests to help promote the use of their data.
+
+Over the past few years we have been highlighting and promoting various cities and provinces in Canada that have done a great job providing Open Geospatial Data and geospatial applications to the public. During that time there has been plenty of great praise, feedback and emails regarding these efforts in helping to promote Canadian geospatial data and ensuring that everybody in the geomatics community knows where to find data for their projects.
+
+We started this page in 2010 as a way to collaborate links to all Canadian Open Data (sites that offer data downloads at no cost and without restrictions), free geospatial data, online web mapping applications and other sources of geospatial information (including National, Provincial and Municipal levels).",,Marine/Freshwater/Terrestrial,https://canadiangis.com/data.php,Open,https://canadiangis.com/contact,Canada,,Environmental,Data portal,,Organization,,6,data_item,inputs,/img/derivatives/simple/cangis/thumbnail.jpg,/img/derivatives/simple/cangis/fullwidth.jpg
+naaiphli,National Air Photo Library,"Aerial photogrphy, historic aerial photography",,Terrestrial/Freshwater,https://www.nrcan.gc.ca/maps-tools-and-publications/satellite-imagery-and-air-photos/air-photos/national-air-photo-library/9265,Open,na,"NS, Canada",,,,,,,60,data_item,inputs,,
+nspaprar,NS Parks and Protected Areas,"Protected areas, parks, OHV trails, bike routes, crown lands, aerial photography",na,Terrestrial/Freshwater,https://www.novascotia.ca/parksandprotectedareas/plan/interactive-map/,Open,na,NS,,,,,,,61,data_item,inputs,,
+nseclacl,NS Ecological Land Classification,Ecological land classification,,Terrestrial/Freshwater,https://novascotia.ca/natr/forestry/ecological/ecolandclass.asp,Open,na,NS,,,,,,,62,data_item,inputs,,
+ncstclco,NCC Stream Classification v2 Complex,Stream classification,na,Freshwater,https://hub.arcgis.com/datasets/4dcfecbda7a54d7f92b03c75679afa66_0/about,Open,na,"NS, NB, PEI, QUE",,,,,,,63,data_item,inputs,,
+acgihu,ArcGIS Hub,Open data,all,Marine/Terrestrial/Freshwater,https://hub.arcgis.com/search?collection=Dataset,Open,na,Global,,,,,,,64,data_item,inputs,,
+canfootprint,Canadian Human Footprint Index,"Efforts are underway in Canada to set aside terrestrial lands for conservation, thereby protecting them from anthropogenic pressures. Here we produce the first Canadian human footprint map by combining twelve different anthropogenic pressures and identify intact and modified lands and ecosystems across the country. Our results showed strong spatial variation in pressures across the country, with just 18% of Canada experiencing measurable human pressure. However, some ecosystems are experiencing very high pressure, such as the Great Lakes Plains and Prairies national ecological areas which have over 75% and 56% of their areas, respectively, with a high human footprint. In contrast, the Arctic and Northern Mountains have less than 0.02% and 0.2% of their extent under high human footprint. A validation of the final map, using random statistical sampling, resulted in a Cohen Kappa statistic of 0.91, signifying an ‘almost perfect’ agreement between the human footprint and the validation data set. By increasing the number and accuracy of mapped pressures, our map demonstrates much more widespread pressures in Canada than were indicated by previous global mapping efforts, demonstrating the value in specific national data applications. Ecological areas with immense anthropogenic pressure, highlight challenges that may arise when planning for ecologically representative protected areas.",,,https://borealisdata.ca/dataset.xhtml?persistentId=doi:10.5683/SP2/EVKAVL,Open,,Canada,Raster,Environmental,Dataset,300 m,Organization,,7,data_item,inputs,/img/derivatives/simple/canfootprint/thumbnail.jpg,/img/derivatives/simple/canfootprint/fullwidth.jpg
+cbc,Christmas Bird Count,"The Christmas Bird Count (CBC) is a long-standing program of the National Audubon Society, with over 100 years of citizen science involvement. It is an early-winter bird census, where thousands of volunteers across the US, Canada and many countries in the Western Hemisphere, go out over a 24 hour period to count birds.",Birds,Terrestrial,https://netapp.audubon.org/cbcobservation/?_gl=1*1mwxjtp*_ga*MTQyOTczNTE1NC4xNjczNjIyMjI5*_ga_X2XNL2MWTT*MTY3MzYyMjIyOC4xLjAuMTY3MzYyMjIyOS41OS4wLjA.&_gl=1*1mwxjtp*_ga*MTQyOTczNTE1NC4xNjczNjIyMjI5*_ga_X2X,Open,,Canada,Count circles,Occurrence,Dataset,,Organization,,8,data_item,inputs,/img/derivatives/simple/cbc/thumbnail.jpg,/img/derivatives/simple/cbc/fullwidth.jpg
+climna,ClimateNA,"ClimateNA is a standalone MS Windows application that downscales PRISM (Daly et al. 2008) 1971-2000 gridded monthly climate normal data (800 x 800 m) to scale-free point locations. It calculates and derives many (>200) monthly, seasonal and annual climate variables. ClimateNA also uses the scale-free data as a baseline to downscale historical and future climate variables for individual years and periods between 1901 and 2100. ClimateNA covers entire North America (shown below)",,Freshwater/Terrestrial,https://climatena.ca/,Open,,North America,Raster,"Watercourse, Climate",Data tool,scale-free,Individual,,9,data_item,inputs,/img/derivatives/simple/climna/thumbnail.jpg,/img/derivatives/simple/climna/fullwidth.jpg
