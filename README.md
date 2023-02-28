@@ -105,6 +105,8 @@ After the last step, the terminal will provide you with a localhost URL for you 
 
 # Using Docker
 
+Make sure you `cd` into the project directory.
+
 To use Wax in a container, make sure you are familiar with Docker and have [Docker installed](https://docs.docker.com/get-docker/).
 
 Run the "Getting Started" steps 1-6 above to copy and `cd` into the repo.  
