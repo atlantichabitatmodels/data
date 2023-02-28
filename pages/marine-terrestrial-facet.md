@@ -6,4 +6,4 @@ permalink: /marine-terrestrial-facet/
 
 ### By marine or terrestrial
 
-{% include collection_gallery.html facet_by='marine_terrestrial' collection='inputs' %}
+{% include collection_gallery.html facet_by='marine_terrestrial_freshwater' collection='inputs' %}
