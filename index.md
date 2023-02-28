@@ -13,9 +13,9 @@ This is a product that has been developed by the [Atlantic Canada Species At Ris
 Our objective is to make it easier for model builders to find the data they need to produce high-quality products that can be used to support the conservation of Species At Risk in our region.
 
 More specifically, we hope that this data catalogue will:
-Facilitate awareness of modelling datasets
-Provide guidance on appropriate use of datasets
-Ensure data is accessible for use in models
+1. Facilitate awareness of modelling datasets
+2. Provide guidance on appropriate use of datasets
+3. Ensure data is accessible for use in models
 
 [**Please help us by contributing to this resource**](https://docs.google.com/spreadsheets/d/1_GZKDpZa18Ga0irokXhh-1ZUyF3TPi0Jl_yG4NrdVlk/edit#gid=1416728414)
 

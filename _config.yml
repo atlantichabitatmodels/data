@@ -110,7 +110,9 @@ menu:
   - label: 'Contribute'
     link: 'https://docs.google.com/spreadsheets/d/1_GZKDpZa18Ga0irokXhh-1ZUyF3TPi0Jl_yG4NrdVlk/edit#gid=1416728414'
   - label: 'Resources'
-    link: '/resources/'
+    sub:
+    - label: 'Information to Include in a Data Request'
+      link: '/requesting-data/'
 
 # --------------------------------------------------------------
 # SITE FOOTER SETTINGS
