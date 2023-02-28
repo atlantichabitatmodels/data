@@ -18,7 +18,7 @@
 # Feel free to change these! For more info, refer to:
 # ~> https://jekyllrb.com/docs/configuration/options/
 
-title:            'Atlantic Canada Species At Risk Habitat Modelling Data Catalogue'
+title:            'Atlantic Canada Species At Risk Modelling Data Catalogue'
 description:      'A resource for Species At Risk model builders to find data they need and deposit data they create'
 url:              'https://atlantichabitatmodels.github.io'
 baseurl:          '/data'
