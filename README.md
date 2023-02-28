@@ -128,6 +128,14 @@ bundle exec jekyll serve --host 0.0.0.0
 
 You can exit the container at any time with `$ exit`, which will automatically stop and remove the container.
 
+# Commands for getting data ready again
+bundle exec rake wax:clobber inputs
+bundle exec rake wax:derivatives:simple inputs
+bundle exec rake wax:pages inputs
+bundle exec rake wax:search main
+bundle exec jekyll serve --host 0.0.0.0
+
+
 # Contributing
 
 We welcome contributions to Wax, including bug reports and feature requests (submitted as [Issues](https://github.com/minicomp/wax/issues)), code contributions (submitted as [Pull Requests](https://github.com/minicomp/wax/pulls)), and documentation updates (submitted however!) Not sure where to start? Feel free to get in touch via [GitHub issue](https://github.com/minicomp/wax/issues) or grab an invite to join the conversation on the `#minicomp-wax` channel of the [Code4Lib Slack](https://docs.google.com/forms/d/e/1FAIpQLSeD77mBp0Y13mFePF8UmDwFrlbxNx3VttEjz_3dgglJeK-Zbg/viewform?c=0&w=1).
