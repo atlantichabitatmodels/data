@@ -32,7 +32,7 @@ p {
   color: $text-color;
   max-width: 100%;
   margin-bottom: $less-margin;
-  letter-spacing: .02rem;
+  letter-spacing: .0rem;
   font-weight: 400;
   font-size: 1rem;
   line-height: 1.75rem;
@@ -53,7 +53,7 @@ header & nav bar
   color: $text-color;
   z-index: 100000;
   padding: $margin;
-  letter-spacing: 0.075rem;
+  letter-spacing: 0.00rem;
 
   .navbar-brand {
     font-weight: 700;
@@ -110,7 +110,7 @@ content section
     margin-bottom: $less-margin;
     margin-top: $more-margin;
     font-family: $heading-font;
-    letter-spacing: 0.1rem;
+    letter-spacing: 0.0rem;
   }
 
   h1 {
@@ -120,13 +120,13 @@ content section
 
   h2 {
     font-size: 2rem;
-    letter-spacing: 0.1rem;
+    letter-spacing: 0.0rem;
   }
 
   h3 {
     font-size: 1.5rem;
     font-weight: 700;
-    letter-spacing: 0.077rem;
+    letter-spacing: 0.0rem;
   }
 
   h4 {
@@ -136,7 +136,7 @@ content section
 
   h5 {
     font-size: 1rem;
-    letter-spacing: 0.15rem;
+    letter-spacing: 0.0rem;
   }
 
   img {
@@ -217,7 +217,6 @@ content section
     margin: 0;
   }
   .footer-description {
-    font-family: $heading-font;
     margin: 0;
     font-size: .9em;
     line-height: 1.2;
@@ -228,7 +227,6 @@ content section
     line-height: 1.2;
   }
   .footer-links {
-    font-family: $heading-font;
     margin: 0;
     font-size: .9em;
     line-height: 1.2;
