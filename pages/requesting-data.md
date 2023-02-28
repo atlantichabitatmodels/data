@@ -4,7 +4,7 @@ title: Information to Include in a Data Request
 permalink: /requesting-data/
 ---
 
-This resource is intended to facilitate access to data for model builders. However, sometimes data cannot be accessed without explicit permission from the data holder. We've prepared some tips for you when requesting data so that you have the greatest chance of success.
+Sometimes data cannot be accessed without explicit permission from the data holder. We've prepared some tips for you when requesting data so that you have the greatest chance of success. Consider including these items in your data request:
 
 ### Project description
 What are you studying
