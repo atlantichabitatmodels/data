@@ -131,14 +131,6 @@ layout: none
     "lunr_id": 15
   },
   {
-    "pid": "cosewic",
-    "label": "COSEWIC",
-    "collection": "inputs",
-    "thumbnail": "",
-    "permalink": "/inputs/cosewic",
-    "lunr_id": 16
-  },
-  {
     "pid": "criticalhabitat",
     "label": "Critical Habitat for SAR in Canada (Parks Canada)",
     "collection": "inputs",
