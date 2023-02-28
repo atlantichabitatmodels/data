@@ -4,4 +4,4 @@ title: Resources
 permalink: /resources/
 ---
 
-[Tips for requesting data](../requesting-data)
+[Information to Include in a Data Request](../requesting-data)
