@@ -19,7 +19,7 @@ description: "Standardized distribution maps for over 33,500 species of fishes, 
   the web through the use of C-squares Mapper developed at CSIRO Marine and Atmospheric
   Research in Australia (Rees, 2002, 2003). \n"
 taxon_group: fishes, marine mammals and invertebrates
-marine_terrestrial_freshwater: Marine/Freshwater
+marine_terrestrial_freshwater: Marine|Freshwater
 link: https://www.aquamaps.org/
 open_closed: Open
 contact_email: 
@@ -30,7 +30,9 @@ data_product_type: Data project
 cell_size: half-degree latitude and longitude
 organization_individual: Organization
 closed_consent_received: 
-order: '1'
+assignee: Jocelyn
+image_source: https://en.wikipedia.org/wiki/AquaMaps#/media/File:Aquamap-mola-mola-20091106-med-res.png
+order: '01'
 layout: data_item
 collection: inputs
 thumbnail: "/img/derivatives/simple/aquamaps/thumbnail.jpg"

@@ -14,9 +14,11 @@ data_product_type:
 cell_size: 
 organization_individual: 
 closed_consent_received: 
-order: '51'
+assignee: Grant
+image_source: 
+order: '53'
 layout: data_item
 collection: inputs
-thumbnail: 
-full: 
+thumbnail: "/img/derivatives/simple/aafcaci/thumbnail.jpg"
+full: "/img/derivatives/simple/aafcaci/fullwidth.jpg"
 ---

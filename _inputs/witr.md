@@ -1,12 +1,13 @@
 ---
 pid: witr
 label: Wild Trax
-description: 
+description: A platform to manage, store, process, share and discover biological and
+  environmental data.
 taxon_group: 
 marine_terrestrial_freshwater: Terrestrial
 link: https://www.wildtrax.ca/home
 open_closed: Open
-contact_email: 
+contact_email: na
 jurisdiction: 
 raster_vector: 
 _tags: 
@@ -14,9 +15,11 @@ data_product_type:
 cell_size: 
 organization_individual: 
 closed_consent_received: 
-order: '46'
+assignee: Grant
+image_source: 
+order: '48'
 layout: data_item
 collection: inputs
-thumbnail: 
-full: 
+thumbnail: "/img/derivatives/simple/witr/thumbnail.jpg"
+full: "/img/derivatives/simple/witr/fullwidth.jpg"
 ---

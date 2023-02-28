@@ -4,7 +4,7 @@ label: OBIS
 description: 
 taxon_group: 
 marine_terrestrial_freshwater: Marine
-link: 
+link: https://obis.org/
 open_closed: 
 contact_email: 
 jurisdiction: 
@@ -14,9 +14,11 @@ data_product_type:
 cell_size: 
 organization_individual: 
 closed_consent_received: 
-order: '40'
+assignee: Grant
+image_source: 
+order: '42'
 layout: data_item
 collection: inputs
-thumbnail: 
-full: 
+thumbnail: "/img/derivatives/simple/obis/thumbnail.jpg"
+full: "/img/derivatives/simple/obis/fullwidth.jpg"
 ---

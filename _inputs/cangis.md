@@ -8,7 +8,7 @@ description: |-
 
   We started this page in 2010 as a way to collaborate links to all Canadian Open Data (sites that offer data downloads at no cost and without restrictions), free geospatial data, online web mapping applications and other sources of geospatial information (including National, Provincial and Municipal levels).
 taxon_group: 
-marine_terrestrial_freshwater: Marine/Freshwater/Terrestrial
+marine_terrestrial_freshwater: Marine|Freshwater|Terrestrial
 link: https://canadiangis.com/data.php
 open_closed: Open
 contact_email: https://canadiangis.com/contact
@@ -19,7 +19,9 @@ data_product_type: Data portal
 cell_size: 
 organization_individual: Organization
 closed_consent_received: 
-order: '6'
+assignee: Jocelyn
+image_source: https://canadiangis.com/wp-content/uploads/CanadianGIS-rec-logo-2021-v4-705x262.png
+order: '06'
 layout: data_item
 collection: inputs
 thumbnail: "/img/derivatives/simple/cangis/thumbnail.jpg"

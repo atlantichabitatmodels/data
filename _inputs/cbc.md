@@ -17,7 +17,9 @@ data_product_type: Dataset
 cell_size: 
 organization_individual: Organization
 closed_consent_received: 
-order: '8'
+assignee: Jocelyn
+image_source: https://www.ogeecheeaudubon.org/christmas-bird-count
+order: '09'
 layout: data_item
 collection: inputs
 thumbnail: "/img/derivatives/simple/cbc/thumbnail.jpg"

@@ -12,12 +12,14 @@ open_closed: Open
 contact_email: 
 jurisdiction: Canada
 raster_vector: Point, Raster
-_tags: Occurrence, Environmental
+_tags: Occurrence|Environmental
 data_product_type: Data project
 cell_size: 
 organization_individual: Organization
 closed_consent_received: 
-order: '3'
+assignee: Jocelyn
+image_source: https://borealbirds.ca/
+order: '03'
 layout: data_item
 collection: inputs
 thumbnail: "/img/derivatives/simple/bamp/thumbnail.jpg"

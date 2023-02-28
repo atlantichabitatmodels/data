@@ -10,7 +10,7 @@ description: 'This feature layer depicts the watershed boundaries of Canada and 
   includes all three drainage area boundaries as well as the highest order boundary,
   the ocean drainage area.'
 taxon_group: 
-marine_terrestrial_freshwater: Marine/Freshwater/Terrestrial
+marine_terrestrial_freshwater: Marine|Freshwater|Terrestrial
 link: 'https://www.arcgis.com/home/item.html?id=12b6e33d5a754c92b97ae5d0fed6940a '
 open_closed: Open
 contact_email: 
@@ -21,7 +21,9 @@ data_product_type: Dataset
 cell_size: 
 organization_individual: Organization
 closed_consent_received: 
-order: '5'
+assignee: Jocelyn
+image_source: 'https://www.arcgis.com/home/item.html?id=12b6e33d5a754c92b97ae5d0fed6940a '
+order: '05'
 layout: data_item
 collection: inputs
 thumbnail: "/img/derivatives/simple/watershedcan/thumbnail.jpg"

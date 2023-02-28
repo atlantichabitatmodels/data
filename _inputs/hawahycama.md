@@ -14,9 +14,11 @@ data_product_type:
 cell_size: 
 organization_individual: 
 closed_consent_received: 
-order: '59'
+assignee: Grant
+image_source: 
+order: '61'
 layout: data_item
 collection: inputs
-thumbnail: 
-full: 
+thumbnail: "/img/derivatives/simple/hawahycama/thumbnail.jpg"
+full: "/img/derivatives/simple/hawahycama/fullwidth.jpg"
 ---

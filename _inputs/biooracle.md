@@ -18,7 +18,9 @@ data_product_type: Dataset
 cell_size: 5 arcmin
 organization_individual: Organization
 closed_consent_received: 
-order: '2'
+assignee: Jocelyn
+image_source: https://lifewatch.be/en/news?id=8875
+order: '02'
 layout: data_item
 collection: inputs
 thumbnail: "/img/derivatives/simple/biooracle/thumbnail.jpg"

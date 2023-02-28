@@ -15,7 +15,9 @@ data_product_type: Data portal
 cell_size: 
 organization_individual: Organization
 closed_consent_received: 
-order: '10'
+assignee: Jocelyn
+image_source: https://github.com/copernicusmarine
+order: '11'
 layout: data_item
 collection: inputs
 thumbnail: "/img/derivatives/simple/cmems/thumbnail.jpg"

@@ -30,7 +30,9 @@ data_product_type: Dataset
 cell_size: 300 m
 organization_individual: Organization
 closed_consent_received: 
-order: '7'
+assignee: Jocelyn
+image_source: https://borealisdata.ca/file.xhtml?fileId=106023&version=3.1
+order: '07'
 layout: data_item
 collection: inputs
 thumbnail: "/img/derivatives/simple/canfootprint/thumbnail.jpg"

@@ -14,9 +14,11 @@ data_product_type:
 cell_size: 
 organization_individual: 
 closed_consent_received: 
-order: '56'
+assignee: Grant
+image_source: 
+order: '58'
 layout: data_item
 collection: inputs
-thumbnail: 
-full: 
+thumbnail: "/img/derivatives/simple/nsgescat/thumbnail.jpg"
+full: "/img/derivatives/simple/nsgescat/fullwidth.jpg"
 ---

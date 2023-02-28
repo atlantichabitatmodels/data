@@ -1,22 +1,28 @@
 ---
 pid: data_input_1
-label: COSEWIC
+label: |-
+  Forest Ecosystem
+  Classification (FEC)
+
+  Includes soil and vegetation types
 description: 
 taxon_group: 
 marine_terrestrial_freshwater: 
-link: Critical Habitat?
-open_closed: 
+link: 
+open_closed: NS DNR
 contact_email: 
-jurisdiction: 
-raster_vector: 
-_tags: 
-data_product_type: 
+jurisdiction: NS
+raster_vector: Vector
+_tags: Soil
+data_product_type: Dataset
 cell_size: 
 organization_individual: 
 closed_consent_received: 
-order: '11'
+assignee: Miranda
+image_source: 
+order: '18'
 layout: data_item
 collection: inputs
-thumbnail: 
-full: 
+thumbnail: ''
+full: ''
 ---

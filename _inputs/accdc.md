@@ -13,18 +13,20 @@ description: The Atlantic Canada Conservation Data Centre (AC CDC) compiles and 
   assessments, and to make significant contributions to conservation planning and
   decision making.
 taxon_group: Various
-marine_terrestrial_freshwater: Marine/Freshwater/Terrestrial
+marine_terrestrial_freshwater: Marine|Freshwater|Terrestrial
 link: http://accdc.com/en/data-request.html
 open_closed: Closed
 contact_email: datarequests@accdc.ca
-jurisdiction: NS, NB, PEI, NL
+jurisdiction: NS|NB|PEI|NL
 raster_vector: Point
 _tags: Occurrence
 data_product_type: Database
 cell_size: 
 organization_individual: Organization
 closed_consent_received: Presumed
-order: '0'
+assignee: Jocelyn
+image_source: accdc.com
+order: '00'
 layout: data_item
 collection: inputs
 thumbnail: "/img/derivatives/simple/accdc/thumbnail.jpg"

@@ -3,7 +3,7 @@ pid: acgihu
 label: ArcGIS Hub
 description: Open data
 taxon_group: all
-marine_terrestrial_freshwater: Marine/Terrestrial/Freshwater
+marine_terrestrial_freshwater: Marine|Terrestrial|Freshwater
 link: https://hub.arcgis.com/search?collection=Dataset
 open_closed: Open
 contact_email: na
@@ -14,9 +14,11 @@ data_product_type:
 cell_size: 
 organization_individual: 
 closed_consent_received: 
-order: '64'
+assignee: Grant
+image_source: 
+order: '66'
 layout: data_item
 collection: inputs
-thumbnail: 
-full: 
+thumbnail: "/img/derivatives/simple/acgihu/thumbnail.jpg"
+full: "/img/derivatives/simple/acgihu/fullwidth.jpg"
 ---

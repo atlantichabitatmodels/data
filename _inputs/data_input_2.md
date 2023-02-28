@@ -1,22 +1,27 @@
 ---
 pid: data_input_2
-label: Critical Habitat for SAR in Canada (Parks Canada)
+label: |-
+  Forest Sensitivity to
+  Atmospheric Acid
+  Deposition
 description: 
 taxon_group: 
 marine_terrestrial_freshwater: 
-link: https://search.open.canada.ca/openmap/47caa405-be2b-4e9e-8f53-c478ade2ca74
-open_closed: 
+link: 
+open_closed: Closed
 contact_email: 
 jurisdiction: 
 raster_vector: 
 _tags: 
-data_product_type: 
+data_product_type: Dataset
 cell_size: 
 organization_individual: 
 closed_consent_received: 
-order: '12'
+assignee: Miranda
+image_source: 
+order: '19'
 layout: data_item
 collection: inputs
-thumbnail: 
-full: 
+thumbnail: ''
+full: ''
 ---
