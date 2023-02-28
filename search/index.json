@@ -136,7 +136,7 @@ layout: none
     "collection": "inputs",
     "thumbnail": "/img/derivatives/simple/criticalhabitat/thumbnail.jpg",
     "permalink": "/inputs/criticalhabitat",
-    "lunr_id": 17
+    "lunr_id": 16
   },
   {
     "pid": "dalgis",
@@ -144,7 +144,7 @@ layout: none
     "collection": "inputs",
     "thumbnail": "/img/derivatives/simple/dalgis/thumbnail.jpg",
     "permalink": "/inputs/dalgis",
-    "lunr_id": 18
+    "lunr_id": 17
   },
   {
     "pid": "data_input_1",
@@ -152,7 +152,7 @@ layout: none
     "collection": "inputs",
     "thumbnail": "",
     "permalink": "/inputs/data_input_1",
-    "lunr_id": 19
+    "lunr_id": 18
   },
   {
     "pid": "data_input_2",
@@ -160,7 +160,7 @@ layout: none
     "collection": "inputs",
     "thumbnail": "",
     "permalink": "/inputs/data_input_2",
-    "lunr_id": 20
+    "lunr_id": 19
   },
   {
     "pid": "esgf",
@@ -168,7 +168,7 @@ layout: none
     "collection": "inputs",
     "thumbnail": "/img/derivatives/simple/esgf/thumbnail.jpg",
     "permalink": "/inputs/esgf",
-    "lunr_id": 21
+    "lunr_id": 20
   },
   {
     "pid": "focwp",
@@ -176,7 +176,7 @@ layout: none
     "collection": "inputs",
     "thumbnail": "",
     "permalink": "/inputs/focwp",
-    "lunr_id": 22
+    "lunr_id": 21
   },
   {
     "pid": "frogwatch",
@@ -184,7 +184,7 @@ layout: none
     "collection": "inputs",
     "thumbnail": "/img/derivatives/simple/frogwatch/thumbnail.jpg",
     "permalink": "/inputs/frogwatch",
-    "lunr_id": 23
+    "lunr_id": 22
   },
   {
     "pid": "gbif",
@@ -192,7 +192,7 @@ layout: none
     "collection": "inputs",
     "thumbnail": "/img/derivatives/simple/gbif/thumbnail.jpg",
     "permalink": "/inputs/gbif",
-    "lunr_id": 24
+    "lunr_id": 23
   },
   {
     "pid": "gca",
@@ -200,7 +200,7 @@ layout: none
     "collection": "inputs",
     "thumbnail": "/img/derivatives/simple/gca/thumbnail.jpg",
     "permalink": "/inputs/gca",
-    "lunr_id": 25
+    "lunr_id": 24
   },
   {
     "pid": "geonb",
@@ -208,7 +208,7 @@ layout: none
     "collection": "inputs",
     "thumbnail": "/img/derivatives/simple/geonb/thumbnail.jpg",
     "permalink": "/inputs/geonb",
-    "lunr_id": 26
+    "lunr_id": 25
   },
   {
     "pid": "gfw",
@@ -216,7 +216,7 @@ layout: none
     "collection": "inputs",
     "thumbnail": "/img/derivatives/simple/gfw/thumbnail.jpg",
     "permalink": "/inputs/gfw",
-    "lunr_id": 27
+    "lunr_id": 26
   },
   {
     "pid": "hawahycama",
@@ -224,7 +224,7 @@ layout: none
     "collection": "inputs",
     "thumbnail": "/img/derivatives/simple/hawahycama/thumbnail.jpg",
     "permalink": "/inputs/hawahycama",
-    "lunr_id": 28
+    "lunr_id": 27
   },
   {
     "pid": "humanfoot",
@@ -232,7 +232,7 @@ layout: none
     "collection": "inputs",
     "thumbnail": "",
     "permalink": "/inputs/humanfoot",
-    "lunr_id": 29
+    "lunr_id": 28
   },
   {
     "pid": "inat",
@@ -240,7 +240,7 @@ layout: none
     "collection": "inputs",
     "thumbnail": "/img/derivatives/simple/inat/thumbnail.jpg",
     "permalink": "/inputs/inat",
-    "lunr_id": 30
+    "lunr_id": 29
   },
   {
     "pid": "lidardata",
@@ -248,7 +248,7 @@ layout: none
     "collection": "inputs",
     "thumbnail": "",
     "permalink": "/inputs/lidardata",
-    "lunr_id": 31
+    "lunr_id": 30
   },
   {
     "pid": "naaiphli",
@@ -256,7 +256,7 @@ layout: none
     "collection": "inputs",
     "thumbnail": "/img/derivatives/simple/naaiphli/thumbnail.jpg",
     "permalink": "/inputs/naaiphli",
-    "lunr_id": 32
+    "lunr_id": 31
   },
   {
     "pid": "nasaearthsci",
@@ -264,7 +264,7 @@ layout: none
     "collection": "inputs",
     "thumbnail": "/img/derivatives/simple/nasaearthsci/thumbnail.jpg",
     "permalink": "/inputs/nasaearthsci",
-    "lunr_id": 33
+    "lunr_id": 32
   },
   {
     "pid": "nativeland",
@@ -272,7 +272,7 @@ layout: none
     "collection": "inputs",
     "thumbnail": "/img/derivatives/simple/nativeland/thumbnail.jpg",
     "permalink": "/inputs/nativeland",
-    "lunr_id": 34
+    "lunr_id": 33
   },
   {
     "pid": "naturewatch",
@@ -280,7 +280,7 @@ layout: none
     "collection": "inputs",
     "thumbnail": "/img/derivatives/simple/naturewatch/thumbnail.jpg",
     "permalink": "/inputs/naturewatch",
-    "lunr_id": 35
+    "lunr_id": 34
   },
   {
     "pid": "nbefi",
@@ -288,7 +288,7 @@ layout: none
     "collection": "inputs",
     "thumbnail": "/img/derivatives/simple/nbefi/thumbnail.jpg",
     "permalink": "/inputs/nbefi",
-    "lunr_id": 36
+    "lunr_id": 35
   },
   {
     "pid": "nbfi",
@@ -296,7 +296,7 @@ layout: none
     "collection": "inputs",
     "thumbnail": "/img/derivatives/simple/nbfi/thumbnail.jpg",
     "permalink": "/inputs/nbfi",
-    "lunr_id": 37
+    "lunr_id": 36
   },
   {
     "pid": "ncstclco",
@@ -304,7 +304,7 @@ layout: none
     "collection": "inputs",
     "thumbnail": "/img/derivatives/simple/ncstclco/thumbnail.jpg",
     "permalink": "/inputs/ncstclco",
-    "lunr_id": 38
+    "lunr_id": 37
   },
   {
     "pid": "nfi",
@@ -312,7 +312,7 @@ layout: none
     "collection": "inputs",
     "thumbnail": "/img/derivatives/simple/nfi/thumbnail.jpg",
     "permalink": "/inputs/nfi",
-    "lunr_id": 39
+    "lunr_id": 38
   },
   {
     "pid": "nhn",
@@ -320,7 +320,7 @@ layout: none
     "collection": "inputs",
     "thumbnail": "/img/derivatives/simple/nhn/thumbnail.jpg",
     "permalink": "/inputs/nhn",
-    "lunr_id": 40
+    "lunr_id": 39
   },
   {
     "pid": "noaa",
@@ -328,7 +328,7 @@ layout: none
     "collection": "inputs",
     "thumbnail": "/img/derivatives/simple/noaa/thumbnail.jpg",
     "permalink": "/inputs/noaa",
-    "lunr_id": 41
+    "lunr_id": 40
   },
   {
     "pid": "nsdalo",
@@ -336,7 +336,7 @@ layout: none
     "collection": "inputs",
     "thumbnail": "/img/derivatives/simple/nsdalo/thumbnail.jpg",
     "permalink": "/inputs/nsdalo",
-    "lunr_id": 42
+    "lunr_id": 41
   },
   {
     "pid": "nseclacl",
@@ -344,7 +344,7 @@ layout: none
     "collection": "inputs",
     "thumbnail": "/img/derivatives/simple/nseclacl/thumbnail.jpg",
     "permalink": "/inputs/nseclacl",
-    "lunr_id": 43
+    "lunr_id": 42
   },
   {
     "pid": "nsfi",
@@ -352,7 +352,7 @@ layout: none
     "collection": "inputs",
     "thumbnail": "/img/derivatives/simple/nsfi/thumbnail.jpg",
     "permalink": "/inputs/nsfi",
-    "lunr_id": 44
+    "lunr_id": 43
   },
   {
     "pid": "nsfn",
@@ -360,7 +360,7 @@ layout: none
     "collection": "inputs",
     "thumbnail": "/img/derivatives/simple/nsfn/thumbnail.jpg",
     "permalink": "/inputs/nsfn",
-    "lunr_id": 45
+    "lunr_id": 44
   },
   {
     "pid": "nsfoin",
@@ -368,7 +368,7 @@ layout: none
     "collection": "inputs",
     "thumbnail": "/img/derivatives/simple/nsfoin/thumbnail.jpg",
     "permalink": "/inputs/nsfoin",
-    "lunr_id": 46
+    "lunr_id": 45
   },
   {
     "pid": "nsgdd",
@@ -376,7 +376,7 @@ layout: none
     "collection": "inputs",
     "thumbnail": "/img/derivatives/simple/nsgdd/thumbnail.jpg",
     "permalink": "/inputs/nsgdd",
-    "lunr_id": 47
+    "lunr_id": 46
   },
   {
     "pid": "nsgescat",
@@ -384,7 +384,7 @@ layout: none
     "collection": "inputs",
     "thumbnail": "/img/derivatives/simple/nsgescat/thumbnail.jpg",
     "permalink": "/inputs/nsgescat",
-    "lunr_id": 48
+    "lunr_id": 47
   },
   {
     "pid": "nsgrwaat",
@@ -392,7 +392,7 @@ layout: none
     "collection": "inputs",
     "thumbnail": "/img/derivatives/simple/nsgrwaat/thumbnail.jpg",
     "permalink": "/inputs/nsgrwaat",
-    "lunr_id": 49
+    "lunr_id": 48
   },
   {
     "pid": "nshn",
@@ -400,7 +400,7 @@ layout: none
     "collection": "inputs",
     "thumbnail": "/img/derivatives/simple/nshn/thumbnail.jpg",
     "permalink": "/inputs/nshn",
-    "lunr_id": 50
+    "lunr_id": 49
   },
   {
     "pid": "nsodd",
@@ -408,7 +408,7 @@ layout: none
     "collection": "inputs",
     "thumbnail": "/img/derivatives/simple/nsodd/thumbnail.jpg",
     "permalink": "/inputs/nsodd",
-    "lunr_id": 51
+    "lunr_id": 50
   },
   {
     "pid": "nspaprar",
@@ -416,7 +416,7 @@ layout: none
     "collection": "inputs",
     "thumbnail": "/img/derivatives/simple/nspaprar/thumbnail.jpg",
     "permalink": "/inputs/nspaprar",
-    "lunr_id": 52
+    "lunr_id": 51
   },
   {
     "pid": "nsprlavi",
@@ -424,7 +424,7 @@ layout: none
     "collection": "inputs",
     "thumbnail": "/img/derivatives/simple/nsprlavi/thumbnail.jpg",
     "permalink": "/inputs/nsprlavi",
-    "lunr_id": 53
+    "lunr_id": 52
   },
   {
     "pid": "nsstcl",
@@ -432,7 +432,7 @@ layout: none
     "collection": "inputs",
     "thumbnail": "/img/derivatives/simple/nsstcl/thumbnail.jpg",
     "permalink": "/inputs/nsstcl",
-    "lunr_id": 54
+    "lunr_id": 53
   },
   {
     "pid": "obis",
@@ -440,7 +440,7 @@ layout: none
     "collection": "inputs",
     "thumbnail": "/img/derivatives/simple/obis/thumbnail.jpg",
     "permalink": "/inputs/obis",
-    "lunr_id": 55
+    "lunr_id": 54
   },
   {
     "pid": "ocad",
@@ -448,7 +448,7 @@ layout: none
     "collection": "inputs",
     "thumbnail": "/img/derivatives/simple/ocad/thumbnail.jpg",
     "permalink": "/inputs/ocad",
-    "lunr_id": 56
+    "lunr_id": 55
   },
   {
     "pid": "octrneca",
@@ -456,7 +456,7 @@ layout: none
     "collection": "inputs",
     "thumbnail": "/img/derivatives/simple/octrneca/thumbnail.jpg",
     "permalink": "/inputs/octrneca",
-    "lunr_id": 57
+    "lunr_id": 56
   },
   {
     "pid": "plne",
@@ -464,7 +464,7 @@ layout: none
     "collection": "inputs",
     "thumbnail": "/img/derivatives/simple/plne/thumbnail.jpg",
     "permalink": "/inputs/plne",
-    "lunr_id": 58
+    "lunr_id": 57
   },
   {
     "pid": "precma",
@@ -472,7 +472,7 @@ layout: none
     "collection": "inputs",
     "thumbnail": "/img/derivatives/simple/precma/thumbnail.jpg",
     "permalink": "/inputs/precma",
-    "lunr_id": 59
+    "lunr_id": 58
   },
   {
     "pid": "trspincafoec",
@@ -480,7 +480,7 @@ layout: none
     "collection": "inputs",
     "thumbnail": "/img/derivatives/simple/trspincafoec/thumbnail.jpg",
     "permalink": "/inputs/trspincafoec",
-    "lunr_id": 60
+    "lunr_id": 59
   },
   {
     "pid": "unbbourque",
@@ -488,7 +488,7 @@ layout: none
     "collection": "inputs",
     "thumbnail": "/img/derivatives/simple/unbbourque/thumbnail.jpg",
     "permalink": "/inputs/unbbourque",
-    "lunr_id": 61
+    "lunr_id": 60
   },
   {
     "pid": "watershedcan",
@@ -496,7 +496,7 @@ layout: none
     "collection": "inputs",
     "thumbnail": "/img/derivatives/simple/watershedcan/thumbnail.jpg",
     "permalink": "/inputs/watershedcan",
-    "lunr_id": 62
+    "lunr_id": 61
   },
   {
     "pid": "wearmafonosc",
@@ -504,7 +504,7 @@ layout: none
     "collection": "inputs",
     "thumbnail": "/img/derivatives/simple/wearmafonosc/thumbnail.jpg",
     "permalink": "/inputs/wearmafonosc",
-    "lunr_id": 63
+    "lunr_id": 62
   },
   {
     "pid": "witr",
@@ -512,7 +512,7 @@ layout: none
     "collection": "inputs",
     "thumbnail": "/img/derivatives/simple/witr/thumbnail.jpg",
     "permalink": "/inputs/witr",
-    "lunr_id": 64
+    "lunr_id": 63
   },
   {
     "pid": "woclrepr",
@@ -520,7 +520,7 @@ layout: none
     "collection": "inputs",
     "thumbnail": "/img/derivatives/simple/woclrepr/thumbnail.jpg",
     "permalink": "/inputs/woclrepr",
-    "lunr_id": 65
+    "lunr_id": 64
   },
   {
     "pid": "worldclim",
@@ -528,6 +528,6 @@ layout: none
     "collection": "inputs",
     "thumbnail": "/img/derivatives/simple/worldclim/thumbnail.jpg",
     "permalink": "/inputs/worldclim",
-    "lunr_id": 66
+    "lunr_id": 65
   }
 ]
