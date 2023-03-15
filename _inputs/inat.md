@@ -1,22 +1,23 @@
 ---
 pid: inat
 label: iNaturalist
+short_description: 
 description: 
 taxon_group: 
-marine_terrestrial_freshwater: 
+ecosystem_type: 
 link: https://inaturalist.ca/
-open_closed: Open
+accessibility: Open
 contact_email: 
 jurisdiction: 
-raster_vector: 
+spatial_data_type: 
 _tags: Occurrence
 data_product_type: Data portal
 cell_size: 
 organization_individual: 
 closed_consent_received: 
+temporal_coverage: 
 assignee: Sarah
-image_source: 
-order: '27'
+order: '26'
 layout: data_item
 collection: inputs
 thumbnail: "/img/derivatives/simple/inat/thumbnail.jpg"

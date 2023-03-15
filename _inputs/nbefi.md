@@ -1,22 +1,23 @@
 ---
 pid: nbefi
 label: NB Enhanced Forest Inventory
+short_description: 
 description: 
 taxon_group: 
-marine_terrestrial_freshwater: 
+ecosystem_type: 
 link: 
-open_closed: Closed
+accessibility: Closed
 contact_email: 
 jurisdiction: NB
-raster_vector: 
+spatial_data_type: 
 _tags: 
 data_product_type: 
 cell_size: 
 organization_individual: 
 closed_consent_received: 
+temporal_coverage: 
 assignee: Sarah
-image_source: 
-order: '34'
+order: '33'
 layout: data_item
 collection: inputs
 thumbnail: "/img/derivatives/simple/nbefi/thumbnail.jpg"

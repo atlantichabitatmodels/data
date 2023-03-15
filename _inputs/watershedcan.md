@@ -1,6 +1,7 @@
 ---
 pid: watershedcan
 label: Watersheds in Canada
+short_description: 
 description: 'This feature layer depicts the watershed boundaries of Canada and provides
   a detailed look at drainage areas and water flow for the entire land mass of Canada.
   This map service references the Water Survey of Canada (WSC) data. The WSC has a
@@ -10,19 +11,19 @@ description: 'This feature layer depicts the watershed boundaries of Canada and 
   includes all three drainage area boundaries as well as the highest order boundary,
   the ocean drainage area.'
 taxon_group: 
-marine_terrestrial_freshwater: Marine|Freshwater|Terrestrial
+ecosystem_type: Marine|Freshwater|Terrestrial
 link: 'https://www.arcgis.com/home/item.html?id=12b6e33d5a754c92b97ae5d0fed6940a '
-open_closed: Open
+accessibility: Open
 contact_email: 
 jurisdiction: Canada
-raster_vector: Polygon
+spatial_data_type: Polygon
 _tags: Watercourse
 data_product_type: Dataset
 cell_size: 
 organization_individual: Organization
 closed_consent_received: 
+temporal_coverage: 
 assignee: Jocelyn
-image_source: 'https://www.arcgis.com/home/item.html?id=12b6e33d5a754c92b97ae5d0fed6940a '
 order: '05'
 layout: data_item
 collection: inputs

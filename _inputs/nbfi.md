@@ -1,22 +1,23 @@
 ---
 pid: nbfi
 label: NB Forest Inventory
+short_description: 
 description: 
 taxon_group: 
-marine_terrestrial_freshwater: 
+ecosystem_type: 
 link: https://www2.gnb.ca/content/gnb/en/departments/erd/forestry-conservation/content/inventory.html
-open_closed: Open?
+accessibility: Open
 contact_email: 
 jurisdiction: NB
-raster_vector: 
+spatial_data_type: 
 _tags: 
 data_product_type: 
 cell_size: 
 organization_individual: 
 closed_consent_received: 
+temporal_coverage: 
 assignee: Sarah
-image_source: 
-order: '35'
+order: '34'
 layout: data_item
 collection: inputs
 thumbnail: "/img/derivatives/simple/nbfi/thumbnail.jpg"

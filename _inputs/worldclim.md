@@ -1,22 +1,23 @@
 ---
 pid: worldclim
 label: WorldClim (world climatic variables)
+short_description: 
 description: Maps, graphs, tables, and data of the global climate
 taxon_group: na
-marine_terrestrial_freshwater: Terrestrial
+ecosystem_type: Terrestrial
 link: https://www.worldclim.org/
-open_closed: Open
+accessibility: Open
 contact_email: na
 jurisdiction: Global
-raster_vector: 
+spatial_data_type: 
 _tags: 
 data_product_type: 
 cell_size: 
-organization_individual: 
+organization_individual: Organization
 closed_consent_received: 
+temporal_coverage: 
 assignee: Grant
-image_source: 
-order: '50'
+order: '49'
 layout: data_item
 collection: inputs
 thumbnail: "/img/derivatives/simple/worldclim/thumbnail.jpg"

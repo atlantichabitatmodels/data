@@ -204,7 +204,7 @@ layout: none
   },
   {
     "pid": "geonb",
-    "label": "GeoNB \n\nIncludes various environmental data",
+    "label": "GeoNB",
     "collection": "inputs",
     "thumbnail": "/img/derivatives/simple/geonb/thumbnail.jpg",
     "permalink": "/inputs/geonb",
@@ -484,7 +484,7 @@ layout: none
   },
   {
     "pid": "unbbourque",
-    "label": "Charles P.-A. Bourque from UNB: Soil Water Content, Photosynthetically Active Radiation, etc.",
+    "label": "Datasets from Charles P.-A. Bourque at UNB",
     "collection": "inputs",
     "thumbnail": "/img/derivatives/simple/unbbourque/thumbnail.jpg",
     "permalink": "/inputs/unbbourque",

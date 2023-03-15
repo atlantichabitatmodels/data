@@ -1,6 +1,7 @@
 ---
 pid: accdc
 label: AC CDC
+short_description: 
 description: The Atlantic Canada Conservation Data Centre (AC CDC) compiles and provides
   objective data about biological diversity in Atlantic Canada. The AC CDC's expertise
   and data represent the single most comprehensive and current source of information
@@ -13,19 +14,19 @@ description: The Atlantic Canada Conservation Data Centre (AC CDC) compiles and 
   assessments, and to make significant contributions to conservation planning and
   decision making.
 taxon_group: Various
-marine_terrestrial_freshwater: Marine|Freshwater|Terrestrial
+ecosystem_type: Marine|Freshwater|Terrestrial
 link: http://accdc.com/en/data-request.html
-open_closed: Closed
+accessibility: Closed
 contact_email: datarequests@accdc.ca
 jurisdiction: NS|NB|PEI|NL
-raster_vector: Point
+spatial_data_type: Point
 _tags: Occurrence
 data_product_type: Database
 cell_size: 
 organization_individual: Organization
 closed_consent_received: Presumed
+temporal_coverage: 
 assignee: Jocelyn
-image_source: accdc.com
 order: '00'
 layout: data_item
 collection: inputs

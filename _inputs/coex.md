@@ -1,22 +1,23 @@
 ---
 pid: coex
 label: 'Connect Explorer '
+short_description: 
 description: High Resilution Digital Aerial Photography
 taxon_group: 
-marine_terrestrial_freshwater: Terrestrial|Freshwater
+ecosystem_type: Terrestrial|Freshwater
 link: https://explorer.pictometry.com/login.php?utm_source=POL&utm_medium=Graphic&utm_campaign=Login
-open_closed: Closed
+accessibility: Closed
 contact_email: customersupport@eagleview.com
 jurisdiction: NS|Canada|Global
-raster_vector: 
+spatial_data_type: 
 _tags: 
 data_product_type: 
 cell_size: 
-organization_individual: 
+organization_individual: Organization
 closed_consent_received: 
+temporal_coverage: 
 assignee: Grant
-image_source: 
-order: '56'
+order: '55'
 layout: data_item
 collection: inputs
 thumbnail: "/img/derivatives/simple/coex/thumbnail.jpg"

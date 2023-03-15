@@ -1,22 +1,23 @@
 ---
 pid: geonb
-label: "GeoNB \n\nIncludes various environmental data"
-description: 
+label: GeoNB
+short_description: 
+description: Includes various environmental data
 taxon_group: 
-marine_terrestrial_freshwater: 
+ecosystem_type: 
 link: http://www.snb.ca/geonb1/e/DC/catalogue-E.asp
-open_closed: Open
+accessibility: Open
 contact_email: 
 jurisdiction: NB
-raster_vector: 
-_tags: 
+spatial_data_type: 
+_tags: New Brunswick|NB|LiDAR|DEM|CHM|Forest soils
 data_product_type: Data portal
 cell_size: 
 organization_individual: 
 closed_consent_received: 
+temporal_coverage: 
 assignee: Miranda
-image_source: 
-order: '23'
+order: '22'
 layout: data_item
 collection: inputs
 thumbnail: "/img/derivatives/simple/geonb/thumbnail.jpg"

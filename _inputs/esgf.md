@@ -1,23 +1,24 @@
 ---
 pid: esgf
 label: ESGF
+short_description: 
 description: Collection of data from various research projects. Must log in to access
   the full capabilities of the website.
 taxon_group: Various
-marine_terrestrial_freshwater: 
+ecosystem_type: 
 link: https://esgf-node.llnl.gov/projects/esgf-llnl/
-open_closed: 
+accessibility: 
 contact_email: https://esgf.github.io/esgf-user-support/faq.html
 jurisdiction: Canada
-raster_vector: 
+spatial_data_type: 
 _tags: 
 data_product_type: Data portal
 cell_size: 
 organization_individual: 
 closed_consent_received: 
+temporal_coverage: 
 assignee: Miranda
-image_source: 
-order: '16'
+order: '15'
 layout: data_item
 collection: inputs
 thumbnail: "/img/derivatives/simple/esgf/thumbnail.jpg"

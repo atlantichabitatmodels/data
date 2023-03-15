@@ -1,22 +1,23 @@
 ---
 pid: nfi
 label: National Forest Inventory (NFI)
+short_description: 
 description: 
 taxon_group: 
-marine_terrestrial_freshwater: Terrestrial
+ecosystem_type: Terrestrial
 link: https://nfi.nfis.org/en/data_and_tools
-open_closed: Contact
+accessibility: Contact
 contact_email: 
 jurisdiction: Canada
-raster_vector: Polygon
+spatial_data_type: Polygon
 _tags: Forests
 data_product_type: Data portal
 cell_size: 
 organization_individual: 
 closed_consent_received: 
+temporal_coverage: 
 assignee: Sarah
-image_source: 
-order: '30'
+order: '29'
 layout: data_item
 collection: inputs
 thumbnail: "/img/derivatives/simple/nfi/thumbnail.jpg"

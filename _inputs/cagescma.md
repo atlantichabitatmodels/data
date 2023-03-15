@@ -1,22 +1,23 @@
 ---
 pid: cagescma
 label: Canadian Geoscience Maps
+short_description: 
 description: Geology, drift geology, surface geology, minerals
 taxon_group: 
-marine_terrestrial_freshwater: Terrestrial|Freshwater
+ecosystem_type: Terrestrial|Freshwater
 link: https://www.nrcan.gc.ca/maps-tools-and-publications/maps/earth-sciences-maps/10789
-open_closed: Open
+accessibility: Open
 contact_email: na
 jurisdiction: Canada
-raster_vector: 
+spatial_data_type: 
 _tags: 
 data_product_type: 
 cell_size: 
-organization_individual: 
+organization_individual: Organization
 closed_consent_received: 
+temporal_coverage: 
 assignee: Grant
-image_source: 
-order: '59'
+order: '58'
 layout: data_item
 collection: inputs
 thumbnail: "/img/derivatives/simple/cagescma/thumbnail.jpg"

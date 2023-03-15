@@ -1,22 +1,23 @@
 ---
 pid: obis
 label: OBIS
+short_description: 
 description: 
 taxon_group: 
-marine_terrestrial_freshwater: Marine
+ecosystem_type: Marine
 link: https://obis.org/
-open_closed: 
+accessibility: 
 contact_email: 
 jurisdiction: 
-raster_vector: 
+spatial_data_type: 
 _tags: Ocean
 data_product_type: 
 cell_size: 
-organization_individual: 
+organization_individual: Organization
 closed_consent_received: 
+temporal_coverage: 
 assignee: Grant
-image_source: 
-order: '42'
+order: '41'
 layout: data_item
 collection: inputs
 thumbnail: "/img/derivatives/simple/obis/thumbnail.jpg"

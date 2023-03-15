@@ -1,22 +1,23 @@
 ---
 pid: hawahycama
 label: Halifax Water Hyrant and Catchbasin Mapping
+short_description: 
 description: Halifax, catchbasin, hydrants
 taxon_group: na
-marine_terrestrial_freshwater: "?"
+ecosystem_type: Unknown
 link: https://hwc.maps.arcgis.com/apps/webappviewer/index.html?id=857724d1ae3c48e18e28642da0702bb3
-open_closed: Open
+accessibility: Open
 contact_email: na
 jurisdiction: Halifax
-raster_vector: 
+spatial_data_type: 
 _tags: 
 data_product_type: 
 cell_size: 
-organization_individual: 
+organization_individual: Organization
 closed_consent_received: 
+temporal_coverage: 
 assignee: Grant
-image_source: 
-order: '61'
+order: '60'
 layout: data_item
 collection: inputs
 thumbnail: "/img/derivatives/simple/hawahycama/thumbnail.jpg"

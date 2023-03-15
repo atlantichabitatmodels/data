@@ -1,22 +1,23 @@
 ---
 pid: cmems
 label: Copernicus Marine Service
+short_description: 
 description: Providing free and open marine data and services to enable marine policy
   implementation, support Blue growth and scientific innovation.
 taxon_group: 
-marine_terrestrial_freshwater: Marine
+ecosystem_type: Marine
 link: https://marine.copernicus.eu/
-open_closed: Open
+accessibility: Open
 contact_email: 
 jurisdiction: Global
-raster_vector: Raster
+spatial_data_type: Raster
 _tags: Environmental
 data_product_type: Data portal
 cell_size: 
 organization_individual: Organization
 closed_consent_received: 
+temporal_coverage: 
 assignee: Jocelyn
-image_source: https://github.com/copernicusmarine
 order: '11'
 layout: data_item
 collection: inputs

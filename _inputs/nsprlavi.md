@@ -1,23 +1,24 @@
 ---
 pid: nsprlavi
 label: NS Provincial Landscape Viewer
+short_description: 
 description: Protected areas, Wet Areas, NS Roads, Property, Forestry, Crown Land,
   Wildlife
 taxon_group: Various
-marine_terrestrial_freshwater: Terrestrial|Freshwater
+ecosystem_type: Terrestrial|Freshwater
 link: https://nsgi.novascotia.ca/plv/
-open_closed: Open
+accessibility: Open
 contact_email: na
 jurisdiction: NS
-raster_vector: 
+spatial_data_type: 
 _tags: 
 data_product_type: 
 cell_size: 
-organization_individual: 
+organization_individual: Organization
 closed_consent_received: 
+temporal_coverage: 
 assignee: Grant
-image_source: 
-order: '55'
+order: '54'
 layout: data_item
 collection: inputs
 thumbnail: "/img/derivatives/simple/nsprlavi/thumbnail.jpg"

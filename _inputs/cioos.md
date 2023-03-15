@@ -1,21 +1,22 @@
 ---
 pid: cioos
 label: Canadian Integrated Ocean Observing System
+short_description: 
 description: 
 taxon_group: 
-marine_terrestrial_freshwater: Marine
+ecosystem_type: Marine
 link: https://cioos.ca/
-open_closed: 
+accessibility: Open
 contact_email: 
 jurisdiction: 
-raster_vector: 
+spatial_data_type: 
 _tags: 
-data_product_type: 
+data_product_type: Data catalogue
 cell_size: 
 organization_individual: 
 closed_consent_received: 
+temporal_coverage: 
 assignee: 
-image_source: 
 order: '12'
 layout: data_item
 collection: inputs

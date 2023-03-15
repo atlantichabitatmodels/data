@@ -1,22 +1,23 @@
 ---
 pid: naaiphli
 label: National Air Photo Library
+short_description: 
 description: Aerial photogrphy, historic aerial photography
 taxon_group: 
-marine_terrestrial_freshwater: Terrestrial|Freshwater
+ecosystem_type: Terrestrial|Freshwater
 link: https://www.nrcan.gc.ca/maps-tools-and-publications/satellite-imagery-and-air-photos/air-photos/national-air-photo-library/9265
-open_closed: Open
+accessibility: Open
 contact_email: na
 jurisdiction: NS|Canada
-raster_vector: 
+spatial_data_type: 
 _tags: 
 data_product_type: 
 cell_size: 
-organization_individual: 
+organization_individual: Organization
 closed_consent_received: 
+temporal_coverage: 
 assignee: Grant
-image_source: 
-order: '62'
+order: '61'
 layout: data_item
 collection: inputs
 thumbnail: "/img/derivatives/simple/naaiphli/thumbnail.jpg"

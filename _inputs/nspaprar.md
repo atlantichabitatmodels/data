@@ -1,23 +1,24 @@
 ---
 pid: nspaprar
 label: NS Parks and Protected Areas
+short_description: 
 description: Protected areas, parks, OHV trails, bike routes, crown lands, aerial
   photography
 taxon_group: na
-marine_terrestrial_freshwater: Terrestrial|Freshwater
+ecosystem_type: Terrestrial|Freshwater
 link: https://www.novascotia.ca/parksandprotectedareas/plan/interactive-map/
-open_closed: Open
+accessibility: Open
 contact_email: na
 jurisdiction: NS
-raster_vector: 
+spatial_data_type: 
 _tags: 
 data_product_type: 
 cell_size: 
-organization_individual: 
+organization_individual: Organization
 closed_consent_received: 
+temporal_coverage: 
 assignee: Grant
-image_source: 
-order: '63'
+order: '62'
 layout: data_item
 collection: inputs
 thumbnail: "/img/derivatives/simple/nspaprar/thumbnail.jpg"

@@ -1,18 +1,19 @@
 ---
 pid: criticalhabitat
 label: Critical Habitat for SAR in Canada (Parks Canada)
+short_description: 
 description: This dataset displays the geographic areas within which critical habitat
   (CH) for terrestrial species at risk, listed on Schedule 1 of the federal Species
   at Risk Act (SARA), occurs in Canada. Note that this includes only terrestrial species
   and species for which Environment and Climate Change Canada (ECCC) and Parks Canada
   Agency (PCA) lead.
 taxon_group: Various
-marine_terrestrial_freshwater: Terrestrial
+ecosystem_type: Terrestrial
 link: https://search.open.canada.ca/openmap/47caa405-be2b-4e9e-8f53-c478ade2ca74
-open_closed: Open
+accessibility: Open
 contact_email: scf-geocarto-cws-geomapping@ec.gc.ca
 jurisdiction: Canada
-raster_vector: Vector
+spatial_data_type: Vector
 _tags: Canada, critical habitat, Species at Risk (SAR), Species at Risk Act (SARA),
   Canadian Wildlife Service (CWS), Biological diversity, migratory birds, Nature and
   biodiversity - habitat, Protect species well-being, protect and restore species,
@@ -23,9 +24,9 @@ data_product_type: Dataset
 cell_size: 1, 10, 50, and 100 square kilometres
 organization_individual: Organization
 closed_consent_received: 
+temporal_coverage: 
 assignee: Miranda
-image_source: 
-order: '14'
+order: '13'
 layout: data_item
 collection: inputs
 thumbnail: "/img/derivatives/simple/criticalhabitat/thumbnail.jpg"

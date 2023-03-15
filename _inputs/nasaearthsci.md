@@ -1,22 +1,23 @@
 ---
 pid: nasaearthsci
 label: NASA Earth science data
+short_description: 
 description: 
 taxon_group: 
-marine_terrestrial_freshwater: 
+ecosystem_type: 
 link: https://www.earthdata.nasa.gov/learn/pathfinders/biological-diversity-and-ecological-forecasting-data-pathfinder
-open_closed: 
+accessibility: 
 contact_email: 
 jurisdiction: US
-raster_vector: 
+spatial_data_type: 
 _tags: 
 data_product_type: 
 cell_size: 
 organization_individual: 
 closed_consent_received: 
+temporal_coverage: 
 assignee: Sarah
-image_source: 
-order: '29'
+order: '28'
 layout: data_item
 collection: inputs
 thumbnail: "/img/derivatives/simple/nasaearthsci/thumbnail.jpg"

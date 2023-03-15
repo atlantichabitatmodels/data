@@ -1,22 +1,23 @@
 ---
 pid: nativeland
 label: Native Land
+short_description: 
 description: 
 taxon_group: 
-marine_terrestrial_freshwater: 
+ecosystem_type: 
 link: native-land.ca
-open_closed: 
+accessibility: 
 contact_email: 
 jurisdiction: 
-raster_vector: 
+spatial_data_type: 
 _tags: 
 data_product_type: 
 cell_size: 
 organization_individual: 
 closed_consent_received: 
+temporal_coverage: 
 assignee: Sarah
-image_source: 
-order: '32'
+order: '31'
 layout: data_item
 collection: inputs
 thumbnail: "/img/derivatives/simple/nativeland/thumbnail.jpg"

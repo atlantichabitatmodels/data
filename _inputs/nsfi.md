@@ -1,22 +1,23 @@
 ---
 pid: nsfi
 label: NS Forest Inventory
+short_description: 
 description: 
 taxon_group: 
-marine_terrestrial_freshwater: Terrestrial
+ecosystem_type: Terrestrial
 link: https://novascotia.ca/natr/forestry/gis/forest-inventory.asp
-open_closed: Open
+accessibility: Open
 contact_email: 
 jurisdiction: NS
-raster_vector: Polygon
+spatial_data_type: Polygon
 _tags: Forests
 data_product_type: 
 cell_size: 
 organization_individual: 
 closed_consent_received: 
+temporal_coverage: 
 assignee: Sarah
-image_source: 
-order: '38'
+order: '37'
 layout: data_item
 collection: inputs
 thumbnail: "/img/derivatives/simple/nsfi/thumbnail.jpg"

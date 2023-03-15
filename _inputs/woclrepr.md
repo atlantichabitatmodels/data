@@ -1,22 +1,23 @@
 ---
 pid: woclrepr
 label: World Climate Research Program
+short_description: 
 description: Climate modeling data.
 taxon_group: na
-marine_terrestrial_freshwater: "?  Climatic"
+ecosystem_type: Unknown
 link: https://esgf-node.llnl.gov/projects/cmip5/
-open_closed: Open
+accessibility: Open
 contact_email: na
 jurisdiction: 
-raster_vector: 
+spatial_data_type: 
 _tags: 
 data_product_type: 
 cell_size: 
-organization_individual: 
+organization_individual: Organization
 closed_consent_received: 
+temporal_coverage: 
 assignee: Grant
-image_source: 
-order: '49'
+order: '48'
 layout: data_item
 collection: inputs
 thumbnail: "/img/derivatives/simple/woclrepr/thumbnail.jpg"

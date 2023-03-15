@@ -1,22 +1,23 @@
 ---
 pid: nsgescat
 label: NS Geoscience Atlas
+short_description: 
 description: Geology, drift geology, surface geology, minerals
 taxon_group: na
-marine_terrestrial_freshwater: Terrestrial
+ecosystem_type: Terrestrial
 link: https://fletcher.novascotia.ca/DNRViewer/?viewer=Geoscience
-open_closed: Open
+accessibility: Open
 contact_email: na
 jurisdiction: NS
-raster_vector: 
+spatial_data_type: 
 _tags: 
 data_product_type: 
 cell_size: 
-organization_individual: 
+organization_individual: Organization
 closed_consent_received: 
+temporal_coverage: 
 assignee: Grant
-image_source: 
-order: '58'
+order: '57'
 layout: data_item
 collection: inputs
 thumbnail: "/img/derivatives/simple/nsgescat/thumbnail.jpg"

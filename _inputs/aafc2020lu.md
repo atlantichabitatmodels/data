@@ -1,22 +1,23 @@
 ---
 pid: aafc2020lu
 label: 2020 AAFC Semi-Decadal Land Use
+short_description: 
 description: Land use
 taxon_group: Plants
-marine_terrestrial_freshwater: Terrestrial
+ecosystem_type: Terrestrial
 link: https://open.canada.ca/data/en/dataset/7a098ea9-cc31-4d79-b326-89f6cd1fbb7d
-open_closed: Open
+accessibility: Open
 contact_email: na
 jurisdiction: Canada
-raster_vector: 
+spatial_data_type: 
 _tags: 
 data_product_type: 
 cell_size: 
-organization_individual: 
+organization_individual: Organization
 closed_consent_received: 
+temporal_coverage: 
 assignee: Grant
-image_source: 
-order: '52'
+order: '51'
 layout: data_item
 collection: inputs
 thumbnail: "/img/derivatives/simple/aafc2020lu/thumbnail.jpg"

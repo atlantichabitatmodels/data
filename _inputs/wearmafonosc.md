@@ -1,22 +1,23 @@
 ---
 pid: wearmafonosc
 label: Wet Areas Mapping for Nova Scotia
+short_description: 
 description: Mapping of wetareas accross Nova Scotia
 taxon_group: 
-marine_terrestrial_freshwater: Terrestrial|Freshwater
+ecosystem_type: Terrestrial|Freshwater
 link: https://novascotia.ca/natr/forestry/gis/wamdownload.asp
-open_closed: Open
+accessibility: Open
 contact_email: na
 jurisdiction: NS
-raster_vector: 
+spatial_data_type: 
 _tags: 
 data_product_type: 
 cell_size: 
-organization_individual: 
+organization_individual: Organization
 closed_consent_received: 
+temporal_coverage: 
 assignee: Grant
-image_source: 
-order: '47'
+order: '46'
 layout: data_item
 collection: inputs
 thumbnail: "/img/derivatives/simple/wearmafonosc/thumbnail.jpg"

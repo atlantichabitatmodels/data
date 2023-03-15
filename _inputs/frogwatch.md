@@ -1,22 +1,23 @@
 ---
 pid: frogwatch
 label: Frog Watch
+short_description: 
 description: 
 taxon_group: Frogs
-marine_terrestrial_freshwater: 
+ecosystem_type: 
 link: https://www.naturewatch.ca/frogwatch/
-open_closed: 
+accessibility: 
 contact_email: 
 jurisdiction: 
-raster_vector: 
+spatial_data_type: 
 _tags: 
 data_product_type: 
 cell_size: 
 organization_individual: 
 closed_consent_received: 
+temporal_coverage: 
 assignee: Miranda
-image_source: 
-order: '20'
+order: '19'
 layout: data_item
 collection: inputs
 thumbnail: "/img/derivatives/simple/frogwatch/thumbnail.jpg"

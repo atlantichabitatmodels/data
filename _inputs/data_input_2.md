@@ -4,22 +4,23 @@ label: |-
   Forest Sensitivity to
   Atmospheric Acid
   Deposition
+short_description: 
 description: 
 taxon_group: 
-marine_terrestrial_freshwater: 
+ecosystem_type: 
 link: 
-open_closed: Closed
+accessibility: Closed
 contact_email: 
 jurisdiction: 
-raster_vector: 
+spatial_data_type: 
 _tags: 
 data_product_type: Dataset
 cell_size: 
 organization_individual: 
 closed_consent_received: 
+temporal_coverage: 
 assignee: Miranda
-image_source: 
-order: '19'
+order: '18'
 layout: data_item
 collection: inputs
 thumbnail: ''

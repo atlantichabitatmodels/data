@@ -1,22 +1,23 @@
 ---
 pid: precma
 label: Predictive ecosystem mapping (Nova Scotia, from DNRR)
+short_description: 
 description: 
 taxon_group: SAR
-marine_terrestrial_freshwater: Terrestrial|Freshwater
+ecosystem_type: Terrestrial|Freshwater
 link: Contact DNRR
-open_closed: Closed
+accessibility: Closed
 contact_email: BIODIVERSITY@novascotia.ca
 jurisdiction: NS
-raster_vector: 
+spatial_data_type: 
 _tags: 
 data_product_type: 
 cell_size: 
-organization_individual: 
+organization_individual: Organization
 closed_consent_received: 
+temporal_coverage: 
 assignee: Grant
-image_source: 
-order: '46'
+order: '45'
 layout: data_item
 collection: inputs
 thumbnail: "/img/derivatives/simple/precma/thumbnail.jpg"

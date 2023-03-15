@@ -1,22 +1,23 @@
 ---
 pid: noaa
 label: NOAA
+short_description: 
 description: 
 taxon_group: 
-marine_terrestrial_freshwater: Marine
+ecosystem_type: Marine
 link: https://www.ngdc.noaa.gov/
-open_closed: Open
+accessibility: Open
 contact_email: 
 jurisdiction: US waters
-raster_vector: 
+spatial_data_type: 
 _tags: 
 data_product_type: 
 cell_size: 
 organization_individual: 
 closed_consent_received: 
+temporal_coverage: 
 assignee: Sarah
-image_source: 
-order: '36'
+order: '35'
 layout: data_item
 collection: inputs
 thumbnail: "/img/derivatives/simple/noaa/thumbnail.jpg"

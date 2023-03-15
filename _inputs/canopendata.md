@@ -1,22 +1,23 @@
 ---
 pid: canopendata
 label: Open Government Portal
+short_description: 
 description: Search open data that is relevant to Canadians, learn how to work with
   datasets, and see what people have done with open data across the country.
 taxon_group: 
-marine_terrestrial_freshwater: Marine|Freshwater|Terrestrial
+ecosystem_type: Marine|Freshwater|Terrestrial
 link: https://search.open.canada.ca/opendata/
-open_closed: Open
+accessibility: Open
 contact_email: 
 jurisdiction: Canada
-raster_vector: Polygon, Raster
+spatial_data_type: Polygon|Raster
 _tags: 
 data_product_type: Data portal
 cell_size: 
 organization_individual: Organization
 closed_consent_received: 
+temporal_coverage: 
 assignee: Jocelyn
-image_source: https://camsc.ca/wp-content/uploads/2021/06/government-of-canada-vector-logo.png
 order: '04'
 layout: data_item
 collection: inputs

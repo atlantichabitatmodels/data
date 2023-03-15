@@ -1,23 +1,24 @@
 ---
 pid: nsgrwaat
 label: NS Groundwater Atlas
+short_description: 
 description: Well logs, ground water chemistray, ground water resorces, bore holes,
   drill holes
 taxon_group: 
-marine_terrestrial_freshwater: Terrestrial|Freshwater
+ecosystem_type: Terrestrial|Freshwater
 link: https://fletcher.novascotia.ca/DNRViewer/?viewer=Groundwater&layerTheme
-open_closed: Open
+accessibility: Open
 contact_email: na
 jurisdiction: NS
-raster_vector: 
+spatial_data_type: 
 _tags: 
 data_product_type: 
 cell_size: 
-organization_individual: 
+organization_individual: Organization
 closed_consent_received: 
+temporal_coverage: 
 assignee: Grant
-image_source: 
-order: '60'
+order: '59'
 layout: data_item
 collection: inputs
 thumbnail: "/img/derivatives/simple/nsgrwaat/thumbnail.jpg"

@@ -3,22 +3,23 @@ pid: lidardata
 label: |-
   LiDAR-dervied data
   Canopy height, canopy closure
+short_description: 
 description: 
 taxon_group: 
-marine_terrestrial_freshwater: 
+ecosystem_type: 
 link: 
-open_closed: Closed
+accessibility: Closed
 contact_email: james.churchill@accdc.ca
 jurisdiction: NS
-raster_vector: Raster
+spatial_data_type: Raster
 _tags: 
 data_product_type: Dataset
 cell_size: 
 organization_individual: 
 closed_consent_received: 
+temporal_coverage: 
 assignee: Sarah
-image_source: 
-order: '28'
+order: '27'
 layout: data_item
 collection: inputs
 thumbnail: ''

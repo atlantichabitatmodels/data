@@ -1,22 +1,23 @@
 ---
 pid: focwp
 label: Fisheries and Oceans Canada Watershed Polygons
+short_description: 
 description: 
 taxon_group: 
-marine_terrestrial_freshwater: 
+ecosystem_type: 
 link: 
-open_closed: 
+accessibility: 
 contact_email: 
 jurisdiction: 
-raster_vector: 
+spatial_data_type: 
 _tags: 
 data_product_type: 
 cell_size: 
 organization_individual: 
 closed_consent_received: 
+temporal_coverage: 
 assignee: Miranda
-image_source: 
-order: '17'
+order: '16'
 layout: data_item
 collection: inputs
 thumbnail: ''

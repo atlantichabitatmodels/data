@@ -1,22 +1,23 @@
 ---
 pid: octrneca
 label: Ocean Tracking Network Canada
+short_description: 
 description: Various open data sets of multiple species
 taxon_group: Various
-marine_terrestrial_freshwater: Marine
+ecosystem_type: Marine
 link: https://oceantrackingnetwork.org/
-open_closed: Open
+accessibility: Open
 contact_email: Various
 jurisdiction: Canada|Global
-raster_vector: 
+spatial_data_type: 
 _tags: Ocean
 data_product_type: 
 cell_size: 
-organization_individual: 
+organization_individual: Organization
 closed_consent_received: 
+temporal_coverage: 
 assignee: Grant
-image_source: 
-order: '43'
+order: '42'
 layout: data_item
 collection: inputs
 thumbnail: "/img/derivatives/simple/octrneca/thumbnail.jpg"
