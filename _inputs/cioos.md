@@ -9,7 +9,7 @@ jurisdiction: NS|NB
 spatial_data_type: test
 data_product_type: Data catalogue
 organization_individual: test
-tags: Watercourse|Models
+_tags: Watercourse|Models
 order: '12'
 layout: data_item
 collection: inputs

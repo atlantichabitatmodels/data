@@ -10,7 +10,7 @@ jurisdiction: Global
 spatial_data_type: Raster
 data_product_type: Data portal
 organization_individual: Organization
-tags: Occurrence|Environmental
+_tags: Occurrence|Environmental
 order: '11'
 layout: data_item
 collection: inputs

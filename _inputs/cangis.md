@@ -14,7 +14,7 @@ jurisdiction: Canada
 spatial_data_type: test
 data_product_type: Data portal
 organization_individual: Organization
-tags: Watercourse|Climate
+_tags: Watercourse|Climate
 order: '6'
 layout: data_item
 collection: inputs

@@ -10,7 +10,7 @@ jurisdiction: Canada
 spatial_data_type: Polygon|Raster
 data_product_type: Data portal
 organization_individual: Organization
-tags: Environmental
+_tags: Environmental
 order: '4'
 layout: data_item
 collection: inputs

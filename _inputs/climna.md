@@ -14,7 +14,7 @@ jurisdiction: North America
 spatial_data_type: Raster
 data_product_type: Data tool
 organization_individual: Individual
-tags: Environmental
+_tags: Environmental
 order: '10'
 layout: data_item
 collection: inputs

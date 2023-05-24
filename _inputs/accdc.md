@@ -19,7 +19,7 @@ jurisdiction: NS|NB|PEI|NL
 spatial_data_type: Point
 data_product_type: Database
 organization_individual: Organization
-tags: Occurrence
+_tags: Occurrence
 order: '0'
 layout: data_item
 collection: inputs

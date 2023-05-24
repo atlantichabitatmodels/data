@@ -12,7 +12,7 @@ jurisdiction: Canada
 spatial_data_type: Count circles
 data_product_type: Dataset
 organization_individual: Organization
-tags: Organization
+_tags: Organization
 order: '9'
 layout: data_item
 collection: inputs

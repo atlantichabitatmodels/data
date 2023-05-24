@@ -10,7 +10,7 @@ jurisdiction: NS|NB
 spatial_data_type: Raster
 data_product_type: Dataset
 organization_individual: Individual
-tags: Individual
+_tags: Individual
 order: '8'
 layout: data_item
 collection: inputs

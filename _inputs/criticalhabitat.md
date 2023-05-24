@@ -13,7 +13,7 @@ jurisdiction: Canada
 spatial_data_type: Vector
 data_product_type: Dataset
 organization_individual: Organization
-tags: Watercourse
+_tags: Watercourse
 order: '13'
 layout: data_item
 collection: inputs

@@ -16,7 +16,7 @@ jurisdiction: Canada
 spatial_data_type: Polygon
 data_product_type: Dataset
 organization_individual: Organization
-tags: Occurrence
+_tags: Occurrence
 order: '5'
 layout: data_item
 collection: inputs

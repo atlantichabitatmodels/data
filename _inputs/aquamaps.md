@@ -25,7 +25,7 @@ jurisdiction: Global
 spatial_data_type: Raster
 data_product_type: Data project
 organization_individual: Organization
-tags: Models
+_tags: Models
 order: '1'
 layout: data_item
 collection: inputs

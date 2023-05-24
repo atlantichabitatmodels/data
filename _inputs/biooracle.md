@@ -13,7 +13,7 @@ jurisdiction: PEI|NB
 spatial_data_type: Raster
 data_product_type: Dataset
 organization_individual: Organization
-tags: Environmental
+_tags: Environmental
 order: '2'
 layout: data_item
 collection: inputs
