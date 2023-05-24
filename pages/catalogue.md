@@ -5,7 +5,7 @@ gallery: True
 permalink: /catalogue/
 ---
 
-{% include gallery.html collection='inputs' facet_by='data_product_type|ecosystem_type*|taxon_group|accessibility|jurisdiction*|spatial_data_type|_tags' num_column=4 %}
+{% include gallery.html facet_by='data_product_type|taxon_group|organization_individual|jurisdiction*|accessibility*|spatial_data_type*|tags*' collection='inputs' num_column=4 %}
 
 ### [By data product type](../product-type-facet)
 

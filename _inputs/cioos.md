@@ -1,22 +1,15 @@
 ---
 pid: cioos
 label: Canadian Integrated Ocean Observing System
-short_description: 
-description: 
-taxon_group: 
-ecosystem_type: Marine
+description: test
+taxon_group: test
 link: https://cioos.ca/
 accessibility: Open
-contact_email: 
-jurisdiction: 
-spatial_data_type: 
-_tags: 
+jurisdiction: NS|NB
+spatial_data_type: test
 data_product_type: Data catalogue
-cell_size: 
-organization_individual: 
-closed_consent_received: 
-temporal_coverage: 
-assignee: 
+organization_individual: test
+tags: Watercourse|Models
 order: '12'
 layout: data_item
 collection: inputs
