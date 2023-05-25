@@ -129,6 +129,8 @@ footer:
       link: 'https://atlantichabitatmodels.github.io/communityofpractice/team/'
     - label: 'Community of Practice'
       link: 'https://atlantichabitatmodels.github.io/communityofpractice/'
+    - label: 'Report an Issue'
+      link: 'https://github.com/atlantichabitatmodels/data/issues'
   logos:
     - img: '/img/logo.png'
 
