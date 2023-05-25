@@ -29,17 +29,14 @@ a:hover {
 }
 
 
-a.action-button {
+a.btn-primary {
   background-color: #84a8bd;
-  color: #dfe3e7;
-  font-weight: bold;
-  margin: 1rem;
+  border-color: #84a8bd;
 }
 
-a.action-button:hover {
+a.btn-primary:hover {
   background-color: #566571;
-  color: #ffffff;
-  font-weight: bold;
+  border-color: #566571;
 }
 
 p {
