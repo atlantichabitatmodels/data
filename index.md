@@ -23,4 +23,4 @@ This prototype site currently provides access to model data inputs. We hope to e
 
 ### Browse the Data Inputs Catalogue
 
-{% include collection_gallery.html facet_by='data_product_type' collection='inputs' %}
+<div class="text-center"><a class="action-button btn" href="{{ 'catalogue' | relative_url }}" role="button">All Jurisdictions</a><a class="action-button btn" href="{{ 'nova-scotia' | relative_url }}" role="button">Nova Scotia</a><a class="action-button btn" href="{{ 'new-brunswick' | relative_url }}" role="button">New Brunswick</a><a class="action-button btn" href="{{ 'prince-edward-island' | relative_url }}" role="button">Prince Edward Island</a></div>

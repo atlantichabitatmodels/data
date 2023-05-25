@@ -28,6 +28,20 @@ a:hover {
   color: $accent-dark;
 }
 
+
+a.action-button {
+  background-color: #84a8bd;
+  color: #dfe3e7;
+  font-weight: bold;
+  margin: 1rem;
+}
+
+a.action-button:hover {
+  background-color: #566571;
+  color: #ffffff;
+  font-weight: bold;
+}
+
 p {
   color: $text-color;
   max-width: 100%;
