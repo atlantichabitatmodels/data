@@ -11,6 +11,11 @@
     Only display non-empty values
     {% endcomment %}
     {% if value | strip != '' %}
+      {% if value contains "|" %}
+        {%- capture value -%}
+          {{ value | split: "|" | join: ", " }}
+        {%- endcapture -%}
+      {% endif %}
       {% if item.type == 'link' %}
         {% if key == 'manifest' %}
           {%- capture value -%}
