@@ -123,23 +123,24 @@
 
           <div class="gallery-item-facets {{  newClasses | join: ' ' }}  col-xl-{{min_column_width}} p-1">
             <div class="card thumbnail-card">
-              <img
-                class="d-block card-img-top gallery-thumb w-100 mh-100"
-                src="{{ item.full | relative_url }}"
-                alt="{{ item.label }}"
-              />
-              <div class="card-body">
-                <a href="{{ item.url | relative_url }}"
-                  ><h3 class="card-title">{{ item.label }}</h3></a
-                >
+              <a href="{{ item.url | relative_url }}">
+                <img
+                  class="d-block card-img-top gallery-thumb w-100 mh-100"
+                  src="{{ item.full | relative_url }}"
+                  alt="{{ item.label }}"
+                />
+                <div class="card-body">
+                  
+                    <h3 class="card-title">{{ item.label }}</h3>
 
-                <!-- CONSTRUCTED CARD TEXT
-        Replace the constructed text below with your own card message -->
+                  <!-- CONSTRUCTED CARD TEXT
+          Replace the constructed text below with your own card message -->
 
-                <p class="card-text small">
-                  {{item.short_description}}
-                </p>
-              </div>
+                  <p class="card-text small">
+                    {{item.short_description}}
+                  </p>
+                </div>
+              </a>
             </div>
           </div>
         {% endfor %}
