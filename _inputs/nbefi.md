@@ -1,23 +1,22 @@
 ---
 pid: nbefi
-label: NB Enhanced Forest Inventory
-short_description: 
-description: 
-taxon_group: 
-ecosystem_type: 
+label: New Brunswick Enhanced Forest Inventory
+short_description: An enhanced version of the forest inventory.
+description: An enhanced version of the forest inventory
+taxon_group: vegetation
+ecosystem_type: Terrestrial
 link: 
-accessibility: Closed
-contact_email: 
+accessibility: Restricted
+contact_email: Unknown
 jurisdiction: NB
-spatial_data_type: 
-_tags: 
-data_product_type: 
+spatial_data_type: Polygon
+keywords: environmental
+data_product_type: Dataset
 cell_size: 
-organization_individual: 
+organization_individual: Organization
 closed_consent_received: 
 temporal_coverage: 
-assignee: Sarah
-order: '33'
+order: '31'
 layout: data_item
 collection: inputs
 thumbnail: "/img/derivatives/simple/nbefi/thumbnail.jpg"

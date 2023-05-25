@@ -1,23 +1,24 @@
 ---
 pid: worldclim
-label: WorldClim (world climatic variables)
-short_description: 
-description: Maps, graphs, tables, and data of the global climate
-taxon_group: na
+label: WorldClim
+short_description: Maps, graphs, tables, and data of the global climate
+description: WorldClim is a set of global climate layers (climate grids) with a spatial
+  resolution of about 1 square kilometer. The data can be used for mapping and spatial
+  modeling in a GIS or with other computer programs.
+taxon_group: not applicable
 ecosystem_type: Terrestrial
 link: https://www.worldclim.org/
-accessibility: Open
-contact_email: na
-jurisdiction: Global
-spatial_data_type: 
-_tags: 
-data_product_type: 
-cell_size: 
+accessibility: Free
+contact_email: 
+jurisdiction: Global|Canada
+spatial_data_type: Raster
+keywords: climate|environmental
+data_product_type: Dataset
+cell_size: 1 square km
 organization_individual: Organization
 closed_consent_received: 
 temporal_coverage: 
-assignee: Grant
-order: '49'
+order: '47'
 layout: data_item
 collection: inputs
 thumbnail: "/img/derivatives/simple/worldclim/thumbnail.jpg"

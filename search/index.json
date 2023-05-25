@@ -20,18 +20,18 @@ layout: none
   },
   {
     "pid": "accdc",
-    "label": "AC CDC",
+    "label": "Atlantic Canada Conservation Data Centre",
     "collection": "inputs",
     "thumbnail": "/img/derivatives/simple/accdc/thumbnail.jpg",
     "permalink": "/inputs/accdc",
     "lunr_id": 2
   },
   {
-    "pid": "acgihu",
-    "label": "ArcGIS Hub",
+    "pid": "anuclim",
+    "label": "ANUCLIM Climate Models",
     "collection": "inputs",
-    "thumbnail": "/img/derivatives/simple/acgihu/thumbnail.jpg",
-    "permalink": "/inputs/acgihu",
+    "thumbnail": "",
+    "permalink": "/inputs/anuclim",
     "lunr_id": 3
   },
   {
@@ -43,12 +43,20 @@ layout: none
     "lunr_id": 4
   },
   {
+    "pid": "arcgishub",
+    "label": "ArcGIS Hub",
+    "collection": "inputs",
+    "thumbnail": "/img/derivatives/simple/arcgishub/thumbnail.jpg",
+    "permalink": "/inputs/arcgishub",
+    "lunr_id": 5
+  },
+  {
     "pid": "bamp",
     "label": "Boreal Avian Modelling Project",
     "collection": "inputs",
     "thumbnail": "/img/derivatives/simple/bamp/thumbnail.jpg",
     "permalink": "/inputs/bamp",
-    "lunr_id": 5
+    "lunr_id": 6
   },
   {
     "pid": "biooracle",
@@ -56,14 +64,6 @@ layout: none
     "collection": "inputs",
     "thumbnail": "/img/derivatives/simple/biooracle/thumbnail.jpg",
     "permalink": "/inputs/biooracle",
-    "lunr_id": 6
-  },
-  {
-    "pid": "cagescma",
-    "label": "Canadian Geoscience Maps",
-    "collection": "inputs",
-    "thumbnail": "/img/derivatives/simple/cagescma/thumbnail.jpg",
-    "permalink": "/inputs/cagescma",
     "lunr_id": 7
   },
   {
@@ -75,12 +75,20 @@ layout: none
     "lunr_id": 8
   },
   {
+    "pid": "cangeomaps",
+    "label": "Canadian Geoscience Maps",
+    "collection": "inputs",
+    "thumbnail": "/img/derivatives/simple/cangeomaps/thumbnail.jpg",
+    "permalink": "/inputs/cangeomaps",
+    "lunr_id": 9
+  },
+  {
     "pid": "cangis",
     "label": "Canadian GIS",
     "collection": "inputs",
     "thumbnail": "/img/derivatives/simple/cangis/thumbnail.jpg",
     "permalink": "/inputs/cangis",
-    "lunr_id": 9
+    "lunr_id": 10
   },
   {
     "pid": "canopendata",
@@ -88,7 +96,7 @@ layout: none
     "collection": "inputs",
     "thumbnail": "/img/derivatives/simple/canopendata/thumbnail.jpg",
     "permalink": "/inputs/canopendata",
-    "lunr_id": 10
+    "lunr_id": 11
   },
   {
     "pid": "cbc",
@@ -96,7 +104,7 @@ layout: none
     "collection": "inputs",
     "thumbnail": "/img/derivatives/simple/cbc/thumbnail.jpg",
     "permalink": "/inputs/cbc",
-    "lunr_id": 11
+    "lunr_id": 12
   },
   {
     "pid": "cioos",
@@ -104,7 +112,15 @@ layout: none
     "collection": "inputs",
     "thumbnail": "/img/derivatives/simple/cioos/thumbnail.jpg",
     "permalink": "/inputs/cioos",
-    "lunr_id": 12
+    "lunr_id": 13
+  },
+  {
+    "pid": "cli",
+    "label": "Canada Land Inventory",
+    "collection": "inputs",
+    "thumbnail": "",
+    "permalink": "/inputs/cli",
+    "lunr_id": 14
   },
   {
     "pid": "climna",
@@ -112,7 +128,7 @@ layout: none
     "collection": "inputs",
     "thumbnail": "/img/derivatives/simple/climna/thumbnail.jpg",
     "permalink": "/inputs/climna",
-    "lunr_id": 13
+    "lunr_id": 15
   },
   {
     "pid": "cmems",
@@ -120,7 +136,7 @@ layout: none
     "collection": "inputs",
     "thumbnail": "/img/derivatives/simple/cmems/thumbnail.jpg",
     "permalink": "/inputs/cmems",
-    "lunr_id": 14
+    "lunr_id": 16
   },
   {
     "pid": "coex",
@@ -128,55 +144,63 @@ layout: none
     "collection": "inputs",
     "thumbnail": "/img/derivatives/simple/coex/thumbnail.jpg",
     "permalink": "/inputs/coex",
-    "lunr_id": 15
-  },
-  {
-    "pid": "criticalhabitat",
-    "label": "Critical Habitat for SAR in Canada (Parks Canada)",
-    "collection": "inputs",
-    "thumbnail": "/img/derivatives/simple/criticalhabitat/thumbnail.jpg",
-    "permalink": "/inputs/criticalhabitat",
-    "lunr_id": 16
-  },
-  {
-    "pid": "dalgis",
-    "label": "Dalhousie GIS Center, building a portal of datasets they manage",
-    "collection": "inputs",
-    "thumbnail": "/img/derivatives/simple/dalgis/thumbnail.jpg",
-    "permalink": "/inputs/dalgis",
     "lunr_id": 17
   },
   {
-    "pid": "data_input_1",
-    "label": "Forest Ecosystem\nClassification (FEC)\n\nIncludes soil and vegetation types",
+    "pid": "criticalhabitat",
+    "label": "Critical Habitat for Species At Risk in Canada",
     "collection": "inputs",
-    "thumbnail": "",
-    "permalink": "/inputs/data_input_1",
+    "thumbnail": "/img/derivatives/simple/criticalhabitat/thumbnail.jpg",
+    "permalink": "/inputs/criticalhabitat",
     "lunr_id": 18
   },
   {
-    "pid": "data_input_2",
-    "label": "Forest Sensitivity to\nAtmospheric Acid\nDeposition",
+    "pid": "dalgis",
+    "label": "Dalhousie GIS Centre",
     "collection": "inputs",
-    "thumbnail": "",
-    "permalink": "/inputs/data_input_2",
+    "thumbnail": "/img/derivatives/simple/dalgis/thumbnail.jpg",
+    "permalink": "/inputs/dalgis",
     "lunr_id": 19
   },
   {
-    "pid": "esgf",
-    "label": "ESGF",
+    "pid": "ebird",
+    "label": "eBird",
     "collection": "inputs",
-    "thumbnail": "/img/derivatives/simple/esgf/thumbnail.jpg",
-    "permalink": "/inputs/esgf",
+    "thumbnail": "",
+    "permalink": "/inputs/ebird",
     "lunr_id": 20
   },
   {
-    "pid": "focwp",
-    "label": "Fisheries and Oceans Canada Watershed Polygons",
+    "pid": "ecosis",
+    "label": "Ecological Spectral Information System",
     "collection": "inputs",
     "thumbnail": "",
-    "permalink": "/inputs/focwp",
+    "permalink": "/inputs/ecosis",
     "lunr_id": 21
+  },
+  {
+    "pid": "esgf",
+    "label": "Earth System Grid Federation",
+    "collection": "inputs",
+    "thumbnail": "/img/derivatives/simple/esgf/thumbnail.jpg",
+    "permalink": "/inputs/esgf",
+    "lunr_id": 22
+  },
+  {
+    "pid": "fec",
+    "label": "Nova Scotia Forest Ecosystem Classification",
+    "collection": "inputs",
+    "thumbnail": "",
+    "permalink": "/inputs/fec",
+    "lunr_id": 23
+  },
+  {
+    "pid": "forage",
+    "label": "Forest Age Models",
+    "collection": "inputs",
+    "thumbnail": "",
+    "permalink": "/inputs/forage",
+    "lunr_id": 24
   },
   {
     "pid": "frogwatch",
@@ -184,15 +208,23 @@ layout: none
     "collection": "inputs",
     "thumbnail": "/img/derivatives/simple/frogwatch/thumbnail.jpg",
     "permalink": "/inputs/frogwatch",
-    "lunr_id": 22
+    "lunr_id": 25
+  },
+  {
+    "pid": "fsaad",
+    "label": "Nova Scotia Forest Sensitivity to Atmospheric Acid Deposition",
+    "collection": "inputs",
+    "thumbnail": "",
+    "permalink": "/inputs/fsaad",
+    "lunr_id": 26
   },
   {
     "pid": "gbif",
-    "label": "GBIF",
+    "label": "Global Biodiversity Information Facility",
     "collection": "inputs",
     "thumbnail": "/img/derivatives/simple/gbif/thumbnail.jpg",
     "permalink": "/inputs/gbif",
-    "lunr_id": 23
+    "lunr_id": 27
   },
   {
     "pid": "gca",
@@ -200,7 +232,7 @@ layout: none
     "collection": "inputs",
     "thumbnail": "/img/derivatives/simple/gca/thumbnail.jpg",
     "permalink": "/inputs/gca",
-    "lunr_id": 24
+    "lunr_id": 28
   },
   {
     "pid": "geonb",
@@ -208,7 +240,7 @@ layout: none
     "collection": "inputs",
     "thumbnail": "/img/derivatives/simple/geonb/thumbnail.jpg",
     "permalink": "/inputs/geonb",
-    "lunr_id": 25
+    "lunr_id": 29
   },
   {
     "pid": "gfw",
@@ -216,23 +248,15 @@ layout: none
     "collection": "inputs",
     "thumbnail": "/img/derivatives/simple/gfw/thumbnail.jpg",
     "permalink": "/inputs/gfw",
-    "lunr_id": 26
+    "lunr_id": 30
   },
   {
-    "pid": "hawahycama",
+    "pid": "hwhcm",
     "label": "Halifax Water Hyrant and Catchbasin Mapping",
     "collection": "inputs",
-    "thumbnail": "/img/derivatives/simple/hawahycama/thumbnail.jpg",
-    "permalink": "/inputs/hawahycama",
-    "lunr_id": 27
-  },
-  {
-    "pid": "humanfoot",
-    "label": "Human Footprint",
-    "collection": "inputs",
-    "thumbnail": "",
-    "permalink": "/inputs/humanfoot",
-    "lunr_id": 28
+    "thumbnail": "/img/derivatives/simple/hwhcm/thumbnail.jpg",
+    "permalink": "/inputs/hwhcm",
+    "lunr_id": 31
   },
   {
     "pid": "inat",
@@ -240,31 +264,47 @@ layout: none
     "collection": "inputs",
     "thumbnail": "/img/derivatives/simple/inat/thumbnail.jpg",
     "permalink": "/inputs/inat",
-    "lunr_id": 29
+    "lunr_id": 32
   },
   {
-    "pid": "lidardata",
-    "label": "LiDAR-dervied data\nCanopy height, canopy closure",
+    "pid": "mol",
+    "label": "Map of Life",
     "collection": "inputs",
     "thumbnail": "",
-    "permalink": "/inputs/lidardata",
-    "lunr_id": 30
+    "permalink": "/inputs/mol",
+    "lunr_id": 33
   },
   {
-    "pid": "naaiphli",
+    "pid": "movebank",
+    "label": "Movebank",
+    "collection": "inputs",
+    "thumbnail": "",
+    "permalink": "/inputs/movebank",
+    "lunr_id": 34
+  },
+  {
+    "pid": "nabbs",
+    "label": "North American Breeding Bird Survey",
+    "collection": "inputs",
+    "thumbnail": "",
+    "permalink": "/inputs/nabbs",
+    "lunr_id": 35
+  },
+  {
+    "pid": "napl",
     "label": "National Air Photo Library",
     "collection": "inputs",
-    "thumbnail": "/img/derivatives/simple/naaiphli/thumbnail.jpg",
-    "permalink": "/inputs/naaiphli",
-    "lunr_id": 31
+    "thumbnail": "/img/derivatives/simple/napl/thumbnail.jpg",
+    "permalink": "/inputs/napl",
+    "lunr_id": 36
   },
   {
     "pid": "nasaearthsci",
-    "label": "NASA Earth science data",
+    "label": "NASA Earth Science Data",
     "collection": "inputs",
     "thumbnail": "/img/derivatives/simple/nasaearthsci/thumbnail.jpg",
     "permalink": "/inputs/nasaearthsci",
-    "lunr_id": 32
+    "lunr_id": 37
   },
   {
     "pid": "nativeland",
@@ -272,7 +312,7 @@ layout: none
     "collection": "inputs",
     "thumbnail": "/img/derivatives/simple/nativeland/thumbnail.jpg",
     "permalink": "/inputs/nativeland",
-    "lunr_id": 33
+    "lunr_id": 38
   },
   {
     "pid": "naturewatch",
@@ -280,39 +320,47 @@ layout: none
     "collection": "inputs",
     "thumbnail": "/img/derivatives/simple/naturewatch/thumbnail.jpg",
     "permalink": "/inputs/naturewatch",
-    "lunr_id": 34
+    "lunr_id": 39
   },
   {
     "pid": "nbefi",
-    "label": "NB Enhanced Forest Inventory",
+    "label": "New Brunswick Enhanced Forest Inventory",
     "collection": "inputs",
     "thumbnail": "/img/derivatives/simple/nbefi/thumbnail.jpg",
     "permalink": "/inputs/nbefi",
-    "lunr_id": 35
+    "lunr_id": 40
+  },
+  {
+    "pid": "nberd",
+    "label": "New Brunswick Department of Natural Resources and Energy Development Direct Access Data",
+    "collection": "inputs",
+    "thumbnail": "",
+    "permalink": "/inputs/nberd",
+    "lunr_id": 41
   },
   {
     "pid": "nbfi",
-    "label": "NB Forest Inventory",
+    "label": "New Brunswick Forest Inventory",
     "collection": "inputs",
     "thumbnail": "/img/derivatives/simple/nbfi/thumbnail.jpg",
     "permalink": "/inputs/nbfi",
-    "lunr_id": 36
+    "lunr_id": 42
   },
   {
-    "pid": "ncstclco",
-    "label": "NCC Stream Classification v2 Complex",
+    "pid": "nccsc",
+    "label": "Nature Conservancy of Canada Stream Classifcation",
     "collection": "inputs",
-    "thumbnail": "/img/derivatives/simple/ncstclco/thumbnail.jpg",
-    "permalink": "/inputs/ncstclco",
-    "lunr_id": 37
+    "thumbnail": "/img/derivatives/simple/nccsc/thumbnail.jpg",
+    "permalink": "/inputs/nccsc",
+    "lunr_id": 43
   },
   {
     "pid": "nfi",
-    "label": "National Forest Inventory (NFI)",
+    "label": "National Forest Inventory",
     "collection": "inputs",
     "thumbnail": "/img/derivatives/simple/nfi/thumbnail.jpg",
     "permalink": "/inputs/nfi",
-    "lunr_id": 38
+    "lunr_id": 44
   },
   {
     "pid": "nhn",
@@ -320,119 +368,143 @@ layout: none
     "collection": "inputs",
     "thumbnail": "/img/derivatives/simple/nhn/thumbnail.jpg",
     "permalink": "/inputs/nhn",
-    "lunr_id": 39
-  },
-  {
-    "pid": "noaa",
-    "label": "NOAA",
-    "collection": "inputs",
-    "thumbnail": "/img/derivatives/simple/noaa/thumbnail.jpg",
-    "permalink": "/inputs/noaa",
-    "lunr_id": 40
-  },
-  {
-    "pid": "nsdalo",
-    "label": "NS Data Locator ",
-    "collection": "inputs",
-    "thumbnail": "/img/derivatives/simple/nsdalo/thumbnail.jpg",
-    "permalink": "/inputs/nsdalo",
-    "lunr_id": 41
-  },
-  {
-    "pid": "nseclacl",
-    "label": "NS Ecological Land Classification",
-    "collection": "inputs",
-    "thumbnail": "/img/derivatives/simple/nseclacl/thumbnail.jpg",
-    "permalink": "/inputs/nseclacl",
-    "lunr_id": 42
-  },
-  {
-    "pid": "nsfi",
-    "label": "NS Forest Inventory",
-    "collection": "inputs",
-    "thumbnail": "/img/derivatives/simple/nsfi/thumbnail.jpg",
-    "permalink": "/inputs/nsfi",
-    "lunr_id": 43
-  },
-  {
-    "pid": "nsfn",
-    "label": "NS Forest Notes",
-    "collection": "inputs",
-    "thumbnail": "/img/derivatives/simple/nsfn/thumbnail.jpg",
-    "permalink": "/inputs/nsfn",
-    "lunr_id": 44
-  },
-  {
-    "pid": "nsfoin",
-    "label": "NS Forest Information",
-    "collection": "inputs",
-    "thumbnail": "/img/derivatives/simple/nsfoin/thumbnail.jpg",
-    "permalink": "/inputs/nsfoin",
     "lunr_id": 45
   },
   {
-    "pid": "nsgdd",
-    "label": "Geographic Data Directory\n\nNova Scotia Open Data Portal:\nForest Inventory\n\nWatercourses\n\nPolitical boundaries\n\nThis portal has more data than the geo portal",
+    "pid": "noaa",
+    "label": "NOAA National Centers for Environmental Information",
     "collection": "inputs",
-    "thumbnail": "/img/derivatives/simple/nsgdd/thumbnail.jpg",
-    "permalink": "/inputs/nsgdd",
+    "thumbnail": "/img/derivatives/simple/noaa/thumbnail.jpg",
+    "permalink": "/inputs/noaa",
     "lunr_id": 46
   },
   {
-    "pid": "nsgescat",
-    "label": "NS Geoscience Atlas",
+    "pid": "nsdl",
+    "label": "Nova Scotia Data Locator",
     "collection": "inputs",
-    "thumbnail": "/img/derivatives/simple/nsgescat/thumbnail.jpg",
-    "permalink": "/inputs/nsgescat",
+    "thumbnail": "",
+    "permalink": "/inputs/nsdl",
     "lunr_id": 47
   },
   {
-    "pid": "nsgrwaat",
-    "label": "NS Groundwater Atlas",
+    "pid": "nsee",
+    "label": "Nova Scotia Elevation Explorer",
     "collection": "inputs",
-    "thumbnail": "/img/derivatives/simple/nsgrwaat/thumbnail.jpg",
-    "permalink": "/inputs/nsgrwaat",
+    "thumbnail": "/img/derivatives/simple/nsee/thumbnail.jpg",
+    "permalink": "/inputs/nsee",
     "lunr_id": 48
   },
   {
-    "pid": "nshn",
-    "label": "NS Hydrogeographic Network",
+    "pid": "nselc",
+    "label": "Nova Scotia Ecological Land Classification",
     "collection": "inputs",
-    "thumbnail": "/img/derivatives/simple/nshn/thumbnail.jpg",
-    "permalink": "/inputs/nshn",
+    "thumbnail": "/img/derivatives/simple/nselc/thumbnail.jpg",
+    "permalink": "/inputs/nselc",
     "lunr_id": 49
   },
   {
-    "pid": "nsodd",
-    "label": "Nova Scotia open data database",
+    "pid": "nsfi",
+    "label": "Nova Scotia Forestry Information",
     "collection": "inputs",
-    "thumbnail": "/img/derivatives/simple/nsodd/thumbnail.jpg",
-    "permalink": "/inputs/nsodd",
+    "thumbnail": "/img/derivatives/simple/nsfi/thumbnail.jpg",
+    "permalink": "/inputs/nsfi",
     "lunr_id": 50
   },
   {
-    "pid": "nspaprar",
-    "label": "NS Parks and Protected Areas",
+    "pid": "nsfn",
+    "label": "Nova Scotia Forest Notes",
     "collection": "inputs",
-    "thumbnail": "/img/derivatives/simple/nspaprar/thumbnail.jpg",
-    "permalink": "/inputs/nspaprar",
+    "thumbnail": "/img/derivatives/simple/nsfn/thumbnail.jpg",
+    "permalink": "/inputs/nsfn",
     "lunr_id": 51
   },
   {
-    "pid": "nsprlavi",
-    "label": "NS Provincial Landscape Viewer",
+    "pid": "nsfori",
+    "label": "Nova Scotia Forest Inventory",
     "collection": "inputs",
-    "thumbnail": "/img/derivatives/simple/nsprlavi/thumbnail.jpg",
-    "permalink": "/inputs/nsprlavi",
+    "thumbnail": "/img/derivatives/simple/nsfori/thumbnail.jpg",
+    "permalink": "/inputs/nsfori",
     "lunr_id": 52
   },
   {
-    "pid": "nsstcl",
-    "label": "NS Stream Classifcation",
+    "pid": "nsgdd",
+    "label": "Nova Scotia Geographic Data Directory",
     "collection": "inputs",
-    "thumbnail": "/img/derivatives/simple/nsstcl/thumbnail.jpg",
-    "permalink": "/inputs/nsstcl",
+    "thumbnail": "/img/derivatives/simple/nsgdd/thumbnail.jpg",
+    "permalink": "/inputs/nsgdd",
     "lunr_id": 53
+  },
+  {
+    "pid": "nsgeoatlas",
+    "label": "Nova Scotia Geoscience Atlas",
+    "collection": "inputs",
+    "thumbnail": "/img/derivatives/simple/nsgeoatlas/thumbnail.jpg",
+    "permalink": "/inputs/nsgeoatlas",
+    "lunr_id": 54
+  },
+  {
+    "pid": "nsgwa",
+    "label": "Nova Scotia Groundwater Atlas",
+    "collection": "inputs",
+    "thumbnail": "/img/derivatives/simple/nsgwa/thumbnail.jpg",
+    "permalink": "/inputs/nsgwa",
+    "lunr_id": 55
+  },
+  {
+    "pid": "nshn",
+    "label": "Nova Scotia Hydrogeographic Network",
+    "collection": "inputs",
+    "thumbnail": "/img/derivatives/simple/nshn/thumbnail.jpg",
+    "permalink": "/inputs/nshn",
+    "lunr_id": 56
+  },
+  {
+    "pid": "nsodp",
+    "label": "Nova Scotia Open Data Portal",
+    "collection": "inputs",
+    "thumbnail": "/img/derivatives/simple/nsodp/thumbnail.jpg",
+    "permalink": "/inputs/nsodp",
+    "lunr_id": 57
+  },
+  {
+    "pid": "nspem",
+    "label": "Nova Scotia Predictive Ecosystem Mapping",
+    "collection": "inputs",
+    "thumbnail": "/img/derivatives/simple/nspem/thumbnail.jpg",
+    "permalink": "/inputs/nspem",
+    "lunr_id": 58
+  },
+  {
+    "pid": "nsplv",
+    "label": "Nova Scotia Provincial Landscape Viewer",
+    "collection": "inputs",
+    "thumbnail": "/img/derivatives/simple/nsplv/thumbnail.jpg",
+    "permalink": "/inputs/nsplv",
+    "lunr_id": 59
+  },
+  {
+    "pid": "nsppa",
+    "label": "Nova Scotia Parks and Protected Areas",
+    "collection": "inputs",
+    "thumbnail": "/img/derivatives/simple/nsppa/thumbnail.jpg",
+    "permalink": "/inputs/nsppa",
+    "lunr_id": 60
+  },
+  {
+    "pid": "nswam",
+    "label": "Nova Scotia Wet Areas Mapping",
+    "collection": "inputs",
+    "thumbnail": "/img/derivatives/simple/nswam/thumbnail.jpg",
+    "permalink": "/inputs/nswam",
+    "lunr_id": 61
+  },
+  {
+    "pid": "ntemscan",
+    "label": "National Terrestrial Ecosystem Monitoring System for Canada",
+    "collection": "inputs",
+    "thumbnail": "",
+    "permalink": "/inputs/ntemscan",
+    "lunr_id": 62
   },
   {
     "pid": "obis",
@@ -440,7 +512,7 @@ layout: none
     "collection": "inputs",
     "thumbnail": "/img/derivatives/simple/obis/thumbnail.jpg",
     "permalink": "/inputs/obis",
-    "lunr_id": 54
+    "lunr_id": 63
   },
   {
     "pid": "ocad",
@@ -448,15 +520,23 @@ layout: none
     "collection": "inputs",
     "thumbnail": "/img/derivatives/simple/ocad/thumbnail.jpg",
     "permalink": "/inputs/ocad",
-    "lunr_id": 55
+    "lunr_id": 64
   },
   {
-    "pid": "octrneca",
+    "pid": "otnc",
     "label": "Ocean Tracking Network Canada",
     "collection": "inputs",
-    "thumbnail": "/img/derivatives/simple/octrneca/thumbnail.jpg",
-    "permalink": "/inputs/octrneca",
-    "lunr_id": 56
+    "thumbnail": "/img/derivatives/simple/otnc/thumbnail.jpg",
+    "permalink": "/inputs/otnc",
+    "lunr_id": 65
+  },
+  {
+    "pid": "ph",
+    "label": "Plant Hardiness",
+    "collection": "inputs",
+    "thumbnail": "",
+    "permalink": "/inputs/ph",
+    "lunr_id": 66
   },
   {
     "pid": "plne",
@@ -464,31 +544,23 @@ layout: none
     "collection": "inputs",
     "thumbnail": "/img/derivatives/simple/plne/thumbnail.jpg",
     "permalink": "/inputs/plne",
-    "lunr_id": 57
-  },
-  {
-    "pid": "precma",
-    "label": "Predictive ecosystem mapping (Nova Scotia, from DNRR)",
-    "collection": "inputs",
-    "thumbnail": "/img/derivatives/simple/precma/thumbnail.jpg",
-    "permalink": "/inputs/precma",
-    "lunr_id": 58
+    "lunr_id": 67
   },
   {
     "pid": "trspincafoec",
-    "label": "tree species in Canada's forested ecosystems",
+    "label": "Tree Species in Canada's Forested Ecosystems",
     "collection": "inputs",
     "thumbnail": "/img/derivatives/simple/trspincafoec/thumbnail.jpg",
     "permalink": "/inputs/trspincafoec",
-    "lunr_id": 59
+    "lunr_id": 68
   },
   {
     "pid": "unbbourque",
-    "label": "Datasets from Charles P.-A. Bourque at UNB",
+    "label": "Datasets in Support of Climate Change Tree Species Modelling",
     "collection": "inputs",
     "thumbnail": "/img/derivatives/simple/unbbourque/thumbnail.jpg",
     "permalink": "/inputs/unbbourque",
-    "lunr_id": 60
+    "lunr_id": 69
   },
   {
     "pid": "watershedcan",
@@ -496,15 +568,23 @@ layout: none
     "collection": "inputs",
     "thumbnail": "/img/derivatives/simple/watershedcan/thumbnail.jpg",
     "permalink": "/inputs/watershedcan",
-    "lunr_id": 61
+    "lunr_id": 70
   },
   {
-    "pid": "wearmafonosc",
-    "label": "Wet Areas Mapping for Nova Scotia",
+    "pid": "wcrp",
+    "label": "World Climate Research Program",
     "collection": "inputs",
-    "thumbnail": "/img/derivatives/simple/wearmafonosc/thumbnail.jpg",
-    "permalink": "/inputs/wearmafonosc",
-    "lunr_id": 62
+    "thumbnail": "/img/derivatives/simple/wcrp/thumbnail.jpg",
+    "permalink": "/inputs/wcrp",
+    "lunr_id": 71
+  },
+  {
+    "pid": "wildlifeinsights",
+    "label": "Wildlife Insights",
+    "collection": "inputs",
+    "thumbnail": "",
+    "permalink": "/inputs/wildlifeinsights",
+    "lunr_id": 72
   },
   {
     "pid": "witr",
@@ -512,22 +592,14 @@ layout: none
     "collection": "inputs",
     "thumbnail": "/img/derivatives/simple/witr/thumbnail.jpg",
     "permalink": "/inputs/witr",
-    "lunr_id": 63
-  },
-  {
-    "pid": "woclrepr",
-    "label": "World Climate Research Program",
-    "collection": "inputs",
-    "thumbnail": "/img/derivatives/simple/woclrepr/thumbnail.jpg",
-    "permalink": "/inputs/woclrepr",
-    "lunr_id": 64
+    "lunr_id": 73
   },
   {
     "pid": "worldclim",
-    "label": "WorldClim (world climatic variables)",
+    "label": "WorldClim",
     "collection": "inputs",
     "thumbnail": "/img/derivatives/simple/worldclim/thumbnail.jpg",
     "permalink": "/inputs/worldclim",
-    "lunr_id": 65
+    "lunr_id": 74
   }
 ]

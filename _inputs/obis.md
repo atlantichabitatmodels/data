@@ -1,23 +1,24 @@
 ---
 pid: obis
 label: OBIS
-short_description: 
-description: 
-taxon_group: 
+short_description: OBIS is a global open-access data and information clearing-house
+  on marine biodiversity for science, conservation and sustainable development.
+description: OBIS is a global open-access data and information clearing-house on marine
+  biodiversity for science, conservation and sustainable development.
+taxon_group: marine organisms
 ecosystem_type: Marine
 link: https://obis.org/
-accessibility: 
+accessibility: Free
 contact_email: 
-jurisdiction: 
-spatial_data_type: 
-_tags: Ocean
-data_product_type: 
+jurisdiction: Global|Canada
+spatial_data_type: Raster|Vector
+keywords: ocean|environmental
+data_product_type: Data portal
 cell_size: 
 organization_individual: Organization
 closed_consent_received: 
 temporal_coverage: 
-assignee: Grant
-order: '41'
+order: '39'
 layout: data_item
 collection: inputs
 thumbnail: "/img/derivatives/simple/obis/thumbnail.jpg"

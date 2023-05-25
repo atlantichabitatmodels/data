@@ -1,7 +1,8 @@
 ---
 pid: canfootprint
 label: Canadian Human Footprint Index
-short_description: 
+short_description: 'Canadian human footprint map that combines twelve different anthropogenic
+  pressures and identify intact and modified lands and ecosystems across the country. '
 description: Efforts are underway in Canada to set aside terrestrial lands for conservation,
   thereby protecting them from anthropogenic pressures. Here we produce the first
   Canadian human footprint map by combining twelve different anthropogenic pressures
@@ -19,20 +20,19 @@ description: Efforts are underway in Canada to set aside terrestrial lands for c
   mapping efforts, demonstrating the value in specific national data applications.
   Ecological areas with immense anthropogenic pressure, highlight challenges that
   may arise when planning for ecologically representative protected areas.
-taxon_group: 
-ecosystem_type: 
+taxon_group: not applicable
+ecosystem_type: Terrestrial
 link: https://borealisdata.ca/dataset.xhtml?persistentId=doi:10.5683/SP2/EVKAVL
-accessibility: Open
+accessibility: Free
 contact_email: 
 jurisdiction: Canada
 spatial_data_type: Raster
-_tags: Environmental
+keywords: environmental
 data_product_type: Dataset
 cell_size: 300 m
 organization_individual: Organization
 closed_consent_received: 
 temporal_coverage: 
-assignee: Jocelyn
 order: '07'
 layout: data_item
 collection: inputs

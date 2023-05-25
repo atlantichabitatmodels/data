@@ -1,7 +1,8 @@
 ---
 pid: aquamaps
 label: AquaMaps
-short_description: 
+short_description: Standardized distribution maps for over 33,500 species of fishes,
+  marine mammals and invertebrates.
 description: "Standardized distribution maps for over 33,500 species of fishes, marine
   mammals and invertebrates. AquaMaps is a joint project of FishBase and SealifeBase.\nAquaMaps
   is a tool for generating model-based, large-scale predictions of natural occurrences
@@ -19,20 +20,19 @@ description: "Standardized distribution maps for over 33,500 species of fishes, 
   of half-degree latitude and longitude cell dimensions. The maps are displayed on
   the web through the use of C-squares Mapper developed at CSIRO Marine and Atmospheric
   Research in Australia (Rees, 2002, 2003). \n"
-taxon_group: fishes, marine mammals and invertebrates
+taxon_group: fishes|marine mammals|invertebrates
 ecosystem_type: Marine|Freshwater
 link: https://www.aquamaps.org/
-accessibility: Open
+accessibility: Free
 contact_email: 
-jurisdiction: Global
+jurisdiction: Global|Canada
 spatial_data_type: Raster
-_tags: Models
+keywords: models
 data_product_type: Data project
 cell_size: half-degree latitude and longitude
 organization_individual: Organization
 closed_consent_received: 
 temporal_coverage: 
-assignee: Jocelyn
 order: '01'
 layout: data_item
 collection: inputs

@@ -1,23 +1,23 @@
 ---
 pid: cmems
 label: Copernicus Marine Service
-short_description: 
+short_description: Providing free and open marine data and services to enable marine
+  policy implementation, support Blue growth and scientific innovation.
 description: Providing free and open marine data and services to enable marine policy
   implementation, support Blue growth and scientific innovation.
-taxon_group: 
+taxon_group: not applicable
 ecosystem_type: Marine
 link: https://marine.copernicus.eu/
-accessibility: Open
+accessibility: Free
 contact_email: 
-jurisdiction: Global
+jurisdiction: Global|Canada
 spatial_data_type: Raster
-_tags: Environmental
+keywords: environmental
 data_product_type: Data portal
 cell_size: 
 organization_individual: Organization
 closed_consent_received: 
 temporal_coverage: 
-assignee: Jocelyn
 order: '11'
 layout: data_item
 collection: inputs
