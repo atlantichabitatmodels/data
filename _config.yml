@@ -116,6 +116,10 @@ search:
 menu:
   - label: 'Browse'
     link: '/catalogue/'
+  - label: 'Search'
+    link: '/search/'
+  - label: 'Contribute'
+    link: 'https://docs.google.com/spreadsheets/d/1_GZKDpZa18Ga0irokXhh-1ZUyF3TPi0Jl_yG4NrdVlk/edit#gid=1416728414'
   - label: By Province
     sub:
     - label: Nova Scotia
@@ -124,10 +128,6 @@ menu:
       link: '/new-brunswick/'
     - label: Prince Edward Island
       link: '/prince-edward-island/'
-  - label: 'Search'
-    link: '/search/'
-  - label: 'Contribute'
-    link: 'https://docs.google.com/spreadsheets/d/1_GZKDpZa18Ga0irokXhh-1ZUyF3TPi0Jl_yG4NrdVlk/edit#gid=1416728414'
   - label: 'Resources'
     sub:
     - label: 'Information to Include in a Data Request'
