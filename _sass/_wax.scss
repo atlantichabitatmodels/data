@@ -210,8 +210,18 @@ content section
     justify-items: space-between;
     min-width: 250px;
   }
+  a {
+    color: $bg-color;
+    font-weight: 700;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
   .footer-title {
     font-weight: bold;
+    color: #dfe3e7;
     font-family: $heading-font;
     padding-bottom: 1em;
     margin: 0;
@@ -219,15 +229,18 @@ content section
   .footer-description {
     margin: 0;
     font-size: .9em;
+    color: #dfe3e7;
     line-height: 1.2;
   }
   .footer-copyright {
     margin: $margin 0 $margin 0;
+    color: #dfe3e7;
     font-size: .9em;
     line-height: 1.2;
   }
   .footer-links {
     margin: 0;
+    color: #dfe3e7;
     font-size: .9em;
     line-height: 1.2;
   }
