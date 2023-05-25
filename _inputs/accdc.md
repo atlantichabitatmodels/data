@@ -21,13 +21,19 @@ accessibility: By Request
 contact_email: datarequests@accdc.ca
 jurisdiction: NS|NB|PE|NL|LB
 spatial_data_type: Point
-keywords: occurrence
+keywords: occurrence|AC CDC
 data_product_type: Database
 cell_size: 
 organization_individual: Organization
 closed_consent_received: Presumed
 temporal_coverage: 1800-Present
-order: '0'
+assignee: Jocelyn
+pe_subset: pe_subset
+ns_subset: ns_subset
+nb_subset: nb_subset
+environmental_subset: 'false'
+occurrence_subset: occurrence_subset
+order: '00'
 layout: data_item
 collection: inputs
 thumbnail: "/img/derivatives/simple/accdc/thumbnail.jpg"

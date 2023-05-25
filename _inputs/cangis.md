@@ -24,7 +24,13 @@ cell_size:
 organization_individual: Organization
 closed_consent_received: 
 temporal_coverage: 
-order: '6'
+assignee: Jocelyn
+pe_subset: 'false'
+ns_subset: 'false'
+nb_subset: 'false'
+environmental_subset: environmental_subset
+occurrence_subset: 'false'
+order: '06'
 layout: data_item
 collection: inputs
 thumbnail: "/img/derivatives/simple/cangis/thumbnail.jpg"

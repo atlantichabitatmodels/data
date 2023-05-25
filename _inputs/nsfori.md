@@ -27,6 +27,12 @@ cell_size:
 organization_individual: Organization
 closed_consent_received: 
 temporal_coverage: 
+assignee: Sarah
+pe_subset: 'false'
+ns_subset: ns_subset
+nb_subset: 'false'
+environmental_subset: environmental_subset
+occurrence_subset: 'false'
 order: '35'
 layout: data_item
 collection: inputs

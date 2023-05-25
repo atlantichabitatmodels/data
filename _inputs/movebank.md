@@ -18,6 +18,12 @@ cell_size:
 organization_individual: Organization
 closed_consent_received: 
 temporal_coverage: 
+assignee: 
+pe_subset: 'false'
+ns_subset: 'false'
+nb_subset: 'false'
+environmental_subset: 'false'
+occurrence_subset: 'false'
 order: '71'
 layout: data_item
 collection: inputs

@@ -21,7 +21,13 @@ cell_size:
 organization_individual: Organization
 closed_consent_received: 
 temporal_coverage: 
-order: '9'
+assignee: Jocelyn
+pe_subset: 'false'
+ns_subset: 'false'
+nb_subset: 'false'
+environmental_subset: 'false'
+occurrence_subset: occurrence_subset
+order: '09'
 layout: data_item
 collection: inputs
 thumbnail: "/img/derivatives/simple/cbc/thumbnail.jpg"

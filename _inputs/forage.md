@@ -18,6 +18,12 @@ cell_size: 30 m
 organization_individual: Individual
 closed_consent_received: 
 temporal_coverage: 
+assignee: Courtney
+pe_subset: 'false'
+ns_subset: 'false'
+nb_subset: 'false'
+environmental_subset: environmental_subset
+occurrence_subset: 'false'
 order: '67'
 layout: data_item
 collection: inputs

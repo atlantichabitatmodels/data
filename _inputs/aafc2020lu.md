@@ -26,6 +26,12 @@ cell_size:
 organization_individual: Organization
 closed_consent_received: 
 temporal_coverage: 1990-2021
+assignee: Grant
+pe_subset: 'false'
+ns_subset: 'false'
+nb_subset: 'false'
+environmental_subset: environmental_subset
+occurrence_subset: 'false'
 order: '49'
 layout: data_item
 collection: inputs

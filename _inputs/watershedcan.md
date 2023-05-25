@@ -25,7 +25,13 @@ cell_size:
 organization_individual: Organization
 closed_consent_received: 
 temporal_coverage: 
-order: '5'
+assignee: Jocelyn
+pe_subset: 'false'
+ns_subset: 'false'
+nb_subset: 'false'
+environmental_subset: environmental_subset
+occurrence_subset: 'false'
+order: '05'
 layout: data_item
 collection: inputs
 thumbnail: "/img/derivatives/simple/watershedcan/thumbnail.jpg"

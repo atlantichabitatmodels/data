@@ -17,6 +17,12 @@ cell_size:
 organization_individual: Organization
 closed_consent_received: 
 temporal_coverage: 
+assignee: Miranda
+pe_subset: 'false'
+ns_subset: 'false'
+nb_subset: 'false'
+environmental_subset: 'false'
+occurrence_subset: 'false'
 order: '15'
 layout: data_item
 collection: inputs

@@ -33,7 +33,13 @@ cell_size: half-degree latitude and longitude
 organization_individual: Organization
 closed_consent_received: 
 temporal_coverage: 
-order: '1'
+assignee: Jocelyn
+pe_subset: 'false'
+ns_subset: 'false'
+nb_subset: 'false'
+environmental_subset: 'false'
+occurrence_subset: 'false'
+order: '01'
 layout: data_item
 collection: inputs
 thumbnail: "/img/derivatives/simple/aquamaps/thumbnail.jpg"

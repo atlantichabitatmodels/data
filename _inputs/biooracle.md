@@ -19,7 +19,13 @@ cell_size: 5 arcmin
 organization_individual: Organization
 closed_consent_received: 
 temporal_coverage: 
-order: '2'
+assignee: Jocelyn
+pe_subset: 'false'
+ns_subset: 'false'
+nb_subset: 'false'
+environmental_subset: environmental_subset
+occurrence_subset: 'false'
+order: '02'
 layout: data_item
 collection: inputs
 thumbnail: "/img/derivatives/simple/biooracle/thumbnail.jpg"

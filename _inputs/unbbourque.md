@@ -24,7 +24,13 @@ cell_size: 70 m
 organization_individual: Individual
 closed_consent_received: No consent
 temporal_coverage: 
-order: '8'
+assignee: Jocelyn
+pe_subset: 'false'
+ns_subset: ns_subset
+nb_subset: nb_subset
+environmental_subset: environmental_subset
+occurrence_subset: 'false'
+order: '08'
 layout: data_item
 collection: inputs
 thumbnail: "/img/derivatives/simple/unbbourque/thumbnail.jpg"

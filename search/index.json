@@ -62,7 +62,7 @@ layout: none
     "contact_email": "datarequests@accdc.ca",
     "jurisdiction": "NS|NB|PE|NL|LB",
     "spatial_data_type": "Point",
-    "keywords": "occurrence",
+    "keywords": "occurrence|AC CDC",
     "data_product_type": "Database",
     "cell_size": null,
     "organization_individual": "Organization",
