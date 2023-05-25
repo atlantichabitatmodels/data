@@ -9,7 +9,7 @@ description: Moran, M. D., Zheng, Q., Pavlovic, R., Cousineau, S., Bouchet, V. S
   Particulate Matter Model. 20p.
 taxon_group: not applicable
 ecosystem_type: Terrestrial
-link: unknown
+link: 
 accessibility: By Request
 contact_email: Unknown
 jurisdiction: NS
@@ -23,6 +23,6 @@ temporal_coverage:
 order: '17'
 layout: data_item
 collection: inputs
-thumbnail: ''
-full: ''
+thumbnail: "/img/derivatives/simple/fsaad/thumbnail.jpg"
+full: "/img/derivatives/simple/fsaad/fullwidth.jpg"
 ---

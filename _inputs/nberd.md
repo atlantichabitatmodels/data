@@ -24,6 +24,6 @@ temporal_coverage: various
 order: '33'
 layout: data_item
 collection: inputs
-thumbnail: ''
-full: ''
+thumbnail: "/img/derivatives/simple/nberd/thumbnail.jpg"
+full: "/img/derivatives/simple/nberd/fullwidth.jpg"
 ---

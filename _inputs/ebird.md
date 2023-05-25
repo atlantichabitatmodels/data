@@ -23,6 +23,6 @@ temporal_coverage:
 order: '69'
 layout: data_item
 collection: inputs
-thumbnail: ''
-full: ''
+thumbnail: "/img/derivatives/simple/ebird/thumbnail.jpg"
+full: "/img/derivatives/simple/ebird/fullwidth.jpg"
 ---

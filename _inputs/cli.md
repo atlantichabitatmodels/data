@@ -28,6 +28,6 @@ temporal_coverage:
 order: '68'
 layout: data_item
 collection: inputs
-thumbnail: ''
-full: ''
+thumbnail: "/img/derivatives/simple/cli/thumbnail.jpg"
+full: "/img/derivatives/simple/cli/fullwidth.jpg"
 ---

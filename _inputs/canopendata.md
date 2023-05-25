@@ -18,7 +18,7 @@ cell_size:
 organization_individual: Organization
 closed_consent_received: 
 temporal_coverage: 
-order: '04'
+order: '4'
 layout: data_item
 collection: inputs
 thumbnail: "/img/derivatives/simple/canopendata/thumbnail.jpg"

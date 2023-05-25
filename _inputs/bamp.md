@@ -19,7 +19,7 @@ cell_size: various
 organization_individual: Organization
 closed_consent_received: 
 temporal_coverage: 
-order: '03'
+order: '3'
 layout: data_item
 collection: inputs
 thumbnail: "/img/derivatives/simple/bamp/thumbnail.jpg"

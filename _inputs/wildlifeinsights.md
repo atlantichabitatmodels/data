@@ -23,6 +23,6 @@ temporal_coverage:
 order: '72'
 layout: data_item
 collection: inputs
-thumbnail: ''
-full: ''
+thumbnail: "/img/derivatives/simple/wildlifeinsights/thumbnail.jpg"
+full: "/img/derivatives/simple/wildlifeinsights/fullwidth.jpg"
 ---

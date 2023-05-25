@@ -20,6 +20,6 @@ temporal_coverage:
 order: '66'
 layout: data_item
 collection: inputs
-thumbnail: ''
-full: ''
+thumbnail: "/img/derivatives/simple/anuclim/thumbnail.jpg"
+full: "/img/derivatives/simple/anuclim/fullwidth.jpg"
 ---

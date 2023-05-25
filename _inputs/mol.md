@@ -27,6 +27,6 @@ temporal_coverage:
 order: '70'
 layout: data_item
 collection: inputs
-thumbnail: ''
-full: ''
+thumbnail: "/img/derivatives/simple/mol/thumbnail.jpg"
+full: "/img/derivatives/simple/mol/fullwidth.jpg"
 ---

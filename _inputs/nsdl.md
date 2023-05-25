@@ -23,6 +23,6 @@ temporal_coverage:
 order: '52'
 layout: data_item
 collection: inputs
-thumbnail: ''
-full: ''
+thumbnail: "/img/derivatives/simple/nsdl/thumbnail.jpg"
+full: "/img/derivatives/simple/nsdl/fullwidth.jpg"
 ---

@@ -24,7 +24,7 @@ cell_size: 70 m
 organization_individual: Individual
 closed_consent_received: No consent
 temporal_coverage: 
-order: '08'
+order: '8'
 layout: data_item
 collection: inputs
 thumbnail: "/img/derivatives/simple/unbbourque/thumbnail.jpg"

@@ -19,6 +19,6 @@ temporal_coverage:
 order: '73'
 layout: data_item
 collection: inputs
-thumbnail: ''
-full: ''
+thumbnail: "/img/derivatives/simple/ecosis/thumbnail.jpg"
+full: "/img/derivatives/simple/ecosis/fullwidth.jpg"
 ---

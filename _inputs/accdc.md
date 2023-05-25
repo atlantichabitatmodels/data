@@ -27,7 +27,7 @@ cell_size:
 organization_individual: Organization
 closed_consent_received: Presumed
 temporal_coverage: 1800-Present
-order: '00'
+order: '0'
 layout: data_item
 collection: inputs
 thumbnail: "/img/derivatives/simple/accdc/thumbnail.jpg"

@@ -19,7 +19,7 @@ cell_size: 5 arcmin
 organization_individual: Organization
 closed_consent_received: 
 temporal_coverage: 
-order: '02'
+order: '2'
 layout: data_item
 collection: inputs
 thumbnail: "/img/derivatives/simple/biooracle/thumbnail.jpg"

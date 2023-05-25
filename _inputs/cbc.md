@@ -21,7 +21,7 @@ cell_size:
 organization_individual: Organization
 closed_consent_received: 
 temporal_coverage: 
-order: '09'
+order: '9'
 layout: data_item
 collection: inputs
 thumbnail: "/img/derivatives/simple/cbc/thumbnail.jpg"

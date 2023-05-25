@@ -34,6 +34,6 @@ temporal_coverage:
 order: '64'
 layout: data_item
 collection: inputs
-thumbnail: ''
-full: ''
+thumbnail: "/img/derivatives/simple/nabbs/thumbnail.jpg"
+full: "/img/derivatives/simple/nabbs/fullwidth.jpg"
 ---

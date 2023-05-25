@@ -24,7 +24,7 @@ cell_size:
 organization_individual: Organization
 closed_consent_received: 
 temporal_coverage: 
-order: '06'
+order: '6'
 layout: data_item
 collection: inputs
 thumbnail: "/img/derivatives/simple/cangis/thumbnail.jpg"

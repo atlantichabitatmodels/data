@@ -33,7 +33,7 @@ cell_size: 300 m
 organization_individual: Organization
 closed_consent_received: 
 temporal_coverage: 
-order: '07'
+order: '7'
 layout: data_item
 collection: inputs
 thumbnail: "/img/derivatives/simple/canfootprint/thumbnail.jpg"

@@ -24,6 +24,6 @@ temporal_coverage: 2000-2010
 order: '16'
 layout: data_item
 collection: inputs
-thumbnail: ''
-full: ''
+thumbnail: "/img/derivatives/simple/fec/thumbnail.jpg"
+full: "/img/derivatives/simple/fec/fullwidth.jpg"
 ---

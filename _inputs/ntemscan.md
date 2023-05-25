@@ -34,6 +34,6 @@ temporal_coverage:
 order: '74'
 layout: data_item
 collection: inputs
-thumbnail: ''
-full: ''
+thumbnail: "/img/derivatives/simple/ntemscan/thumbnail.jpg"
+full: "/img/derivatives/simple/ntemscan/fullwidth.jpg"
 ---

@@ -25,7 +25,7 @@ cell_size:
 organization_individual: Organization
 closed_consent_received: 
 temporal_coverage: 
-order: '05'
+order: '5'
 layout: data_item
 collection: inputs
 thumbnail: "/img/derivatives/simple/watershedcan/thumbnail.jpg"

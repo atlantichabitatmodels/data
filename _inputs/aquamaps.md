@@ -33,7 +33,7 @@ cell_size: half-degree latitude and longitude
 organization_individual: Organization
 closed_consent_received: 
 temporal_coverage: 
-order: '01'
+order: '1'
 layout: data_item
 collection: inputs
 thumbnail: "/img/derivatives/simple/aquamaps/thumbnail.jpg"
