@@ -116,6 +116,14 @@ search:
 menu:
   - label: 'Browse'
     link: '/catalogue/'
+  - label: By Province
+    sub:
+    - label: Nova Scotia
+      link: '/nova-scotia/'
+    - label: New Brunswick
+      link: '/new brunswick/'
+    - label: Prince Edward Island
+      link: '/prince-edward-island/'
   - label: 'Search'
     link: '/search/'
   - label: 'Contribute'
