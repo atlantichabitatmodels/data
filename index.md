@@ -27,42 +27,42 @@ This prototype site currently provides access to model data inputs. We hope to e
   <div class="card">
       <img class="card-img-top" src="https://images.unsplash.com/photo-1584619148084-a481b22b78ac?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2239&q=80" alt="All Jurisdictions">
       <div class="card-body">
-        <p class="card-text">Browse data inputs from all jurisdictions in Atlantic Canada</p>
-        <a href="{{ 'catalogue' | relative_url }}" class="btn btn-primary">All Jurisdictions</a>
+        <p class="card-text">Browse all data inputs using a faceted search</p>
+        <a href="{{ 'catalogue' | relative_url }}" class="btn btn-primary">All Data Inputs</a>
       </div>
   </div>
   <div class="card">
     <img class="card-img-top" src="https://images.unsplash.com/photo-1560223202-c24c12cd00c2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2144&q=80" alt="Prince Edward Island">
     <div class="card-body">
-      <p class="card-text">Browse data inputs from Prince Edward Island</p>
+      <p class="card-text">View data inputs from Prince Edward Island</p>
       <a href="{{ 'prince-edward-island' | relative_url }}" class="btn btn-primary">Prince Edward Island</a>
     </div>
   </div>
   <div class="card">
       <img class="card-img-top" src="https://images.unsplash.com/photo-1580764330084-7729b21ae9e2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1548&q=80" alt="Nova Scotia">
       <div class="card-body">
-        <p class="card-text">Browse data inputs from Nova Scotia</p>
+        <p class="card-text">View data inputs from Nova Scotia</p>
         <a href="{{ 'nova-scotia' | relative_url }}" class="btn btn-primary">Nova Scotia</a>
       </div>
     </div>
   <div class="card">
     <img class="card-img-top" src="https://images.unsplash.com/photo-1623512145483-8d63bcac9fef?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1626&q=80" alt="New Brunswick">
     <div class="card-body">
-      <p class="card-text">Browse data inputs from New Brunswick</p>
+      <p class="card-text">View data inputs from New Brunswick</p>
       <a href="{{ 'new-brunswick' | relative_url }}" class="btn btn-primary">New Brunswick</a>
     </div>
   </div>
   <div class="card">
     <img class="card-img-top" src="https://images.unsplash.com/photo-1474511320723-9a56873867b5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1772&q=80" alt="Occurrence data">
     <div class="card-body">
-      <p class="card-text">Browse occurrence data inputs</p>
+      <p class="card-text">View occurrence data inputs</p>
       <a href="{{ 'occurrence' | relative_url }}" class="btn btn-primary">Occurrence data</a>
     </div>
   </div>
   <div class="card">
     <img class="card-img-top" src="https://images.unsplash.com/photo-1519195728061-279b4e41cc15?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2231&q=80" alt="Environmental data">
     <div class="card-body">
-      <p class="card-text">Browse environmental data inputs</p>
+      <p class="card-text">View environmental data inputs</p>
       <a href="{{ 'environmental' | relative_url }}" class="btn btn-primary">Environmental data</a>
     </div>
   </div>
