@@ -52,4 +52,18 @@ This prototype site currently provides access to model data inputs. We hope to e
       <a href="{{ 'new-brunswick' | relative_url }}" class="btn btn-primary">New Brunswick</a>
     </div>
   </div>
+  <div class="card">
+    <img class="card-img-top" src="https://images.unsplash.com/photo-1474511320723-9a56873867b5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1772&q=80" alt="Occurrence data">
+    <div class="card-body">
+      <p class="card-text">Browse occurrence data inputs</p>
+      <a href="{{ 'occurrence' | relative_url }}" class="btn btn-primary">Occurrence data</a>
+    </div>
+  </div>
+  <div class="card">
+    <img class="card-img-top" src="https://images.unsplash.com/photo-1519195728061-279b4e41cc15?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2231&q=80" alt="Environmental data">
+    <div class="card-body">
+      <p class="card-text">Browse environmental data inputs</p>
+      <a href="{{ 'environmental' | relative_url }}" class="btn btn-primary">Environmental data</a>
+    </div>
+  </div>
 </div>
