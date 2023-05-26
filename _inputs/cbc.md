@@ -27,7 +27,7 @@ ns_subset: 'false'
 nb_subset: 'false'
 environmental_subset: 'false'
 occurrence_subset: occurrence_subset
-order: '09'
+order: '08'
 layout: data_item
 collection: inputs
 thumbnail: "/img/derivatives/simple/cbc/thumbnail.jpg"

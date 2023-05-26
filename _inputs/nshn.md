@@ -26,7 +26,7 @@ ns_subset: ns_subset
 nb_subset: 'false'
 environmental_subset: environmental_subset
 occurrence_subset: 'false'
-order: '37'
+order: '36'
 layout: data_item
 collection: inputs
 thumbnail: "/img/derivatives/simple/nshn/thumbnail.jpg"

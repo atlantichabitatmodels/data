@@ -37,7 +37,7 @@ ns_subset: 'false'
 nb_subset: 'false'
 environmental_subset: environmental_subset
 occurrence_subset: 'false'
-order: '74'
+order: '73'
 layout: data_item
 collection: inputs
 thumbnail: "/img/derivatives/simple/ntemscan/thumbnail.jpg"

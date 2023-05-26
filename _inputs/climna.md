@@ -28,7 +28,7 @@ ns_subset: 'false'
 nb_subset: 'false'
 environmental_subset: environmental_subset
 occurrence_subset: 'false'
-order: '10'
+order: '09'
 layout: data_item
 collection: inputs
 thumbnail: "/img/derivatives/simple/climna/thumbnail.jpg"

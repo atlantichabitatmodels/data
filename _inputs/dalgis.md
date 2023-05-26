@@ -24,7 +24,7 @@ ns_subset: ns_subset
 nb_subset: nb_subset
 environmental_subset: environmental_subset
 occurrence_subset: 'false'
-order: '14'
+order: '13'
 layout: data_item
 collection: inputs
 thumbnail: "/img/derivatives/simple/dalgis/thumbnail.jpg"

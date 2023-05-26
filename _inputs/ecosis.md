@@ -22,7 +22,7 @@ ns_subset: 'false'
 nb_subset: 'false'
 environmental_subset: environmental_subset
 occurrence_subset: 'false'
-order: '73'
+order: '72'
 layout: data_item
 collection: inputs
 thumbnail: "/img/derivatives/simple/ecosis/thumbnail.jpg"

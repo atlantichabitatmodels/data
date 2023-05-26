@@ -27,7 +27,7 @@ ns_subset: 'false'
 nb_subset: 'false'
 environmental_subset: 'false'
 occurrence_subset: occurrence_subset
-order: '25'
+order: '24'
 layout: data_item
 collection: inputs
 thumbnail: "/img/derivatives/simple/inat/thumbnail.jpg"

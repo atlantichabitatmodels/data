@@ -27,7 +27,7 @@ ns_subset: ns_subset
 nb_subset: 'false'
 environmental_subset: 'false'
 occurrence_subset: 'false'
-order: '60'
+order: '59'
 layout: data_item
 collection: inputs
 thumbnail: "/img/derivatives/simple/napl/thumbnail.jpg"

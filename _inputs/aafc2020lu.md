@@ -32,7 +32,7 @@ ns_subset: 'false'
 nb_subset: 'false'
 environmental_subset: environmental_subset
 occurrence_subset: 'false'
-order: '49'
+order: '48'
 layout: data_item
 collection: inputs
 thumbnail: "/img/derivatives/simple/aafc2020lu/thumbnail.jpg"

@@ -25,7 +25,7 @@ ns_subset: 'false'
 nb_subset: 'false'
 environmental_subset: environmental_subset
 occurrence_subset: 'false'
-order: '20'
+order: '19'
 layout: data_item
 collection: inputs
 thumbnail: "/img/derivatives/simple/nsodp/thumbnail.jpg"

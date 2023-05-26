@@ -25,7 +25,7 @@ ns_subset: 'false'
 nb_subset: 'false'
 environmental_subset: 'false'
 occurrence_subset: occurrence_subset
-order: '45'
+order: '44'
 layout: data_item
 collection: inputs
 thumbnail: "/img/derivatives/simple/witr/thumbnail.jpg"

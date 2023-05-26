@@ -33,7 +33,7 @@ ns_subset: ns_subset
 nb_subset: 'false'
 environmental_subset: environmental_subset
 occurrence_subset: 'false'
-order: '35'
+order: '34'
 layout: data_item
 collection: inputs
 thumbnail: "/img/derivatives/simple/nsfori/thumbnail.jpg"

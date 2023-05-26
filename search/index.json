@@ -1659,30 +1659,6 @@ layout: none
     "lunr_id": 68
   },
   {
-    "pid": "unbbourque",
-    "label": "Datasets in Support of Climate Change Tree Species Modelling",
-    "short_description": "Spatial environmental datasets generated for research purposes: incident photosynthetically active radiation, growing degree days (an index of heat accumulation), and soil water content.",
-    "description": "Spatial estimates of PAR and SWC are obtained with an existing process-based model, the Landscape Distribution of Soil moisture, Energy, and Temperature model (LanDSET). GDD and average air temperature are estimated from remote sensing data derived primarily from MODIS and Landsat-7 ETM+ optical and thermal (infra-red) image data. Average air temperature and annual precipitation (presented as an interpolation of climate station precipitation measurements) serve as input to the calculation of SWC in LanDSET.",
-    "taxon_group": "not applicable",
-    "ecosystem_type": "Terrestrial",
-    "link": "https://novascotia.ca/natr/forestry/reports/NS-Climate-Change-Project.pdf",
-    "accessibility": "By Request",
-    "contact_email": "cbourque@unb.ca",
-    "jurisdiction": "NS|NB",
-    "spatial_data_type": "Raster",
-    "keywords": "environmental",
-    "data_product_type": "Dataset",
-    "cell_size": "70 m",
-    "organization_individual": "Individual",
-    "closed_consent_received": "No consent",
-    "temporal_coverage": null,
-    "collection": "inputs",
-    "thumbnail": "/img/derivatives/simple/unbbourque/thumbnail.jpg",
-    "content": " ",
-    "permalink": "/inputs/unbbourque",
-    "lunr_id": 69
-  },
-  {
     "pid": "watershedcan",
     "label": "Watersheds in Canada",
     "short_description": "This feature layer depicts the watershed boundaries of Canada and provides a detailed look at drainage areas and water flow for the entire land mass of Canada.",
@@ -1704,7 +1680,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/watershedcan/thumbnail.jpg",
     "content": " ",
     "permalink": "/inputs/watershedcan",
-    "lunr_id": 70
+    "lunr_id": 69
   },
   {
     "pid": "wcrp",
@@ -1728,7 +1704,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/wcrp/thumbnail.jpg",
     "content": " ",
     "permalink": "/inputs/wcrp",
-    "lunr_id": 71
+    "lunr_id": 70
   },
   {
     "pid": "wildlifeinsights",
@@ -1752,7 +1728,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/wildlifeinsights/thumbnail.jpg",
     "content": " ",
     "permalink": "/inputs/wildlifeinsights",
-    "lunr_id": 72
+    "lunr_id": 71
   },
   {
     "pid": "witr",
@@ -1776,7 +1752,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/witr/thumbnail.jpg",
     "content": " ",
     "permalink": "/inputs/witr",
-    "lunr_id": 73
+    "lunr_id": 72
   },
   {
     "pid": "worldclim",
@@ -1800,6 +1776,6 @@ layout: none
     "thumbnail": "/img/derivatives/simple/worldclim/thumbnail.jpg",
     "content": " ",
     "permalink": "/inputs/worldclim",
-    "lunr_id": 74
+    "lunr_id": 73
   }
 ]
