@@ -145,7 +145,7 @@ footer:
     - label: 'Credits'
       link: '/credits'
     - label: 'Contact'
-      link: 'https://atlantichabitatmodels.github.io/communityofpractice/team/'
+      link: 'https://atlantichabitatmodels.github.io/communityofpractice/data-sharing-wg-team/'
     - label: 'Community of Practice'
       link: 'https://atlantichabitatmodels.github.io/communityofpractice/'
     - label: 'Report an Issue'
