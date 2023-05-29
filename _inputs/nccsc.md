@@ -13,8 +13,7 @@ description: 'This dataset contains version 2 of the Stream Classification for t
   characteristics: size, gradient, alkalinity, temperature, and tidal influence.'
 taxon_group: not applicable
 ecosystem_type: Freshwater
-link: https://2c1forest.databasin.org/datasets/3fa5eb769b99496fad0c05c838c8823d/;
-  https://hub.arcgis.com/datasets/4dcfecbda7a54d7f92b03c75679afa66_0/about
+link: https://2c1forest.databasin.org/datasets/3fa5eb769b99496fad0c05c838c8823d
 accessibility: Free
 contact_email: 
 jurisdiction: NB|NS|PE|QC
