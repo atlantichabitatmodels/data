@@ -24,7 +24,7 @@ ns_subset: 'false'
 nb_subset: 'false'
 environmental_subset: 'false'
 occurrence_subset: occurrence_subset
-order: '18'
+order: '018'
 layout: data_item
 collection: inputs
 thumbnail: "/img/derivatives/simple/gbif/thumbnail.jpg"

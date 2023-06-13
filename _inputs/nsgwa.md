@@ -28,7 +28,7 @@ ns_subset: ns_subset
 nb_subset: 'false'
 environmental_subset: environmental_subset
 occurrence_subset: 'false'
-order: '57'
+order: '057'
 layout: data_item
 collection: inputs
 thumbnail: "/img/derivatives/simple/nsgwa/thumbnail.jpg"

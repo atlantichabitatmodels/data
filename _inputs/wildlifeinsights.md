@@ -26,7 +26,7 @@ ns_subset: 'false'
 nb_subset: 'false'
 environmental_subset: 'false'
 occurrence_subset: 'false'
-order: '71'
+order: '071'
 layout: data_item
 collection: inputs
 thumbnail: "/img/derivatives/simple/wildlifeinsights/thumbnail.jpg"

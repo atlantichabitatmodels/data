@@ -29,7 +29,7 @@ ns_subset: 'false'
 nb_subset: 'false'
 environmental_subset: environmental_subset
 occurrence_subset: 'false'
-order: '11'
+order: '011'
 layout: data_item
 collection: inputs
 thumbnail: "/img/derivatives/simple/cioos/thumbnail.jpg"

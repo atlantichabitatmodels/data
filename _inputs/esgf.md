@@ -23,7 +23,7 @@ ns_subset: 'false'
 nb_subset: 'false'
 environmental_subset: 'false'
 occurrence_subset: 'false'
-order: '14'
+order: '014'
 layout: data_item
 collection: inputs
 thumbnail: "/img/derivatives/simple/esgf/thumbnail.jpg"

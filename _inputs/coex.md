@@ -22,7 +22,7 @@ ns_subset: ns_subset
 nb_subset: 'false'
 environmental_subset: 'false'
 occurrence_subset: 'false'
-order: '53'
+order: '053'
 layout: data_item
 collection: inputs
 thumbnail: "/img/derivatives/simple/coex/thumbnail.jpg"

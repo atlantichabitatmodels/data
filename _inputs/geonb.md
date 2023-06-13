@@ -24,7 +24,7 @@ ns_subset: 'false'
 nb_subset: nb_subset
 environmental_subset: environmental_subset
 occurrence_subset: 'false'
-order: '21'
+order: '021'
 layout: data_item
 collection: inputs
 thumbnail: "/img/derivatives/simple/geonb/thumbnail.jpg"

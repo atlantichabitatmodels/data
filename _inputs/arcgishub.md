@@ -29,7 +29,7 @@ ns_subset: 'false'
 nb_subset: 'false'
 environmental_subset: environmental_subset
 occurrence_subset: 'false'
-order: '62'
+order: '062'
 layout: data_item
 collection: inputs
 thumbnail: "/img/derivatives/simple/arcgishub/thumbnail.jpg"

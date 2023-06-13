@@ -22,7 +22,7 @@ ns_subset: 'false'
 nb_subset: nb_subset
 environmental_subset: environmental_subset
 occurrence_subset: 'false'
-order: '30'
+order: '030'
 layout: data_item
 collection: inputs
 thumbnail: "/img/derivatives/simple/nbefi/thumbnail.jpg"

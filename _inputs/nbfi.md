@@ -31,7 +31,7 @@ ns_subset: 'false'
 nb_subset: nb_subset
 environmental_subset: environmental_subset
 occurrence_subset: 'false'
-order: '31'
+order: '031'
 layout: data_item
 collection: inputs
 thumbnail: "/img/derivatives/simple/nbfi/thumbnail.jpg"

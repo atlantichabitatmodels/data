@@ -27,7 +27,7 @@ ns_subset: 'false'
 nb_subset: 'false'
 environmental_subset: environmental_subset
 occurrence_subset: 'false'
-order: '25'
+order: '025'
 layout: data_item
 collection: inputs
 thumbnail: "/img/derivatives/simple/nasaearthsci/thumbnail.jpg"

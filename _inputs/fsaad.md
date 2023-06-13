@@ -26,7 +26,7 @@ ns_subset: ns_subset
 nb_subset: 'false'
 environmental_subset: environmental_subset
 occurrence_subset: 'false'
-order: '16'
+order: '016'
 layout: data_item
 collection: inputs
 thumbnail: "/img/derivatives/simple/fsaad/thumbnail.jpg"

@@ -30,7 +30,7 @@ ns_subset: 'false'
 nb_subset: 'false'
 environmental_subset: 'false'
 occurrence_subset: 'false'
-order: '69'
+order: '069'
 layout: data_item
 collection: inputs
 thumbnail: "/img/derivatives/simple/mol/thumbnail.jpg"

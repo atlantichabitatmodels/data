@@ -19,7 +19,7 @@ ecosystem_type: Marine|Freshwater|Terrestrial
 link: http://accdc.com/en/data-request.html
 accessibility: By Request
 contact_email: datarequests@accdc.ca
-jurisdiction: NS|NB|PE|NL|LB
+jurisdiction: NS|NB|PE|NL
 spatial_data_type: Point
 keywords: occurrence|AC CDC
 data_product_type: Database
@@ -33,7 +33,7 @@ ns_subset: ns_subset
 nb_subset: nb_subset
 environmental_subset: 'false'
 occurrence_subset: occurrence_subset
-order: '00'
+order: '000'
 layout: data_item
 collection: inputs
 thumbnail: "/img/derivatives/simple/accdc/thumbnail.jpg"

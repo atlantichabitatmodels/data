@@ -29,7 +29,7 @@ ns_subset: 'false'
 nb_subset: 'false'
 environmental_subset: environmental_subset
 occurrence_subset: 'false'
-order: '64'
+order: '064'
 layout: data_item
 collection: inputs
 thumbnail: "/img/derivatives/simple/ph/thumbnail.jpg"

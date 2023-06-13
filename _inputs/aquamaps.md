@@ -39,7 +39,7 @@ ns_subset: 'false'
 nb_subset: 'false'
 environmental_subset: 'false'
 occurrence_subset: 'false'
-order: '01'
+order: '001'
 layout: data_item
 collection: inputs
 thumbnail: "/img/derivatives/simple/aquamaps/thumbnail.jpg"

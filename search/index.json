@@ -60,7 +60,7 @@ layout: none
     "link": "http://accdc.com/en/data-request.html",
     "accessibility": "By Request",
     "contact_email": "datarequests@accdc.ca",
-    "jurisdiction": "NS|NB|PE|NL|LB",
+    "jurisdiction": "NS|NB|PE|NL",
     "spatial_data_type": "Point",
     "keywords": "occurrence|AC CDC",
     "data_product_type": "Database",
@@ -73,6 +73,30 @@ layout: none
     "content": " ",
     "permalink": "/inputs/accdc",
     "lunr_id": 2
+  },
+  {
+    "pid": "ads",
+    "label": "Atlantic DataStream",
+    "short_description": "An open access hub for sharing water data. Our mission is to promote knowledge sharing and advance collaborative water stewardship.",
+    "description": "An open access hub for sharing water data. Our mission is to promote knowledge sharing and advance collaborative water stewardship.",
+    "taxon_group": "not applicable",
+    "ecosystem_type": "Marine|Freshwater",
+    "link": "https://atlanticdatastream.ca/",
+    "accessibility": "Free",
+    "contact_email": null,
+    "jurisdiction": "Canada|NL|LB|QC|NB|NS|PE",
+    "spatial_data_type": "Point",
+    "keywords": "environmental|water",
+    "data_product_type": "Data portal",
+    "cell_size": null,
+    "organization_individual": "Organization",
+    "closed_consent_received": null,
+    "temporal_coverage": null,
+    "collection": "inputs",
+    "thumbnail": "/img/derivatives/simple/ads/thumbnail.jpg",
+    "content": " ",
+    "permalink": "/inputs/ads",
+    "lunr_id": 3
   },
   {
     "pid": "anuclim",
@@ -96,7 +120,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/anuclim/thumbnail.jpg",
     "content": " ",
     "permalink": "/inputs/anuclim",
-    "lunr_id": 3
+    "lunr_id": 4
   },
   {
     "pid": "aquamaps",
@@ -120,7 +144,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/aquamaps/thumbnail.jpg",
     "content": " ",
     "permalink": "/inputs/aquamaps",
-    "lunr_id": 4
+    "lunr_id": 5
   },
   {
     "pid": "arcgishub",
@@ -144,7 +168,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/arcgishub/thumbnail.jpg",
     "content": " ",
     "permalink": "/inputs/arcgishub",
-    "lunr_id": 5
+    "lunr_id": 6
   },
   {
     "pid": "bamp",
@@ -168,7 +192,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/bamp/thumbnail.jpg",
     "content": " ",
     "permalink": "/inputs/bamp",
-    "lunr_id": 6
+    "lunr_id": 7
   },
   {
     "pid": "biooracle",
@@ -192,7 +216,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/biooracle/thumbnail.jpg",
     "content": " ",
     "permalink": "/inputs/biooracle",
-    "lunr_id": 7
+    "lunr_id": 8
   },
   {
     "pid": "canfootprint",
@@ -216,7 +240,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/canfootprint/thumbnail.jpg",
     "content": " ",
     "permalink": "/inputs/canfootprint",
-    "lunr_id": 8
+    "lunr_id": 9
   },
   {
     "pid": "cangeomaps",
@@ -240,7 +264,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cangeomaps/thumbnail.jpg",
     "content": " ",
     "permalink": "/inputs/cangeomaps",
-    "lunr_id": 9
+    "lunr_id": 10
   },
   {
     "pid": "cangis",
@@ -264,7 +288,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cangis/thumbnail.jpg",
     "content": " ",
     "permalink": "/inputs/cangis",
-    "lunr_id": 10
+    "lunr_id": 11
   },
   {
     "pid": "canopendata",
@@ -288,7 +312,31 @@ layout: none
     "thumbnail": "/img/derivatives/simple/canopendata/thumbnail.jpg",
     "content": " ",
     "permalink": "/inputs/canopendata",
-    "lunr_id": 11
+    "lunr_id": 12
+  },
+  {
+    "pid": "cansar",
+    "label": "CAN-SAR: a database of Canadian species at risk information",
+    "short_description": "To encourage ongoing synthesis and minimise duplication of efforts, we initiated CAN-SAR: a database of Canadian Species at Risk information.",
+    "description": "Threatened species lists describe the conservation status of species and are key tools used to inform decisions for biodiversity conservation. These lists are rich in information obtained during status assessment and recovery planning processes, ranging from biological attributes to actions that support recovery. Data compiled from species lists allow for analyses, including assessing trends in threats, prioritizing actions, and identifying barriers to achieving recovery objectives. For legally protected species at risk of extinction in Canada, such analyses are challenging owing to a lack of comprehensive and accessible data reflecting information compiled from listing and recovery documents. To encourage ongoing synthesis and minimise duplication of efforts, we initiated CAN-SAR: a database of Canadian Species at Risk information. This transparent, open-access, and searchable database contains information transcribed from listing documents, including listing date, and derived variables. Derived variables required interpretation for which we developed standardised criteria to record information, including classification of recovery actions. The CAN-SAR database is updateable, and will contribute towards improved recovery planning to safeguard species of conservation concern.",
+    "taxon_group": "species at risk",
+    "ecosystem_type": "Marine|Freshwater|Terrestrial",
+    "link": "https://www.nature.com/articles/s41597-022-01381-8#Sec6",
+    "accessibility": "Free",
+    "contact_email": null,
+    "jurisdiction": "Canada",
+    "spatial_data_type": "Unknown",
+    "keywords": "species at risk|occurrence",
+    "data_product_type": "Database",
+    "cell_size": null,
+    "organization_individual": "Individual",
+    "closed_consent_received": null,
+    "temporal_coverage": null,
+    "collection": "inputs",
+    "thumbnail": "/img/derivatives/simple/cansar/thumbnail.jpg",
+    "content": " ",
+    "permalink": "/inputs/cansar",
+    "lunr_id": 13
   },
   {
     "pid": "cbc",
@@ -312,7 +360,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cbc/thumbnail.jpg",
     "content": " ",
     "permalink": "/inputs/cbc",
-    "lunr_id": 12
+    "lunr_id": 14
   },
   {
     "pid": "cioos",
@@ -336,7 +384,31 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cioos/thumbnail.jpg",
     "content": " ",
     "permalink": "/inputs/cioos",
-    "lunr_id": 13
+    "lunr_id": 15
+  },
+  {
+    "pid": "cioosac",
+    "label": "Canadian Integrated Ocean Observing Systems: Atlantic Canada ",
+    "short_description": "The Canadian Integrated Ocean Observing System (CIOOS) is a powerful open-access platform for sharing information about the state of our oceans.",
+    "description": "The Canadian Integrated Ocean Observing System (CIOOS) is a powerful open-access platform for sharing information about the state of our oceans. CIOOS Atlantic is a consortium of partners committed to the development of a data management and dissemination approach for the Atlantic Seaboard. CIOOS Atlantic’s open-access platform can be used to share information about the state of our ocean, to access raw ocean data from different sectors, and to explore regionally-tailored data products.",
+    "taxon_group": "fishes|birds|marine turtles|marine mammals|invertebrates|zooplankton|algae",
+    "ecosystem_type": "Marine",
+    "link": "https://cioosatlantic.ca/",
+    "accessibility": "Free",
+    "contact_email": null,
+    "jurisdiction": "NL|LB|QC|NS|NS|PE",
+    "spatial_data_type": "Raster|Vector",
+    "keywords": "abundance|environmental",
+    "data_product_type": "Data catalogue",
+    "cell_size": null,
+    "organization_individual": "Organization",
+    "closed_consent_received": null,
+    "temporal_coverage": null,
+    "collection": "inputs",
+    "thumbnail": "/img/derivatives/simple/cioosac/thumbnail.jpg",
+    "content": " ",
+    "permalink": "/inputs/cioosac",
+    "lunr_id": 16
   },
   {
     "pid": "cli",
@@ -360,7 +432,31 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cli/thumbnail.jpg",
     "content": " ",
     "permalink": "/inputs/cli",
-    "lunr_id": 14
+    "lunr_id": 17
+  },
+  {
+    "pid": "climdatg",
+    "label": "Climate Data Guide",
+    "short_description": "The Climate Data Guide provides concise and reliable information on the strengths and limitations of the key observational data sets, tools and methods used to evaluate (or initialize or force) Earth system models and to understand the climate system.",
+    "description": "The Climate Data Guide provides concise and reliable information on the strengths and limitations of the key observational data sets, tools and methods used to evaluate (or initialize or force) Earth system models and to understand the climate system.",
+    "taxon_group": "not applicable",
+    "ecosystem_type": "Marine|Freshwater|Terrestrial",
+    "link": "https://climatedataguide.ucar.edu/climate-data",
+    "accessibility": "Free",
+    "contact_email": null,
+    "jurisdiction": "United States|Global|Canada",
+    "spatial_data_type": "Unknown",
+    "keywords": "environmental",
+    "data_product_type": "Data portal",
+    "cell_size": null,
+    "organization_individual": "Organization",
+    "closed_consent_received": null,
+    "temporal_coverage": null,
+    "collection": "inputs",
+    "thumbnail": "/img/derivatives/simple/climdatg/thumbnail.jpg",
+    "content": " ",
+    "permalink": "/inputs/climdatg",
+    "lunr_id": 18
   },
   {
     "pid": "climna",
@@ -384,7 +480,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/climna/thumbnail.jpg",
     "content": " ",
     "permalink": "/inputs/climna",
-    "lunr_id": 15
+    "lunr_id": 19
   },
   {
     "pid": "cmems",
@@ -408,7 +504,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cmems/thumbnail.jpg",
     "content": " ",
     "permalink": "/inputs/cmems",
-    "lunr_id": 16
+    "lunr_id": 20
   },
   {
     "pid": "coex",
@@ -432,7 +528,31 @@ layout: none
     "thumbnail": "/img/derivatives/simple/coex/thumbnail.jpg",
     "content": " ",
     "permalink": "/inputs/coex",
-    "lunr_id": 17
+    "lunr_id": 21
+  },
+  {
+    "pid": "coin",
+    "label": "Coastal and Ocean Information Network Atlantic",
+    "short_description": "The Coastal & Ocean Information Network Atlantic (COINAtlantic) is a non-governmental organization based in Halifax, Nova Scotia, dedicated to supporting coastal and marine spatial planning and decision-making through open data management and information sharing.",
+    "description": null,
+    "taxon_group": "marine organisms",
+    "ecosystem_type": "Marine",
+    "link": "https://www.coinatlantic.ca/",
+    "accessibility": "Free",
+    "contact_email": null,
+    "jurisdiction": "NB|NS|PE|NL|LB",
+    "spatial_data_type": "Raster|Vector",
+    "keywords": "environmental|occurrence|open data",
+    "data_product_type": "Data catalogue",
+    "cell_size": null,
+    "organization_individual": "Organization",
+    "closed_consent_received": null,
+    "temporal_coverage": null,
+    "collection": "inputs",
+    "thumbnail": "/img/derivatives/simple/coin/thumbnail.jpg",
+    "content": " ",
+    "permalink": "/inputs/coin",
+    "lunr_id": 22
   },
   {
     "pid": "criticalhabitat",
@@ -456,7 +576,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/criticalhabitat/thumbnail.jpg",
     "content": " ",
     "permalink": "/inputs/criticalhabitat",
-    "lunr_id": 18
+    "lunr_id": 23
   },
   {
     "pid": "dalgis",
@@ -480,7 +600,55 @@ layout: none
     "thumbnail": "/img/derivatives/simple/dalgis/thumbnail.jpg",
     "content": " ",
     "permalink": "/inputs/dalgis",
-    "lunr_id": 19
+    "lunr_id": 24
+  },
+  {
+    "pid": "dalod",
+    "label": "Dalhousie Oceanography Department",
+    "short_description": "A guide to library resources in oceanography.",
+    "description": "In addition, there are several other databases that contain other types of biological data on right whales, contributed by numerous investigators, including: genetics, blubber thickness measurements, contaminant levels, necropsy findings and health assessment scores. These data are all linked to the Identification database by animal identification number.",
+    "taxon_group": "marine organisms",
+    "ecosystem_type": "Marine",
+    "link": "https://dal.ca.libguides.com/c.php?g=257064&p=5018253",
+    "accessibility": "Free",
+    "contact_email": null,
+    "jurisdiction": "Canada|Global",
+    "spatial_data_type": "Raster|Vector",
+    "keywords": "environmental|occurrence|open data",
+    "data_product_type": "Data catalogue",
+    "cell_size": null,
+    "organization_individual": "Organization",
+    "closed_consent_received": null,
+    "temporal_coverage": null,
+    "collection": "inputs",
+    "thumbnail": "/img/derivatives/simple/dalod/thumbnail.jpg",
+    "content": " ",
+    "permalink": "/inputs/dalod",
+    "lunr_id": 25
+  },
+  {
+    "pid": "dataone",
+    "label": "DataONE",
+    "short_description": "Making data more discoverable, accessible, & usable",
+    "description": "Enabling new science and knowledge creation through universal access to data about life on earth and the environment that sustains it.",
+    "taxon_group": "not applicable",
+    "ecosystem_type": "Marine|Freshwater|Terrestrial",
+    "link": "https://www.dataone.org/",
+    "accessibility": "Free",
+    "contact_email": null,
+    "jurisdiction": "United States|Global|Canada",
+    "spatial_data_type": "Unknown",
+    "keywords": "environmental",
+    "data_product_type": "Data catalogue",
+    "cell_size": null,
+    "organization_individual": "Organization",
+    "closed_consent_received": null,
+    "temporal_coverage": null,
+    "collection": "inputs",
+    "thumbnail": "/img/derivatives/simple/dataone/thumbnail.jpg",
+    "content": " ",
+    "permalink": "/inputs/dataone",
+    "lunr_id": 26
   },
   {
     "pid": "ebird",
@@ -504,7 +672,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/ebird/thumbnail.jpg",
     "content": " ",
     "permalink": "/inputs/ebird",
-    "lunr_id": 20
+    "lunr_id": 27
   },
   {
     "pid": "ecosis",
@@ -528,7 +696,31 @@ layout: none
     "thumbnail": "/img/derivatives/simple/ecosis/thumbnail.jpg",
     "content": " ",
     "permalink": "/inputs/ecosis",
-    "lunr_id": 21
+    "lunr_id": 28
+  },
+  {
+    "pid": "edi",
+    "label": "Environmental Data Initiative",
+    "short_description": "The Environmental Data Initiative (EDI) provides key services and technical expertise to the scientific community that ensure environmental and ecological data are well curated and accessible for discovery and re-use well into the future.",
+    "description": "The Environmental Data Initiative (EDI) provides key services and technical expertise to the scientific community that ensure environmental and ecological data are well curated and accessible for discovery and re-use well into the future. We assist researchers from field stations, individual laboratories, and research projects of all sizes to archive and publish their environmental data. EDI is committed to make data Findable, Accessible, Interoperable, and Reusable (FAIR).",
+    "taxon_group": "all",
+    "ecosystem_type": "Marine|Freshwater|Terrestrial",
+    "link": "https://edirepository.org/",
+    "accessibility": "Free",
+    "contact_email": null,
+    "jurisdiction": "United States",
+    "spatial_data_type": "Unknown",
+    "keywords": "environmental|monitoring|ecological",
+    "data_product_type": "Data catalogue",
+    "cell_size": null,
+    "organization_individual": "Organization",
+    "closed_consent_received": null,
+    "temporal_coverage": null,
+    "collection": "inputs",
+    "thumbnail": "/img/derivatives/simple/edi/thumbnail.jpg",
+    "content": " ",
+    "permalink": "/inputs/edi",
+    "lunr_id": 29
   },
   {
     "pid": "esgf",
@@ -552,7 +744,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/esgf/thumbnail.jpg",
     "content": " ",
     "permalink": "/inputs/esgf",
-    "lunr_id": 22
+    "lunr_id": 30
   },
   {
     "pid": "fec",
@@ -576,7 +768,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/fec/thumbnail.jpg",
     "content": " ",
     "permalink": "/inputs/fec",
-    "lunr_id": 23
+    "lunr_id": 31
   },
   {
     "pid": "forage",
@@ -600,7 +792,31 @@ layout: none
     "thumbnail": "/img/derivatives/simple/forage/thumbnail.jpg",
     "content": " ",
     "permalink": "/inputs/forage",
-    "lunr_id": 24
+    "lunr_id": 32
+  },
+  {
+    "pid": "frdr",
+    "label": "Federated Research Data Repository",
+    "short_description": null,
+    "description": null,
+    "taxon_group": null,
+    "ecosystem_type": null,
+    "link": "https://www.frdr-dfdr.ca/repo/",
+    "accessibility": null,
+    "contact_email": null,
+    "jurisdiction": "Canada",
+    "spatial_data_type": null,
+    "keywords": null,
+    "data_product_type": null,
+    "cell_size": null,
+    "organization_individual": null,
+    "closed_consent_received": null,
+    "temporal_coverage": null,
+    "collection": "inputs",
+    "thumbnail": "/img/derivatives/simple/frdr/thumbnail.jpg",
+    "content": " ",
+    "permalink": "/inputs/frdr",
+    "lunr_id": 33
   },
   {
     "pid": "frogwatch",
@@ -624,7 +840,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/frogwatch/thumbnail.jpg",
     "content": " ",
     "permalink": "/inputs/frogwatch",
-    "lunr_id": 25
+    "lunr_id": 34
   },
   {
     "pid": "fsaad",
@@ -648,7 +864,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/fsaad/thumbnail.jpg",
     "content": " ",
     "permalink": "/inputs/fsaad",
-    "lunr_id": 26
+    "lunr_id": 35
   },
   {
     "pid": "gbif",
@@ -672,7 +888,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/gbif/thumbnail.jpg",
     "content": " ",
     "permalink": "/inputs/gbif",
-    "lunr_id": 27
+    "lunr_id": 36
   },
   {
     "pid": "gca",
@@ -696,7 +912,31 @@ layout: none
     "thumbnail": "/img/derivatives/simple/gca/thumbnail.jpg",
     "content": " ",
     "permalink": "/inputs/gca",
-    "lunr_id": 28
+    "lunr_id": 37
+  },
+  {
+    "pid": "gcis",
+    "label": "Global Change Information System",
+    "short_description": "Connecting global change resources",
+    "description": "The Global Change Information System (GCIS); a product of the U.S. Global Change Research Program (USGCRP); is an open-source, web-based resource designed for use by scientists, decision makers, and the public. As a centralized catalog of all materials and data used for USGCRP products and climate assessments; the system acts as an advanced, multifaceted bibliography, maintaining traceable provenance records of scientific information and providing access to the original data and research. The GCIS documents the cross-links among research papers, researchers, original data, and more and includes links back to authoritative sources for its information. In addition, the GCIS guides users to global change research produced by the 14 USGCRP member agencies.",
+    "taxon_group": "not applicable",
+    "ecosystem_type": "Marine|Freshwater|Terrestrial",
+    "link": "https://data.globalchange.gov/",
+    "accessibility": "Free",
+    "contact_email": null,
+    "jurisdiction": "United States|Global|Canada",
+    "spatial_data_type": "Unknown",
+    "keywords": "environmental",
+    "data_product_type": "Data portal",
+    "cell_size": null,
+    "organization_individual": "Organization",
+    "closed_consent_received": null,
+    "temporal_coverage": null,
+    "collection": "inputs",
+    "thumbnail": "/img/derivatives/simple/gcis/thumbnail.jpg",
+    "content": " ",
+    "permalink": "/inputs/gcis",
+    "lunr_id": 38
   },
   {
     "pid": "geonb",
@@ -720,7 +960,31 @@ layout: none
     "thumbnail": "/img/derivatives/simple/geonb/thumbnail.jpg",
     "content": " ",
     "permalink": "/inputs/geonb",
-    "lunr_id": 29
+    "lunr_id": 39
+  },
+  {
+    "pid": "geoscinl",
+    "label": "GeoScience Online Newfoundland",
+    "short_description": "Interactive Maps of Geology, Geophysics, Geochemistry, Mineral Occurrences, Claims, Drill Core, Reports, and Maps for Newfoundland and Labrador.",
+    "description": "Interactive Maps of Geology, Geophysics, Geochemistry, Mineral Occurrences, Claims, Drill Core, Reports, and Maps for Newfoundland and Labrador.",
+    "taxon_group": "not applicable",
+    "ecosystem_type": "Freshwater|Terrestrial",
+    "link": "https://gis.geosurv.gov.nl.ca/",
+    "accessibility": "Free",
+    "contact_email": null,
+    "jurisdiction": "NL|LB",
+    "spatial_data_type": "Raster|Vector",
+    "keywords": "environmental",
+    "data_product_type": "Data portal",
+    "cell_size": null,
+    "organization_individual": "Organization",
+    "closed_consent_received": null,
+    "temporal_coverage": null,
+    "collection": "inputs",
+    "thumbnail": "/img/derivatives/simple/geoscinl/thumbnail.jpg",
+    "content": " ",
+    "permalink": "/inputs/geoscinl",
+    "lunr_id": 40
   },
   {
     "pid": "gfw",
@@ -744,7 +1008,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/gfw/thumbnail.jpg",
     "content": " ",
     "permalink": "/inputs/gfw",
-    "lunr_id": 30
+    "lunr_id": 41
   },
   {
     "pid": "hwhcm",
@@ -768,7 +1032,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/hwhcm/thumbnail.jpg",
     "content": " ",
     "permalink": "/inputs/hwhcm",
-    "lunr_id": 31
+    "lunr_id": 42
   },
   {
     "pid": "inat",
@@ -792,7 +1056,31 @@ layout: none
     "thumbnail": "/img/derivatives/simple/inat/thumbnail.jpg",
     "content": " ",
     "permalink": "/inputs/inat",
-    "lunr_id": 32
+    "lunr_id": 43
+  },
+  {
+    "pid": "lter",
+    "label": "Long Term Ecological Research Network",
+    "short_description": "The US. long-term ecological research network consists of 28 research programs with a rich history of ecological inquiry and collaboration.",
+    "description": "The US. long-term ecological research network consists of 28 research programs with a rich history of ecological inquiry and collaboration. Bringing together diverse groups of researchers with sustained data collection and ecosystem manipulation experiments, these sites allow each new generation of scientists to apply new tools and explore new questions in systems where the context is well understood, shared, and thoroughly documented. Site profiles contain key information on research, history, people, institutional affiliations, and location for each LTER site as well as links to additional site information.",
+    "taxon_group": "all",
+    "ecosystem_type": "Marine|Freshwater|Terrestrial",
+    "link": "https://lternet.edu/using-lter-data/",
+    "accessibility": "Free",
+    "contact_email": null,
+    "jurisdiction": "United States",
+    "spatial_data_type": "Point",
+    "keywords": "environmental|monitoring",
+    "data_product_type": "Data catalogue",
+    "cell_size": null,
+    "organization_individual": "Organization",
+    "closed_consent_received": null,
+    "temporal_coverage": null,
+    "collection": "inputs",
+    "thumbnail": "/img/derivatives/simple/lter/thumbnail.jpg",
+    "content": " ",
+    "permalink": "/inputs/lter",
+    "lunr_id": 44
   },
   {
     "pid": "mol",
@@ -816,7 +1104,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/mol/thumbnail.jpg",
     "content": " ",
     "permalink": "/inputs/mol",
-    "lunr_id": 33
+    "lunr_id": 45
   },
   {
     "pid": "movebank",
@@ -840,7 +1128,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/movebank/thumbnail.jpg",
     "content": " ",
     "permalink": "/inputs/movebank",
-    "lunr_id": 34
+    "lunr_id": 46
   },
   {
     "pid": "nabbs",
@@ -864,7 +1152,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/nabbs/thumbnail.jpg",
     "content": " ",
     "permalink": "/inputs/nabbs",
-    "lunr_id": 35
+    "lunr_id": 47
   },
   {
     "pid": "napl",
@@ -888,7 +1176,31 @@ layout: none
     "thumbnail": "/img/derivatives/simple/napl/thumbnail.jpg",
     "content": " ",
     "permalink": "/inputs/napl",
-    "lunr_id": 36
+    "lunr_id": 48
+  },
+  {
+    "pid": "narwc",
+    "label": "North Atlantic Right Whale Consortium",
+    "short_description": "The North Atlantic right whale consortium databases.",
+    "description": "The North Atlantic right whale consortium databases were established in 1986 as part of a cooperative right whale research program conducted by the University of Rhode Island, New England Aquarium, Center for Coastal Studies, Woods Hole Oceanographic Institution, and other organizations forming the North Atlantic Right Whale Consortium. The data are comprised of two major datasets: the survey and \"Sightings Database”, maintained and curated by the University of Rhode Island, and the “Identification database” (formally the “Photo-Identification Database\"), maintained and curated by the New England Aquarium.",
+    "taxon_group": "marine mammals",
+    "ecosystem_type": "Marine",
+    "link": "https://www.narwc.org/narwc-databases.html",
+    "accessibility": "By Request",
+    "contact_email": null,
+    "jurisdiction": "Canada|United States",
+    "spatial_data_type": "Point",
+    "keywords": "occurrence|sightings",
+    "data_product_type": "Database",
+    "cell_size": null,
+    "organization_individual": "Organization",
+    "closed_consent_received": null,
+    "temporal_coverage": null,
+    "collection": "inputs",
+    "thumbnail": "/img/derivatives/simple/narwc/thumbnail.jpg",
+    "content": " ",
+    "permalink": "/inputs/narwc",
+    "lunr_id": 49
   },
   {
     "pid": "nasaearthsci",
@@ -912,7 +1224,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/nasaearthsci/thumbnail.jpg",
     "content": " ",
     "permalink": "/inputs/nasaearthsci",
-    "lunr_id": 37
+    "lunr_id": 50
   },
   {
     "pid": "nativeland",
@@ -936,7 +1248,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/nativeland/thumbnail.jpg",
     "content": " ",
     "permalink": "/inputs/nativeland",
-    "lunr_id": 38
+    "lunr_id": 51
   },
   {
     "pid": "naturewatch",
@@ -960,7 +1272,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/naturewatch/thumbnail.jpg",
     "content": " ",
     "permalink": "/inputs/naturewatch",
-    "lunr_id": 39
+    "lunr_id": 52
   },
   {
     "pid": "nbefi",
@@ -984,7 +1296,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/nbefi/thumbnail.jpg",
     "content": " ",
     "permalink": "/inputs/nbefi",
-    "lunr_id": 40
+    "lunr_id": 53
   },
   {
     "pid": "nberd",
@@ -1008,7 +1320,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/nberd/thumbnail.jpg",
     "content": " ",
     "permalink": "/inputs/nberd",
-    "lunr_id": 41
+    "lunr_id": 54
   },
   {
     "pid": "nbfi",
@@ -1032,7 +1344,103 @@ layout: none
     "thumbnail": "/img/derivatives/simple/nbfi/thumbnail.jpg",
     "content": " ",
     "permalink": "/inputs/nbfi",
-    "lunr_id": 42
+    "lunr_id": 55
+  },
+  {
+    "pid": "nccact",
+    "label": "Nature Conservancy of Canada Aquatic Connectivity Tool",
+    "short_description": "NCC's Aquatic Connectivity Tool for the Northern Appalachian - Acadian Region of Canada is designed to assess the relative impacts of aquatic barriers across watersheds in the Maritimes and eastern Quebec.",
+    "description": "NCC's Aquatic Connectivity Tool for the Northern Appalachian - Acadian Region of Canada is designed to assess the relative impacts of aquatic barriers across watersheds in the Maritimes and eastern Quebec. The tool allows users to input ground-truthed passability scores for dams, culverts and other crossings, and prioritize barriers that will have the greatest positive impact for fish and other aquatic wildlife if removed or restored. Users can choose the scale at which they run analyses (e.g. local catchment, primary watershed, entire province, etc.), as well as the ecological communities to benefit from restoration activities (e.g. diadromous fish, resident species). Additionally, 34 different metrics are available for custom-designed scenarios, allowing users to define their own priorities.",
+    "taxon_group": "not applicable",
+    "ecosystem_type": "Freshwater",
+    "link": "https://2c1forest.databasin.org/datasets/a2097617294f49529f87c3630149d63c",
+    "accessibility": "Free",
+    "contact_email": null,
+    "jurisdiction": "NB|NS|PE|QC",
+    "spatial_data_type": "Vector",
+    "keywords": "watercourse|environmental",
+    "data_product_type": "Dataset",
+    "cell_size": null,
+    "organization_individual": "Organization",
+    "closed_consent_received": null,
+    "temporal_coverage": null,
+    "collection": "inputs",
+    "thumbnail": "/img/derivatives/simple/nccact/thumbnail.jpg",
+    "content": " ",
+    "permalink": "/inputs/nccact",
+    "lunr_id": 56
+  },
+  {
+    "pid": "nccara",
+    "label": "Nature Conservancy of Canada Active River Area",
+    "short_description": "The ARA provides a framework for conserving and restoring the ecological integrity of freshwater ecosystems.",
+    "description": "NCC's Active River Area for the Northern Appalachian - Acadian Region. Conserving and restoring healthy stream and river ecosystems requires an integrated approach that not only focuses on the streams and rivers themselves, but also incorporates adjacent floodplains and riparian areas and the dynamic processes that directly link the two. Examples of these natural processes include hydrologic flow regime, sediment transport, turnover of organic matter, habitat connectivity, and maintaining water quality, among others. While the type and degree of influence that these processes have on streams and rivers varies in both time and space, by spatially delineating the full range of landscape features that contribute to these processes, the ARA provides a framework for conserving and restoring the ecological integrity of freshwater ecosystems. For more background information on the original Active River Area project, including applications and utility, please refer to The Active River Area: A Conservation Framework for Protecting Rivers and Streams (Smith et al., 2008).",
+    "taxon_group": "not applicable",
+    "ecosystem_type": "Freshwater",
+    "link": "https://2c1forest.databasin.org/datasets/0ce6df639f504fa9931a2cfe5d100d1b",
+    "accessibility": "Free",
+    "contact_email": null,
+    "jurisdiction": "NB|NS|PE|QC",
+    "spatial_data_type": "Vector",
+    "keywords": "watercourse|environmental",
+    "data_product_type": "Dataset",
+    "cell_size": null,
+    "organization_individual": "Organization",
+    "closed_consent_received": null,
+    "temporal_coverage": null,
+    "collection": "inputs",
+    "thumbnail": "/img/derivatives/simple/nccara/thumbnail.jpg",
+    "content": " ",
+    "permalink": "/inputs/nccara",
+    "lunr_id": 57
+  },
+  {
+    "pid": "nccfcb",
+    "label": "Nature Conservancy of Canada Freshwater Conservation Blueprint",
+    "short_description": "This gallery showcases the Nature Conservancy of Canada's (NCC) Freshwater Conservation Blueprint for the Northern Appalachian–Acadian Region of Canada.",
+    "description": "This gallery showcases the Nature Conservancy of Canada's (NCC) Freshwater Conservation Blueprint for the Northern Appalachian–Acadian Region of Canada. The Freshwater Conservation Blueprint is composed of five planning tools: (1) a stream and river ecosystem classification (2) a watershed health assessment; (3) an aquatic connectivity tool; (4) an Active River Area delineation; (5) a freshwater resilience assessment. These tools collectively aim to assist in setting freshwater conservation and restoration priorities throughout the region, and to promote on-the-ground (and in-the-water) action. All these tools are designed to be applicable at multiple spatial scales, from individual watershed, to the provincial level, and to the region as a whole. We envision the Freshwater Conservation Blueprint enabling organizations of all sizes and mandates to work collaboratively using a common language and consistent data to help guide freshwater conservation and management.",
+    "taxon_group": "not applicable",
+    "ecosystem_type": "Freshwater",
+    "link": "https://2c1forest.databasin.org/galleries/1b5e7612ead34f3a9880a696924bc91e/",
+    "accessibility": "Free",
+    "contact_email": null,
+    "jurisdiction": "NB|NS|PE|QC",
+    "spatial_data_type": "Vector",
+    "keywords": "watercourse|environmental",
+    "data_product_type": "Data portal",
+    "cell_size": null,
+    "organization_individual": "Organization",
+    "closed_consent_received": null,
+    "temporal_coverage": null,
+    "collection": "inputs",
+    "thumbnail": "/img/derivatives/simple/nccfcb/thumbnail.jpg",
+    "content": " ",
+    "permalink": "/inputs/nccfcb",
+    "lunr_id": 58
+  },
+  {
+    "pid": "nccfr",
+    "label": "Nature Conservancy of Canada Freshwater Resilience",
+    "short_description": "NCC's Freshwater Resilience for the Northern Appalachian - Acadian Region GIS dataset is designed to spatially identify functionally connected networks that are most likely to be resilient in the face of climate change, and therefore maintain their full suite of biodiversity.",
+    "description": "NCC's Freshwater Resilience for the Northern Appalachian - Acadian Region GIS dataset is designed to spatially identify functionally connected networks that are most likely to be resilient in the face of climate change, and therefore maintain their full suite of biodiversity. The intended uses of the classification include, (1) providing common data across provincial and state boundaries to facilitate collaborative opportunities, (2) improving provincial-scale freshwater conservation and sustainable management by providing aquatic planning tools where none previously existed, (3) generating new knowledge on aquatic biodiversity patterns, (4) supporting the development of other aquatic tools to assess aquatic health, determine conservation and restoration priorities, and facilitate climate change adaptation planning.",
+    "taxon_group": "not applicable",
+    "ecosystem_type": "Freshwater",
+    "link": "https://2c1forest.databasin.org/datasets/c3b6f4176558444a85f0218b4487749c",
+    "accessibility": "Free",
+    "contact_email": null,
+    "jurisdiction": "NB|NS|PE|QC",
+    "spatial_data_type": "Vector",
+    "keywords": "watercourse|environmental",
+    "data_product_type": "Dataset",
+    "cell_size": null,
+    "organization_individual": "Organization",
+    "closed_consent_received": null,
+    "temporal_coverage": null,
+    "collection": "inputs",
+    "thumbnail": "/img/derivatives/simple/nccfr/thumbnail.jpg",
+    "content": " ",
+    "permalink": "/inputs/nccfr",
+    "lunr_id": 59
   },
   {
     "pid": "nccsc",
@@ -1041,7 +1449,7 @@ layout: none
     "description": "This dataset contains version 2 of the Stream Classification for the Northern Appalachian – Acadian Region of Canada (New Brunswick, Nova Scotia, Prince Edward Island, and eastern Quebec) and cross-border watersheds of the United States (Maine, Vermont, New Hampshire, New York). Using a seamless base hydrography layer for the region, freshwater ecosystems were classified based on five biophysical characteristics: size, gradient, alkalinity, temperature, and tidal influence.",
     "taxon_group": "not applicable",
     "ecosystem_type": "Freshwater",
-    "link": "https://2c1forest.databasin.org/datasets/3fa5eb769b99496fad0c05c838c8823d/; https://hub.arcgis.com/datasets/4dcfecbda7a54d7f92b03c75679afa66_0/about",
+    "link": "https://2c1forest.databasin.org/datasets/3fa5eb769b99496fad0c05c838c8823d",
     "accessibility": "Free",
     "contact_email": null,
     "jurisdiction": "NB|NS|PE|QC",
@@ -1056,7 +1464,31 @@ layout: none
     "thumbnail": "/img/derivatives/simple/nccsc/thumbnail.jpg",
     "content": " ",
     "permalink": "/inputs/nccsc",
-    "lunr_id": 43
+    "lunr_id": 60
+  },
+  {
+    "pid": "nccwha",
+    "label": "Nature Conservancy of Canada Watershed Health Assessment",
+    "short_description": "NCC's Watershed Health Assessment (WHA) for the Northern Appalachian-Acadian Region of Canada is designed to achieve three main objectives.",
+    "description": "NCC's Watershed Health Assessment (WHA) for the Northern Appalachian-Acadian Region of Canada is designed to achieve three main objectives: (1) evaluate the relative health of aquatic systems across the study area by developing a watershed stress index, (2) categorize watersheds based on their ecological similarities to better understand the distribution of aquatic ecosystems, and (3) combine items 1 and 2 to define conservation and restoration priorities for the benefit of freshwater biodiversity.",
+    "taxon_group": "not applicable",
+    "ecosystem_type": "Freshwater",
+    "link": "https://2c1forest.databasin.org/datasets/339f63ca00bf4e86aa1563d25de1185d",
+    "accessibility": "Free",
+    "contact_email": null,
+    "jurisdiction": "NB|NS|PE|QC",
+    "spatial_data_type": "Vector",
+    "keywords": "watercourse|environmental",
+    "data_product_type": "Dataset",
+    "cell_size": null,
+    "organization_individual": "Organization",
+    "closed_consent_received": null,
+    "temporal_coverage": null,
+    "collection": "inputs",
+    "thumbnail": "/img/derivatives/simple/nccwha/thumbnail.jpg",
+    "content": " ",
+    "permalink": "/inputs/nccwha",
+    "lunr_id": 61
   },
   {
     "pid": "nfi",
@@ -1080,7 +1512,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/nfi/thumbnail.jpg",
     "content": " ",
     "permalink": "/inputs/nfi",
-    "lunr_id": 44
+    "lunr_id": 62
   },
   {
     "pid": "nhn",
@@ -1104,7 +1536,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/nhn/thumbnail.jpg",
     "content": " ",
     "permalink": "/inputs/nhn",
-    "lunr_id": 45
+    "lunr_id": 63
   },
   {
     "pid": "noaa",
@@ -1128,7 +1560,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/noaa/thumbnail.jpg",
     "content": " ",
     "permalink": "/inputs/noaa",
-    "lunr_id": 46
+    "lunr_id": 64
   },
   {
     "pid": "nsdl",
@@ -1152,7 +1584,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/nsdl/thumbnail.jpg",
     "content": " ",
     "permalink": "/inputs/nsdl",
-    "lunr_id": 47
+    "lunr_id": 65
   },
   {
     "pid": "nsee",
@@ -1176,7 +1608,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/nsee/thumbnail.jpg",
     "content": " ",
     "permalink": "/inputs/nsee",
-    "lunr_id": 48
+    "lunr_id": 66
   },
   {
     "pid": "nselc",
@@ -1200,7 +1632,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/nselc/thumbnail.jpg",
     "content": " ",
     "permalink": "/inputs/nselc",
-    "lunr_id": 49
+    "lunr_id": 67
   },
   {
     "pid": "nsfi",
@@ -1224,7 +1656,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/nsfi/thumbnail.jpg",
     "content": " ",
     "permalink": "/inputs/nsfi",
-    "lunr_id": 50
+    "lunr_id": 68
   },
   {
     "pid": "nsfn",
@@ -1248,7 +1680,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/nsfn/thumbnail.jpg",
     "content": " ",
     "permalink": "/inputs/nsfn",
-    "lunr_id": 51
+    "lunr_id": 69
   },
   {
     "pid": "nsfori",
@@ -1272,7 +1704,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/nsfori/thumbnail.jpg",
     "content": " ",
     "permalink": "/inputs/nsfori",
-    "lunr_id": 52
+    "lunr_id": 70
   },
   {
     "pid": "nsgdd",
@@ -1296,7 +1728,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/nsgdd/thumbnail.jpg",
     "content": " ",
     "permalink": "/inputs/nsgdd",
-    "lunr_id": 53
+    "lunr_id": 71
   },
   {
     "pid": "nsgeoatlas",
@@ -1320,7 +1752,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/nsgeoatlas/thumbnail.jpg",
     "content": " ",
     "permalink": "/inputs/nsgeoatlas",
-    "lunr_id": 54
+    "lunr_id": 72
   },
   {
     "pid": "nsgwa",
@@ -1344,7 +1776,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/nsgwa/thumbnail.jpg",
     "content": " ",
     "permalink": "/inputs/nsgwa",
-    "lunr_id": 55
+    "lunr_id": 73
   },
   {
     "pid": "nshn",
@@ -1368,7 +1800,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/nshn/thumbnail.jpg",
     "content": " ",
     "permalink": "/inputs/nshn",
-    "lunr_id": 56
+    "lunr_id": 74
   },
   {
     "pid": "nsodp",
@@ -1392,7 +1824,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/nsodp/thumbnail.jpg",
     "content": " ",
     "permalink": "/inputs/nsodp",
-    "lunr_id": 57
+    "lunr_id": 75
   },
   {
     "pid": "nspem",
@@ -1416,7 +1848,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/nspem/thumbnail.jpg",
     "content": " ",
     "permalink": "/inputs/nspem",
-    "lunr_id": 58
+    "lunr_id": 76
   },
   {
     "pid": "nsplv",
@@ -1440,7 +1872,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/nsplv/thumbnail.jpg",
     "content": " ",
     "permalink": "/inputs/nsplv",
-    "lunr_id": 59
+    "lunr_id": 77
   },
   {
     "pid": "nsppa",
@@ -1464,7 +1896,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/nsppa/thumbnail.jpg",
     "content": " ",
     "permalink": "/inputs/nsppa",
-    "lunr_id": 60
+    "lunr_id": 78
   },
   {
     "pid": "nswam",
@@ -1488,7 +1920,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/nswam/thumbnail.jpg",
     "content": " ",
     "permalink": "/inputs/nswam",
-    "lunr_id": 61
+    "lunr_id": 79
   },
   {
     "pid": "ntemscan",
@@ -1512,7 +1944,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/ntemscan/thumbnail.jpg",
     "content": " ",
     "permalink": "/inputs/ntemscan",
-    "lunr_id": 62
+    "lunr_id": 80
   },
   {
     "pid": "obis",
@@ -1536,7 +1968,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/obis/thumbnail.jpg",
     "content": " ",
     "permalink": "/inputs/obis",
-    "lunr_id": 63
+    "lunr_id": 81
   },
   {
     "pid": "ocad",
@@ -1560,7 +1992,79 @@ layout: none
     "thumbnail": "/img/derivatives/simple/ocad/thumbnail.jpg",
     "content": " ",
     "permalink": "/inputs/ocad",
-    "lunr_id": 64
+    "lunr_id": 82
+  },
+  {
+    "pid": "odpnl",
+    "label": "Open Data Newfoundland",
+    "short_description": "Products within the Open Data webpage consist of datasets, which are collections of data, and the applications built from these datasets. ",
+    "description": "Products within the Open Data webpage consist of datasets, which are collections of data, and the applications built from these datasets. The datasets are sourced directly from Government Departments and Agencies and can be tabular (tables of data, such as ferry on-time records) or spatial (based on mapping files, such as zone boundaries or location of hospitals).",
+    "taxon_group": "not applicable",
+    "ecosystem_type": "Marine|Freshwater|Terrestrial",
+    "link": "https://opendata.gov.nl.ca/",
+    "accessibility": "Free",
+    "contact_email": null,
+    "jurisdiction": "NL|LB",
+    "spatial_data_type": "Raster|Vector",
+    "keywords": "environmental",
+    "data_product_type": "Data catalogue",
+    "cell_size": null,
+    "organization_individual": "Organization",
+    "closed_consent_received": null,
+    "temporal_coverage": null,
+    "collection": "inputs",
+    "thumbnail": "/img/derivatives/simple/odpnl/thumbnail.jpg",
+    "content": " ",
+    "permalink": "/inputs/odpnl",
+    "lunr_id": 83
+  },
+  {
+    "pid": "odppei",
+    "label": "Prince Edward Island Open Data Portal",
+    "short_description": "Making government data available, accessible, and re-usable",
+    "description": "Making government data available, accessible, and re-usable",
+    "taxon_group": "not applicable",
+    "ecosystem_type": "Marine|Freshwater|Terrestrial",
+    "link": "https://data.princeedwardisland.ca/",
+    "accessibility": "Free",
+    "contact_email": null,
+    "jurisdiction": "PE",
+    "spatial_data_type": "Raster|Vector",
+    "keywords": "environmental",
+    "data_product_type": "Data catalogue",
+    "cell_size": null,
+    "organization_individual": "Organization",
+    "closed_consent_received": null,
+    "temporal_coverage": null,
+    "collection": "inputs",
+    "thumbnail": "/img/derivatives/simple/odppei/thumbnail.jpg",
+    "content": " ",
+    "permalink": "/inputs/odppei",
+    "lunr_id": 84
+  },
+  {
+    "pid": "onc",
+    "label": "Ocean Networks Canada",
+    "short_description": "Discover the ocean. Understand the planet. Advancing our knowledge of the ocean at a critical time.",
+    "description": "Discover the ocean. Understand the planet. Advancing our knowledge of the ocean at a critical time.",
+    "taxon_group": "marine organisms",
+    "ecosystem_type": "Marine|Freshwater",
+    "link": "https://www.oceannetworks.ca/",
+    "accessibility": "Free",
+    "contact_email": null,
+    "jurisdiction": "Canada",
+    "spatial_data_type": "Unknown",
+    "keywords": "environmental",
+    "data_product_type": "Data portal",
+    "cell_size": null,
+    "organization_individual": "Organization",
+    "closed_consent_received": null,
+    "temporal_coverage": null,
+    "collection": "inputs",
+    "thumbnail": "/img/derivatives/simple/onc/thumbnail.jpg",
+    "content": " ",
+    "permalink": "/inputs/onc",
+    "lunr_id": 85
   },
   {
     "pid": "otnc",
@@ -1584,7 +2088,31 @@ layout: none
     "thumbnail": "/img/derivatives/simple/otnc/thumbnail.jpg",
     "content": " ",
     "permalink": "/inputs/otnc",
-    "lunr_id": 65
+    "lunr_id": 86
+  },
+  {
+    "pid": "pdc",
+    "label": "Polar Data Catalogue",
+    "short_description": "The Polar Data Catalogue is a CoreTrustSeal Certified Repository of metadata and data that describes and provides access to diverse data sets generated by Arctic and Antarctic researchers.",
+    "description": "The Polar Data Catalogue is a CoreTrustSeal Certified Repository of metadata and data that describes and provides access to diverse data sets generated by Arctic and Antarctic researchers. The metadata records follow International Organization for Standardization (ISO) 19115 and Federal Geographic Data Committee (FGDC) standard formats to provide exchange with other data centres. The records cover a wide range of disciplines from natural sciences and policy, to health and social sciences. The PDC Geospatial Search tool is available to the public and researchers alike and allows searching data using a mapping interface and other parameters.",
+    "taxon_group": "not applicable",
+    "ecosystem_type": "Marine|Freshwater|Terrestrial",
+    "link": "https://www.polardata.ca/",
+    "accessibility": "Free",
+    "contact_email": null,
+    "jurisdiction": "United States|Global|Canada",
+    "spatial_data_type": "Unknown",
+    "keywords": "environmental|arctic|antarctic",
+    "data_product_type": "Data catalogue",
+    "cell_size": null,
+    "organization_individual": "Organization",
+    "closed_consent_received": null,
+    "temporal_coverage": null,
+    "collection": "inputs",
+    "thumbnail": "/img/derivatives/simple/pdc/thumbnail.jpg",
+    "content": " ",
+    "permalink": "/inputs/pdc",
+    "lunr_id": 87
   },
   {
     "pid": "ph",
@@ -1608,7 +2136,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/ph/thumbnail.jpg",
     "content": " ",
     "permalink": "/inputs/ph",
-    "lunr_id": 66
+    "lunr_id": 88
   },
   {
     "pid": "plne",
@@ -1632,7 +2160,55 @@ layout: none
     "thumbnail": "/img/derivatives/simple/plne/thumbnail.jpg",
     "content": " ",
     "permalink": "/inputs/plne",
-    "lunr_id": 67
+    "lunr_id": 89
+  },
+  {
+    "pid": "re3data",
+    "label": "Registry of Research Data Repositories",
+    "short_description": "Canadian research data repositories in re3data: A collaborative effort to increase visibility and foster community engagement",
+    "description": "Canadian research data repositories in re3data: A collaborative effort to increase visibility and foster community engagement",
+    "taxon_group": "all",
+    "ecosystem_type": "Marine|Freshwater|Terrestrial",
+    "link": "https://www.re3data.org/",
+    "accessibility": "Free",
+    "contact_email": null,
+    "jurisdiction": "Canada|Global",
+    "spatial_data_type": "Raster|Vector",
+    "keywords": "environmental|occurrence|open data",
+    "data_product_type": "Data catalogue",
+    "cell_size": null,
+    "organization_individual": "Organization",
+    "closed_consent_received": null,
+    "temporal_coverage": null,
+    "collection": "inputs",
+    "thumbnail": "/img/derivatives/simple/re3data/thumbnail.jpg",
+    "content": " ",
+    "permalink": "/inputs/re3data",
+    "lunr_id": 90
+  },
+  {
+    "pid": "substrate",
+    "label": "A Physiographic Coastline Classification of the Scotian Shelf Bioregion and Environs: The Nova Scotia Coastline and the New Brunswick Fundy Shore",
+    "short_description": null,
+    "description": null,
+    "taxon_group": null,
+    "ecosystem_type": "Marine",
+    "link": "https://publications.gc.ca/collections/collection_2013/mpo-dfo/Fs70-5-2012-051-eng.pdf",
+    "accessibility": "Free",
+    "contact_email": null,
+    "jurisdiction": null,
+    "spatial_data_type": null,
+    "keywords": null,
+    "data_product_type": null,
+    "cell_size": null,
+    "organization_individual": null,
+    "closed_consent_received": null,
+    "temporal_coverage": null,
+    "collection": "inputs",
+    "thumbnail": "",
+    "content": " ",
+    "permalink": "/inputs/substrate",
+    "lunr_id": 91
   },
   {
     "pid": "trspincafoec",
@@ -1656,7 +2232,79 @@ layout: none
     "thumbnail": "/img/derivatives/simple/trspincafoec/thumbnail.jpg",
     "content": " ",
     "permalink": "/inputs/trspincafoec",
-    "lunr_id": 68
+    "lunr_id": 92
+  },
+  {
+    "pid": "ubcfish",
+    "label": "UBC Institute of Fisheries Field Records",
+    "short_description": "The UBC Fish Collection holds over 850,000 specimens and over 50,000 DNA and tissue samples making it the third-largest fish collection in Canada.",
+    "description": "The UBC Fish Collection holds over 850,000 specimens and over 50,000 DNA and tissue samples making it the third-largest fish collection in Canada. These fish specimens are described in over 11,200 records that contain data on species co-occurrences and habitat and environmental conditions associated with each collection over a more than 100 year period. The \"fish notebooks\" that contain these collection records provide an invaluable biological time series and context for each collection. The data have been used in environmental assessments, conservation efforts, and numerous research projects such as documenting regime shifts in the Bering Sea, the formation of new species, and the extinction of others as well as in educating and training some of Canada's leading fish biologists. This digitization project make this data globally accessible. See more about the Fish Collection at the Beaty Biodiversity Museum.",
+    "taxon_group": "fishes",
+    "ecosystem_type": "Marine",
+    "link": "https://open.library.ubc.ca/collections/fisheries",
+    "accessibility": "Free",
+    "contact_email": null,
+    "jurisdiction": "Canada",
+    "spatial_data_type": "Field Records",
+    "keywords": "occurrence|field records",
+    "data_product_type": "Database",
+    "cell_size": null,
+    "organization_individual": "Organization",
+    "closed_consent_received": null,
+    "temporal_coverage": null,
+    "collection": "inputs",
+    "thumbnail": "/img/derivatives/simple/ubcfish/thumbnail.jpg",
+    "content": " ",
+    "permalink": "/inputs/ubcfish",
+    "lunr_id": 93
+  },
+  {
+    "pid": "unbbourque",
+    "label": "Datasets in Support of Climate Change Tree Species Modelling",
+    "short_description": "Spatial environmental datasets generated for research purposes: incident photosynthetically active radiation, growing degree days (an index of heat accumulation), and soil water content.",
+    "description": "Spatial estimates of PAR and SWC are obtained with an existing process-based model, the Landscape Distribution of Soil moisture, Energy, and Temperature model (LanDSET). GDD and average air temperature are estimated from remote sensing data derived primarily from MODIS and Landsat-7 ETM+ optical and thermal (infra-red) image data. Average air temperature and annual precipitation (presented as an interpolation of climate station precipitation measurements) serve as input to the calculation of SWC in LanDSET.",
+    "taxon_group": "not applicable",
+    "ecosystem_type": "Terrestrial",
+    "link": "https://novascotia.ca/natr/forestry/reports/NS-Climate-Change-Project.pdf",
+    "accessibility": "By Request",
+    "contact_email": "cbourque@unb.ca",
+    "jurisdiction": "NS|NB",
+    "spatial_data_type": "Raster",
+    "keywords": "environmental",
+    "data_product_type": "Dataset",
+    "cell_size": "70 m",
+    "organization_individual": "Individual",
+    "closed_consent_received": "No consent",
+    "temporal_coverage": null,
+    "collection": "inputs",
+    "thumbnail": "/img/derivatives/simple/unbbourque/thumbnail.jpg",
+    "content": " ",
+    "permalink": "/inputs/unbbourque",
+    "lunr_id": 94
+  },
+  {
+    "pid": "usseabed",
+    "label": "usSEABED",
+    "short_description": "usSEABED provides integrated data from small and large marine research efforts by many entities.",
+    "description": "usSEABED is the collaborative product of the U.S. Geological Survey, the University of Colorado, and other partners, and provides integrated data from small and large marine research efforts by many entities—federal and state agencies, local authorities, universities, as well as private and public consortiums.",
+    "taxon_group": "not applicable",
+    "ecosystem_type": "Marine",
+    "link": "https://www.usgs.gov/programs/cmhrp/science/usseabed",
+    "accessibility": "Free",
+    "contact_email": null,
+    "jurisdiction": "United States",
+    "spatial_data_type": "Point",
+    "keywords": "environmental|sediments",
+    "data_product_type": "Data portal",
+    "cell_size": null,
+    "organization_individual": "Organization",
+    "closed_consent_received": null,
+    "temporal_coverage": null,
+    "collection": "inputs",
+    "thumbnail": "/img/derivatives/simple/usseabed/thumbnail.jpg",
+    "content": " ",
+    "permalink": "/inputs/usseabed",
+    "lunr_id": 95
   },
   {
     "pid": "watershedcan",
@@ -1680,7 +2328,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/watershedcan/thumbnail.jpg",
     "content": " ",
     "permalink": "/inputs/watershedcan",
-    "lunr_id": 69
+    "lunr_id": 96
   },
   {
     "pid": "wcrp",
@@ -1704,7 +2352,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/wcrp/thumbnail.jpg",
     "content": " ",
     "permalink": "/inputs/wcrp",
-    "lunr_id": 70
+    "lunr_id": 97
   },
   {
     "pid": "wildlifeinsights",
@@ -1728,7 +2376,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/wildlifeinsights/thumbnail.jpg",
     "content": " ",
     "permalink": "/inputs/wildlifeinsights",
-    "lunr_id": 71
+    "lunr_id": 98
   },
   {
     "pid": "witr",
@@ -1752,7 +2400,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/witr/thumbnail.jpg",
     "content": " ",
     "permalink": "/inputs/witr",
-    "lunr_id": 72
+    "lunr_id": 99
   },
   {
     "pid": "worldclim",
@@ -1776,6 +2424,6 @@ layout: none
     "thumbnail": "/img/derivatives/simple/worldclim/thumbnail.jpg",
     "content": " ",
     "permalink": "/inputs/worldclim",
-    "lunr_id": 73
+    "lunr_id": 100
   }
 ]

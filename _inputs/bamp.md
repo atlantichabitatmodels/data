@@ -25,7 +25,7 @@ ns_subset: 'false'
 nb_subset: 'false'
 environmental_subset: environmental_subset
 occurrence_subset: occurrence_subset
-order: '03'
+order: '003'
 layout: data_item
 collection: inputs
 thumbnail: "/img/derivatives/simple/bamp/thumbnail.jpg"
