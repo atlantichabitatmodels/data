@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Occurrence Data Sources
+disqus: false
 permalink: /occurrence/
 ---
 

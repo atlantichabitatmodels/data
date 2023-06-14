@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Browse the Data Catalogue
+disqus: false
 gallery: True
 permalink: /catalogue/
 ---

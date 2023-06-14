@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Credits
+disqus: false
 permalink: '/credits/'
 ---
 

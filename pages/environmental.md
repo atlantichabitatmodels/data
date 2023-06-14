@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Environmental Data Sources
+disqus: false
 permalink: /environmental/
 ---
 

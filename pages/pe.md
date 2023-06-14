@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Prince Edward Island Data Sources
+disqus: false
 permalink: /prince-edward-island/
 ---
 

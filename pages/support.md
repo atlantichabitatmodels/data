@@ -1,6 +1,7 @@
 ---
 layout: page
 title: How to Support This Resource
+disqus: false
 permalink: /support/
 ---
 

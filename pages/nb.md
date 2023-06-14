@@ -1,6 +1,7 @@
 ---
 layout: page
 title: New Brunswick Data Sources
+disqus: false
 permalink: /new-brunswick/
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Nova Scotia Data Sources
+disqus: false
 permalink: /nova-scotia/
 ---
 

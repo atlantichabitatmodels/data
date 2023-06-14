@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Search the Data Inputs Catalogue
+disqus: false
 permalink: /search/
 ---
 
