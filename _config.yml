@@ -132,6 +132,10 @@ menu:
     sub:
     - label: 'Information to Include in a Data Request'
       link: '/requesting-data/'
+    - label: 'Why is Data Sharing So Hard'
+      link: '/data-sharing-challenges/'
+    - label: 'Data Sharing Recommendations'
+      link: '/data-sharing-recommendations/'      
 
 # --------------------------------------------------------------
 # SITE FOOTER SETTINGS
