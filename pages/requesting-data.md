@@ -9,26 +9,26 @@ Sometimes data cannot be accessed without explicit permission from the data hold
 ### Project description
 What are you studying
 
+### Project objectives
+Outline the goals, objectives or rationale of your project
+
 ### Key players
-Who will be involved in the project, university affiliations
+Who will be involved in the project? Be sure to include university affiliations, government affiliations, etc.
 
-### Objectives
-Goals of your project
+### Data usage
+In what way will you use the data? Why will using this data help your study?
 
-### Data usage (research, government, etc.)
-Why will using this data help your study
+### Data requirements
+Think about what data you need (data fields, extent, etc.). Sometimes the data provider may have recommendations based on the information you provide them.
 
 ### Reference or citation
-How will you give credit to the people that provided the data, will talks be held, and will research be published
+How will you give credit to the people that provided the data?
 
-### How results will be shared/published
-Will it be in a journal, thesis, presentation
+### How results will be shared or published
+Will your results be shared in a journal, thesis or presentation?
 
-### Whether or not willing to sign an NDA
-Are there requirements for them to provide data to you
-
-### What you're looking for (data fields, extent, general info, etc.)
-Let the organization know the rationale for your study, what is looking for, if they have any recommendations based on what info you provide them, etc.
+### Data sharing requirements
+Think about any requirements that may exist for you to receive data. Are willing to sign an NDA or data sharing agreement?
 
 ### Contact information
-Your contact info
+Your contact information. Are you the primary contact?
